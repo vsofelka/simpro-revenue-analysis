@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: fct_deals
+    description: Fact table with one row per deal, joined to stage metadata
+    columns:
+      - name: deal_id
+        description: Unique deal identifier
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_contacts
+    description: Contact dimension — one row per HubSpot contact
+    columns:
+      - name: contact_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_stages
+    description: Pipeline stage dimension — one row per stage
+    columns:
+      - name: stage_id
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_date
+    description: Date spine covering 2020-01-01 through 2029-12-31
+    columns:
+      - name: date_day
+        tests:
+          - unique
+          - not_null
