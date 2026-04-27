@@ -90,7 +90,7 @@ cd dbt && dbt run && dbt test
 
 ## Business Questions Answered
 
-1. Where are deals getting stuck in the pipeline?
-2. Which pipeline stages have the lowest conversion rates?
+1. Where are deals getting stuck in the sales pipeline?
+2. Which lead sources drive the highest conversion rates and revenue?
 3. How does deal velocity trend over time?
-4. What is the average deal size by stage?
+4. What factors predict deal close probability?
