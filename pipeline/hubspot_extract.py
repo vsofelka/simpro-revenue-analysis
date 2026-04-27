@@ -22,13 +22,14 @@ def get_snowflake_conn():
         user=SNOWFLAKE_USER,
         password=SNOWFLAKE_PASSWORD,
         warehouse=SNOWFLAKE_WAREHOUSE,
-        database=SNOWFLAKE_DATABASE,
         role=SNOWFLAKE_ROLE,
     )
 
 
 def setup_raw_schema(conn):
     cur = conn.cursor()
+    cur.execute(f"CREATE DATABASE IF NOT EXISTS {SNOWFLAKE_DATABASE}")
+    cur.execute(f"USE DATABASE {SNOWFLAKE_DATABASE}")
     cur.execute("CREATE SCHEMA IF NOT EXISTS RAW")
     cur.execute("""
         CREATE TABLE IF NOT EXISTS RAW.HUBSPOT_DEALS (
