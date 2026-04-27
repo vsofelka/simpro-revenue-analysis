@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: hubspot
+    database: "{{ env_var('SNOWFLAKE_DATABASE') }}"
+    schema: raw
+    tables:
+      - name: deals
+        identifier: HUBSPOT_DEALS
+      - name: contacts
+        identifier: HUBSPOT_CONTACTS
+      - name: stages
+        identifier: HUBSPOT_STAGES

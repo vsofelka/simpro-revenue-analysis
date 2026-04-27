@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_deals
+    description: Cleaned deal records from HubSpot CRM
+    columns:
+      - name: deal_id
+        description: Unique HubSpot deal identifier
+        tests:
+          - unique
+          - not_null
+      - name: deal_name
+        tests:
+          - not_null
+      - name: deal_stage
+        tests:
+          - not_null
+
+  - name: stg_contacts
+    description: Cleaned contact records from HubSpot CRM
+    columns:
+      - name: contact_id
+        description: Unique HubSpot contact identifier
+        tests:
+          - unique
+          - not_null
+
+  - name: stg_pipeline_stages
+    description: Pipeline stage reference data from HubSpot
+    columns:
+      - name: stage_id
+        description: Unique stage identifier
+        tests:
+          - unique
+          - not_null
