@@ -4,7 +4,7 @@ import time
 from pathlib import Path
 
 from dotenv import load_dotenv
-from firecrawl import FirecrawlApp
+from firecrawl import V1FirecrawlApp as FirecrawlApp
 
 load_dotenv()
 
@@ -38,6 +38,12 @@ URLS = [
     ("servicetitan_about",        "https://www.servicetitan.com/about"),
     ("jobber_about",              "https://getjobber.com/about/"),
     ("fieldedge_about",           "https://fieldedge.com/about-us/"),
+    # additional backup sources
+    ("simpro_integrations",       "https://www.simprogroup.com/integrations"),
+    ("jobber_features",           "https://getjobber.com/features/"),
+    ("servicetitan_features",     "https://www.servicetitan.com/features"),
+    ("trustpilot_simpro",         "https://www.trustpilot.com/review/simprogroup.com"),
+    ("g2_fsm_grid",               "https://www.g2.com/categories/field-service-management?tab=highest_rated"),
 ]
 
 
@@ -48,8 +54,8 @@ def slugify(name: str) -> str:
 def scrape_and_save(app: FirecrawlApp, name: str, url: str) -> bool:
     try:
         print(f"Scraping: {url}")
-        result = app.scrape_url(url, params={"formats": ["markdown"]})
-        content = result.get("markdown", "")
+        result = app.scrape_url(url, formats=["markdown"])
+        content = result.markdown or ""
         if not content or len(content) < 200:
             print(f"  SKIP (too short or empty): {url}")
             return False

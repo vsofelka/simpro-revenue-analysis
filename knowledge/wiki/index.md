@@ -17,16 +17,11 @@ All scraped source documents live in `knowledge/raw/`. Each file is named by sou
 | File | Source |
 |---|---|
 | `simpro_about.md` | simprogroup.com/about-us |
-| `simpro_solutions.md` | simprogroup.com/solutions |
 | `simpro_features.md` | simprogroup.com/features |
 | `simpro_pricing.md` | simprogroup.com/pricing |
 | `simpro_customers.md` | simprogroup.com/customers |
 | `simpro_blog.md` | simprogroup.com/blog |
 | `g2_simpro_reviews.md` | g2.com — simPRO reviews |
-| `g2_simpro_overview.md` | g2.com — simPRO product page |
-| `g2_fsm_category.md` | g2.com — Field Service Management category |
-| `g2_simpro_vs_servicetitan.md` | g2.com — simPRO vs. ServiceTitan comparison |
-| `capterra_simpro.md` | capterra.com — simPRO profile |
 | `capterra_simpro_reviews.md` | capterra.com — simPRO reviews |
 | `capterra_fsm_comparison.md` | capterra.com — FSM software comparison |
 | `getapp_simpro.md` | getapp.com — simPRO profile |
@@ -34,7 +29,9 @@ All scraped source documents live in `knowledge/raw/`. Each file is named by sou
 | `softwareadvice_simpro.md` | softwareadvice.com — simPRO profile |
 | `techradar_fsm_software.md` | techradar.com — best FSM software roundup |
 | `servicetitan_about.md` | servicetitan.com/about |
+| `servicetitan_features.md` | servicetitan.com/features |
 | `jobber_about.md` | getjobber.com/about |
+| `jobber_features.md` | getjobber.com/features |
 | `fieldedge_about.md` | fieldedge.com/about-us |
 
 ## How to Query
