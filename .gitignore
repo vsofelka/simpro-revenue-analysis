@@ -40,3 +40,7 @@ Thumbs.db
 *.pem
 *.key
 credentials.json
+
+# Planning artifacts (local only)
+docs/superpowers/
+docs/sample_deals.csv

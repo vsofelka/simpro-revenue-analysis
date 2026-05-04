@@ -1,0 +1,35 @@
+name: Scrape Knowledge Base Sources
+
+on:
+  schedule:
+    - cron: '0 8 * * 0'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install firecrawl-py python-dotenv
+
+      - name: Run Firecrawl scrape
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: python pipeline/firecrawl_scrape.py
+
+      - name: Commit scraped sources
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add knowledge/raw/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update knowledge base sources [automated]"
+          git push
