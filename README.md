@@ -119,7 +119,7 @@ erDiagram
 
 ## Live Dashboard
 
-**URL:** <!-- Replace with your Streamlit public URL after deployment -->
+**URL:** https://sports-data-analysis-4ap8pslmvze2gzdbkumuau.streamlit.app/
 
 ## Knowledge Base
 
