@@ -14,11 +14,11 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.1 out of 5 star rating on Trustpilot\\
+4 out of 5 star rating on Trustpilot\\
 \\
-**674** reviews on\\
+**679** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.1 out of 5. 674 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4 out of 5. 679 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee.Learn more
 
@@ -72,9 +72,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.1 out of 5 star rating on Trustpilot\\
+4 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.1 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 On this page
 
@@ -149,9 +149,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.1 out of 5 star rating on Trustpilot\\
+4 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.1 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 ## Simpro User Interface
 
@@ -234,7 +234,7 @@ Alternative Product
 
 4.6
 
-[(1440)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
+[(1456)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
 
 Ratings Breakdown
 
@@ -280,7 +280,7 @@ Alternative Product
 
 4.5
 
-[(20627)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20634)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -303,7 +303,7 @@ Alternative Product
 
 4.4
 
-[(3284)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3287)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
@@ -326,7 +326,7 @@ Alternative Product
 
 4.5
 
-[(4511)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
+[(4513)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
 
 Ratings Breakdown
 
@@ -427,7 +427,7 @@ $124.42 per month
 
 3.88 [(422 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**206**
+**255**
 
 recommendations
 
@@ -435,9 +435,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4694 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4706 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**56**
+**55**
 
 recommendations
 
@@ -447,7 +447,7 @@ $22.00 per month
 
 4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
 
-**32**
+**37**
 
 recommendations
 
@@ -457,17 +457,17 @@ $400.00 per month
 
 5.00 [(1 reviews)](https://www.softwareadvice.com/accounting/dokka-profile/reviews/)
 
-**31**
+**35**
 
 recommendations
 
-[![Plooto](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F22005f3b-b62c-493b-ab30-06f7d86db352.png&w=96&q=75)Plooto](https://www.softwareadvice.com/accounting/plooto-profile/)
+[![Mango Practice Management](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fc8622c46-e455-4e7b-abb4-b3f2d7d68516.png&w=96&q=75)Mango Practice Management](https://www.softwareadvice.com/bpm/mangobilling-profile/)
 
-CA$9.00 per month
+$35.00 per month
 
-4.34 [(241 reviews)](https://www.softwareadvice.com/accounting/plooto-profile/reviews/)
+3.82 [(60 reviews)](https://www.softwareadvice.com/bpm/mangobilling-profile/reviews/)
 
-**13**
+**12**
 
 recommendations
 
@@ -499,7 +499,7 @@ Invoice Creation
 
 3.83
 
-4.38 category average
+4.36 category average
 
 Simpro's Worst Rated Features
 
@@ -1575,25 +1575,26 @@ The reason was mainly due to pricing & specific business needs.
 
 Read More
 
-CW
+![Christian's profile](https://cdn0.capterra-static.com/profile-images/linkedin/928b5c6b95bbf43cbbe456ba69fce1a0.jpeg)
 
-Christine W.
+Christian B.
 
 Verified reviewer
 
-Construction
+Security and Investigations
 
-11-50 employees
+2-10 employees
 
-Used daily for more than 2 years
+Used daily for less than 6 months
 
-Review source
+Reviewed October 2019
 
-Reviewed July 2025
-
-Very easy and convenience to use
+Good software for Service based Trades
 
 4
+
+I had used it briefly, then went another route due to some "must haves" I had with the mobile app.
+The mobile app has since come a long way and appears to have become much more usable for field techs.
 
 Ratings Breakdown
 
@@ -1617,13 +1618,27 @@ icon
 
 Pros:
 
-I started use Simpro since 2021 and crossed three different entities.
-
-Very easy and convenience to use.
+With my employees being in the field and primarily using the mobile, it's nice to have a "mobile only" license for them.
+Other companies require everyone to have a full license which, in my opinion, is a waste since they won't use 10% of what that entails
 
 Cons:
 
-The problem is that we could not copy files/jobs from one entity to another entity, only some basic information
+Mandatory on-site setup and no ability to have a trial instance
+
+Reasons for choosing Simpro
+
+SimPRO has offline capabilities with the app which is good since I am in the mountains and can't always get enough signal to clock in/out or get job information.
+
+Reasons for switching to Simpro
+
+WorkflowMax and Xero bumped up their rates which brought the pricepoint into this tier
+
+Vendor Response
+
+Hi Christian, thank you for your feedback. It's great to hear that your company is benefiting from simPRO's mobile capabilities! If you ever need help with any simPRO features, be sure to visit the simPRO Helpdesk (https://helpdesk.simprogroup.com/) to contact Customer Support or to access our Help Guide resources.
+Best, Team simPRO
+
+Replied October 2019
 
 Read More
 
@@ -2190,12 +2205,48 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.1 out of 5 star rating on Trustpilot\\
+4 out of 5 star rating on Trustpilot\\
 \\
-Based on **674 reviews**\\
+Based on **679 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[sir Bobby was very helpful and informative.\\
+\\
+Review by\\
+\\
+gel,\\
+\\
+2 days ago\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69fdf0ef290730aefa986d58?utm_medium=trustbox&utm_source=Carousel)
+- 4 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[very good!!!!\\
+\\
+Review by\\
+\\
+はに,\\
+\\
+2 days ago\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69fdc788273cefc5ae225161?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
 
 
@@ -2211,7 +2262,7 @@ Review by\\
 \\
 Charmaine Reid,\\
 \\
-3 days ago\\
+May 1\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69f3d3de1fcd14ac0dc99c5b?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
@@ -2430,41 +2481,5 @@ Daniela Brandlin,\\
 March 18\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69bb040a1a676d50e4dfcd55?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Software Advice's team did a great job recommending products and even had those...\\
-\\
-Review by\\
-\\
-Jennifer McFall,\\
-\\
-March 18\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69bac675201bad4f3e229875?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[The advisors at Software Advice are professional, kind and efficient. They are k...\\
-\\
-Review by\\
-\\
-Lydia Porter,\\
-\\
-March 17\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69b95a0730aa594b5316cb08?utm_medium=trustbox&utm_source=Carousel)
 
 Showing our 4 & 5 star reviews

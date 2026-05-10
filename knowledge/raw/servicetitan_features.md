@@ -530,7 +530,7 @@ ServiceTitan Pro Products bring an even bigger enhancement to your overall exper
 
 [Explore Pro](https://www.servicetitan.com/features/pro)
 
-###### WE'RE JUST GETTING STARTED
+WE'RE JUST GETTING STARTED
 
 ## View these features in action with a free demo
 

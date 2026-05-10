@@ -29,11 +29,13 @@ How Jobber Works in 60 Seconds - YouTube
 
 Tap to unmute
 
+1x
+
 [How Jobber Works in 60 Seconds](https://www.youtube.com/watch?v=YuXZvGGe2SE) [Jobber](https://www.youtube.com/channel/UCYMQLrbOUA94BWrlrSJn9yw)
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber47.3K subscribers
+Jobber47.4K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
@@ -873,7 +875,7 @@ Find more business with ready-to-run email marketing campaigns, postcards, Faceb
 
 ### Over 350,000 home service pros in 50+ industries trust Jobber
 
-##### JOBBER REVIEWS
+### JOBBER REVIEWS
 
 ![](https://www.getjobber.com/wp-content/uploads/2022/11/logo-capterra.svg)(Based on 710 Capterra reviews)
 

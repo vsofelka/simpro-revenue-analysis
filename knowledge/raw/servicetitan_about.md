@@ -6,11 +6,11 @@
 
 ![Slide 0](https://images.ctfassets.net/3q1a0w8cwuwf/5v8iT3HMQhj3nJHQbvJJdg/cfec73762f41782af43a1eb0797c9414/IMG_6316.jpeg)![Slide 1](https://images.ctfassets.net/3q1a0w8cwuwf/2tapLcexXhZkG0KIOnU4fc/febb007a2857b2302be254f08f356438/IMG_6315.jpeg)![Slide 2](https://images.ctfassets.net/3q1a0w8cwuwf/63yedctbngJV971XfuTMxz/fabee7cba49fe2ba52808876887a4069/IMG_6314.jpeg)![Slide 3](https://images.ctfassets.net/3q1a0w8cwuwf/4P3BLlLnoVXJqr6u61XTvP/cda01553691cc3c2bf6f721c7037d526/Image_row_2.jpg)
 
-# The \#1 software for
+# AI software for commercial
 
-# commercial and residential trades
+# and residential trades
 
-# The \#1 software for commercial and residential trades
+# AI software for commercial and residential trades
 
 Thanks! Tell us a little
 

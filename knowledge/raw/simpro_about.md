@@ -14,7 +14,7 @@ Fast forward: Today Simpro is the leading global AI-first operating system for r
 
 ## Why We Exist
 
-Because trades are the backbone of the economy. You keep the lights on. You keep water flowing. You keep buildings safe. You deserve profits that match the value of your work. Our mission is simple: **double contractor profitability**. Not “optimize,” not “revolutionize,” not any of that buzzword mumbo jumbo. Double it. Period.
+Because trades are the backbone of the economy. You keep the lights on. You keep water flowing. You keep buildings safe. You deserve profits that match the value of your work. Our mission is simple: **double contractor profitability**. Not “optimise,” not “revolutionise,” not any of that buzzword mumbo jumbo. Double it. Period.
 
 [Quick Tour![arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/arrow-stone.svg)](https://www.simprogroup.com/tours/simpro)
 
@@ -36,7 +36,7 @@ It’s not about chasing unicorn dreams. It’s about running tighter, smarter, 
 
 ![Addressing the Labor Shortage icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Resources_ResBlue.svg)
 
-###### Addressing the Labor Shortage
+###### Addressing the Labour Shortage
 
 We’re investing in the trades – tech, education, business support and more – to make your team more productive and your business more attractive to top talent.
 
@@ -100,7 +100,7 @@ Learn more
 
 [![LinkedIn Logo](https://www.simprogroup.com/user/themes/simpro/images/icons/linkedin-logo-stone.svg)](https://www.linkedin.com/in/coreyodonnell/)
 
-## Honors & awards
+## Honours & awards
 
 ![G2 Spring 2025 Grid Leader Small Business](https://www.simprogroup.com/user/pages/company/about-us/07._awards/G2-Grid-Leader-2x.png)
 
