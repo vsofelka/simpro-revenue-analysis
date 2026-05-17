@@ -152,6 +152,14 @@ We’ve got something for everyone. Join us today!
 Press\\
 \\
 \\
+Simpro Group Launches Lightning: A Purpose-Built, AI-Native Operating Platform for the Field Service Trades](https://www.simprogroup.com/company/press/simpro-group-unveils-lightning)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Trends\\
 \\
 \\
@@ -164,17 +172,6 @@ Press\\
 \\
 \\
 Simpro Q1 2026: More Profit Per Job](https://www.simprogroup.com/company/press/simpro-q1-2026-more-profit-per-job)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-Simpro Featured on Schwab Network: Why AI Is Powering a New Era of Growth in the Trades](https://www.simprogroup.com/company/press/simpro-featured-on-schwab-network-why-ai-is-powering-a-new-era-of-growth-in-the-trades)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 
@@ -186,6 +183,14 @@ Simpro Featured on Schwab Network: Why AI Is Powering a New Era of Growth in the
 Press\\
 \\
 \\
+Simpro Group Launches Lightning: A Purpose-Built, AI-Native Operating Platform for the Field Service Trades](https://www.simprogroup.com/company/press/simpro-group-unveils-lightning)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Trends\\
 \\
 \\
@@ -198,17 +203,6 @@ Press\\
 \\
 \\
 Simpro Q1 2026: More Profit Per Job](https://www.simprogroup.com/company/press/simpro-q1-2026-more-profit-per-job)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-Simpro Featured on Schwab Network: Why AI Is Powering a New Era of Growth in the Trades](https://www.simprogroup.com/company/press/simpro-featured-on-schwab-network-why-ai-is-powering-a-new-era-of-growth-in-the-trades)
 
 We’re here for you,
 

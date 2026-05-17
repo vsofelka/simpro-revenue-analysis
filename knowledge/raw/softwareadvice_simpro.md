@@ -14,11 +14,11 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4 out of 5 star rating on Trustpilot\\
+3.9 out of 5 star rating on Trustpilot\\
 \\
-**679** reviews on\\
+**684** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4 out of 5. 679 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 3.9 out of 5. 684 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee.Learn more
 
@@ -72,9 +72,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4 out of 5 star rating on Trustpilot\\
+3.9 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 3.9 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 On this page
 
@@ -149,9 +149,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4 out of 5 star rating on Trustpilot\\
+3.9 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 3.9 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 ## Simpro User Interface
 
@@ -280,7 +280,7 @@ Alternative Product
 
 4.5
 
-[(20634)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20637)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -303,7 +303,7 @@ Alternative Product
 
 4.4
 
-[(3287)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3290)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
@@ -326,7 +326,7 @@ Alternative Product
 
 4.5
 
-[(4513)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
+[(4514)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
 
 Ratings Breakdown
 
@@ -425,9 +425,9 @@ User rating
 
 $124.42 per month
 
-3.88 [(422 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
+3.88 [(423 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**255**
+**275**
 
 recommendations
 
@@ -435,19 +435,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4706 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4762 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**55**
-
-recommendations
-
-[![Canopy](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fcd76892f-c11a-4f2d-948a-fd800d702efd.png&w=96&q=75)Canopy](https://www.softwareadvice.com/product/127735-Canopy-Tax/)
-
-$22.00 per month
-
-4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
-
-**37**
+**53**
 
 recommendations
 
@@ -457,7 +447,17 @@ $400.00 per month
 
 5.00 [(1 reviews)](https://www.softwareadvice.com/accounting/dokka-profile/reviews/)
 
-**35**
+**42**
+
+recommendations
+
+[![Canopy](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fcd76892f-c11a-4f2d-948a-fd800d702efd.png&w=96&q=75)Canopy](https://www.softwareadvice.com/product/127735-Canopy-Tax/)
+
+$22.00 per month
+
+4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
+
+**39**
 
 recommendations
 
@@ -499,7 +499,7 @@ Invoice Creation
 
 3.83
 
-4.36 category average
+4.37 category average
 
 Simpro's Worst Rated Features
 
@@ -513,13 +513,13 @@ Forms Management
 
 2.50
 
-3.58 category average
+3.63 category average
 
 Quotes/Estimates
 
 2.86
 
-3.90 category average
+3.88 category average
 
 - Popular features found in Billing and Invoicing
 
@@ -2205,9 +2205,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4 out of 5 star rating on Trustpilot\\
+3.9 out of 5 star rating on Trustpilot\\
 \\
-Based on **679 reviews**\\
+Based on **684 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
@@ -2226,7 +2226,7 @@ Review by\\
 \\
 gel,\\
 \\
-2 days ago\\
+May 8\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69fdf0ef290730aefa986d58?utm_medium=trustbox&utm_source=Carousel)
 - 4 out of 5 star rating on Trustpilot
@@ -2244,7 +2244,7 @@ Review by\\
 \\
 はに,\\
 \\
-2 days ago\\
+May 8\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69fdc788273cefc5ae225161?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot

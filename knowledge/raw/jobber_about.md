@@ -27,13 +27,13 @@ Starting a business is a huge leap of faith, and we see people make that jump ev
 Sam Pillar, Jobber CEO
 
 
-![Testimonial Avatar](https://www.getjobber.com/wp-content/uploads/2019/06/sam_avatar.jpg)
+![Testimonial Avatar](https://www.getjobber.com/wp-content/uploads/2026/05/Sam_Headshot_96x96.png)
 
 $100B+
 
 Invoiced using Jobber
 
-350k+
+400k+
 
 service professionals
 
@@ -94,7 +94,7 @@ As Jobber CEO Sam remembers it, _“When I met Graham he was struggling with inv
 
 In 2011, Graham, owner of Painters Enterprise, had 3 employees and worked out of 1 city. He loved running his own painting business but was struggling to keep up with the paperwork, administrative tasks, and data entry that came with running a service business. As Forrest recalls, _“We started with a very basic setup that minimized his paperwork problem; getting his invoicing, client records, and team schedules into an online framework that we quickly realized multiple businesses could benefit from. We knew that a lot of the headaches business owners were feeling were shared between industries (scheduling the unexpected, reacting to problems quickly, drowning in paperwork, inability to grow their business, customer expectations, etc). We discovered that fixing a single process problem for one industry consequently fixed the same problem in 100 other industries. **That was our aha moment. It wasn’t just about fixing the problems that one business experienced it was about fixing the entire system in which home service businesses operated in.”**_
 
-We’ve come a long way from our first customer in 2011. Today, we help over 350,000 people like Graham run successful home service businesses. What happened to Graham and Painters Enterprise?
+We’ve come a long way from our first customer in 2011. Today, we help over 400,000 people like Graham run successful home service businesses. What happened to Graham and Painters Enterprise?
 
 Today, Graham has 4 locations in 3 cities and a team of 16.
 
@@ -127,5 +127,3 @@ Recaptcha requires verification.
 protected by **reCAPTCHA**
 
 ![](https://www.googleadservices.com/pagead/conversion/933084093/?label=qoZoCJ3Qt9QDEL339rwD&guid=ON&script=0)
-
-mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1

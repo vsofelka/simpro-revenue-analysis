@@ -9,7 +9,6 @@ Here are some other helpful links:
 - [Software Categories](https://www.capterra.com/categories/)
 - [Write a Review](https://reviews.capterra.com/search)
 - [Blogs & Research](https://www.capterra.com/resources/)
-- [FAQs](https://www.capterra.com/faq/)
 
 or if you're not sure where to go, feel free to email us at [info@capterra.com](mailto:info@capterra.com)
 

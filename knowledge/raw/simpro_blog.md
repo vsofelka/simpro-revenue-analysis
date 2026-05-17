@@ -2,31 +2,31 @@
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
 Business Tips\\
 \\
-**Plumbing Management Tips to Run a Profitable Business** \\
+**Best HVAC Mobile Apps for Technicians & Contractors** \\
 \\
-May 7, 2026](https://www.simprogroup.com/blog/plumbing-management-tips)
+May 15, 2026](https://www.simprogroup.com/blog/best-mobile-app-for-hvac-technicians)
 
 [Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**How to Run a Successful HVAC Business** \\
+\\
+May 14, 2026](https://www.simprogroup.com/blog/how-to-run-a-successful-hvac-business) [Blog\\
 \\
 Electrical\\
 \\
 Business Tips\\
 \\
-**7 Best Electrical Job Management Software Tools For Growing Contractors** \\
+**How to Run a Successful Electrical Business** \\
 \\
-May 7, 2026](https://www.simprogroup.com/blog/url--best-electrical-job-management-software) [Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**8 Best Plumbing Job Management Software Tools for Growing Plumbing Businesses** \\
-\\
-May 6, 2026](https://www.simprogroup.com/blog/best-plumbing-job-management-software)
+May 14, 2026](https://www.simprogroup.com/blog/how-to-run-a-successful-electrical-business)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 

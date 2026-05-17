@@ -176,6 +176,14 @@ Return customer rate
 
 Potential revenue growth
 
+## Build your legacy on a strong foundation. Build your legacy with ServiceTitan.
+
+![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='1900'%20width='3136'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
+
+![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=750&h=454&q=85&fm=webp&bg=transparent%20750w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1080&h=654&q=85&fm=webp&bg=transparent%201080w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1366&h=828&q=85&fm=webp&bg=transparent%201366w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1920&h=1163&q=85&fm=webp&bg=transparent%201920w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=3136&h=1900&q=85&fm=webp&bg=transparent%203136w)
+
+From maximizing net profits and the lifetime value of customers to improving workforce productivity, ServiceTitan is the partner you can depend on today, tomorrow, and for many years to come.
+
 ## Built for the Trades, Built for Your Business
 
 [![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='450'%20width='1000'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)\\
@@ -339,14 +347,6 @@ From bid to completion, Jackson Services can now track every phase and keep ever
 ## 70+ pre-built integrations
 
 ServiceTitan has over 70+ pre-built integrations, including leading commercial solutions like ServiceChannel, XOi, Viewpoint Spectrum, Sage, Ferguson, and more.
-
-## Build your legacy on a strong foundation. Build your legacy with ServiceTitan.
-
-![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='1900'%20width='3136'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
-
-![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=750&h=454&q=85&fm=webp&bg=transparent%20750w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1080&h=654&q=85&fm=webp&bg=transparent%201080w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1366&h=828&q=85&fm=webp&bg=transparent%201366w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=1920&h=1163&q=85&fm=webp&bg=transparent%201920w,https://images.ctfassets.net/3q1a0w8cwuwf/4IdUPknhRqtBP55dPGImbR/6282b89e4cfb7f39892bc747b385b56d/VideoThumbnail.png?w=3136&h=1900&q=85&fm=webp&bg=transparent%203136w)
-
-From maximizing net profits and the lifetime value of customers to improving workforce productivity, ServiceTitan is the partner you can depend on today, tomorrow, and for many years to come.
 
 GET A DEMO
 
