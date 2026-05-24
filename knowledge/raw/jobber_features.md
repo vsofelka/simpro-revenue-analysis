@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/features/#)
 
-[Business grants up to $100,000:\\
-Apply Now](https://www.getjobber.com/grants/)
+[Limited time offer: Save up to 35%\\
+Save Now](https://www.getjobber.com/pricing/)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
@@ -33,7 +33,7 @@ Tap to unmute
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber47.5K subscribers
+Jobber47.6K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
