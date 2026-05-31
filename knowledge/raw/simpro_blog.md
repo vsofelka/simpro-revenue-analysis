@@ -2,11 +2,13 @@
 
 [Blog\\
 \\
-News\\
+HVAC\\
 \\
-**Simpro Wins Best in SaaS Awards for Third Consecutive Year** \\
+Sales & Marketing\\
 \\
-May 21, 2026](https://www.simprogroup.com/blog/simpro-wins-best-in-saas-awards-for-third-consecutive-year)
+**HVAC Advertising Examples: Real Ads That Book More Jobs** \\
+\\
+May 28, 2026](https://www.simprogroup.com/blog/hvac-advertising-examples)
 
 [Blog\\
 \\
@@ -14,17 +16,17 @@ Electrical\\
 \\
 Business Tips\\
 \\
-**Best Electrical Inventory Software for Contractors** \\
+**Electrician Advertising Examples: Real Ads That Work** \\
 \\
-May 20, 2026](https://www.simprogroup.com/blog/best-electrical-inventory-management-software) [Blog\\
+May 27, 2026](https://www.simprogroup.com/blog/electrical-advertising-examples) [Blog\\
 \\
-HVAC\\
+Plumbing\\
 \\
 Business Tips\\
 \\
-**Best HVAC Inventory Management Software** \\
+**Plumbing Price Book: What It Is & How to Build One** \\
 \\
-May 20, 2026](https://www.simprogroup.com/blog/best-hvac-inventory-management-software)
+May 26, 2026](https://www.simprogroup.com/blog/plumbing-price-book)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -44,92 +46,96 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
-News\\
+HVAC\\
 \\
-**Simpro Wins Best in SaaS Awards for Third Consecutive Year** \\
+Sales & Marketing\\
 \\
-May 20, 2026](https://www.simprogroup.com/blog/simpro-wins-best-in-saas-awards-for-third-consecutive-year)
-
-[Blog\\
+**HVAC Advertising Examples: Real Ads That Book More Jobs** \\
 \\
-Electrical\\
-\\
-Business Tips\\
-\\
-**Best Electrical Inventory Software for Contractors** \\
-\\
-May 20, 2026](https://www.simprogroup.com/blog/best-electrical-inventory-management-software)
+May 28, 2026](https://www.simprogroup.com/blog/hvac-advertising-examples)
 
 [Blog\\
 \\
 HVAC\\
 \\
-Business Tips\\
+Sales & Marketing\\
 \\
-**Best HVAC Inventory Management Software** \\
+**Electrician Advertising Examples: Real Ads That Work** \\
 \\
-May 20, 2026](https://www.simprogroup.com/blog/best-hvac-inventory-management-software)
+May 27, 2026](https://www.simprogroup.com/blog/electrical-advertising-examples)
 
 [Blog\\
 \\
-Electrical\\
+HVAC\\
 \\
-Business Tips\\
+Sales & Marketing\\
 \\
-**Best Mobile Apps for Electrical Contractors & Techs** \\
+**Plumbing Price Book: What It Is & How to Build One** \\
 \\
-May 19, 2026](https://www.simprogroup.com/blog/best-mobile-app-for-electrical-technicians)
+May 26, 2026](https://www.simprogroup.com/blog/plumbing-price-book)
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
-Business Tips\\
+Sales & Marketing\\
 \\
-**Best Mobile Apps for Plumbing Technicians** \\
+**How to Build & Maintain an HVAC Price Book in 2026** \\
 \\
-May 19, 2026](https://www.simprogroup.com/blog/best-mobile-app-for-plumbing-technicians)
+May 26, 2026](https://www.simprogroup.com/blog/hvac-price-book)
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
-Cash Flow\\
+Sales & Marketing\\
 \\
-**How to Create a Plumbing Maintenance Agreement Template** \\
+**How to Build an Electrical Contractor Price Book** \\
 \\
-May 19, 2026](https://www.simprogroup.com/blog/plumbing-maintenance-agreement-template)
+May 26, 2026](https://www.simprogroup.com/blog/electrical-contractor-price-book)
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
-Business Tips\\
+Sales & Marketing\\
 \\
-**Plumbing Proposal Template: What to Include + How to Write One** \\
+**Best Plumbing Inventory Software & Apps** \\
 \\
-May 19, 2026](https://www.simprogroup.com/blog/plumbing-proposal-template)
+May 26, 2026](https://www.simprogroup.com/blog/best-plumbing-inventory-management-software)
 
 [Blog\\
 \\
-Business Tips\\
+HVAC\\
 \\
-Trends\\
+Sales & Marketing\\
 \\
-**Your FSM Is the Heart of Your Business. We Just Gave It a Brain.** \\
+**The New Standard for Becoming a Profitable Trades Business** \\
 \\
-May 17, 2026](https://www.simprogroup.com/blog/your-fsm-is-the-heart-of-your-business-we-just-gave-it-a-brain)
+May 25, 2026](https://www.simprogroup.com/blog/the-new-standard-for-becoming-a-profitable-trades-business)
 
 [Blog\\
 \\
-Electrical\\
+HVAC\\
 \\
-**Built with Purpose: How Alykan Electrical Is Redefining Success in the Trades** \\
+Sales & Marketing\\
 \\
-May 17, 2026](https://www.simprogroup.com/blog/heroes-of-the-trade-alykan-electrical)
+**Simpro Wins Best in SaaS Awards for Third Consecutive Year** \\
+\\
+May 21, 2026](https://www.simprogroup.com/blog/simpro-wins-best-in-saas-awards-for-third-consecutive-year)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Sales & Marketing\\
+\\
+**Best Electrical Inventory Software for Contractors** \\
+\\
+May 20, 2026](https://www.simprogroup.com/blog/best-electrical-inventory-management-software)
 
 There are no results to display.
 
 1
 
-23456...46
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:26) [47](https://www.simprogroup.com/blog/page:47)

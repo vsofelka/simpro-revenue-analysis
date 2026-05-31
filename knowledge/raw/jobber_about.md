@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/about/#)
 
-[Limited time offer: Save up to 35%\\
-Save Now](https://www.getjobber.com/pricing/)
+[Business grants from $10K to $100K: \\
+Apply Now](https://www.getjobber.com/grants/)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
