@@ -16,9 +16,9 @@ Trustpilot Custom Widget
 \\
 4.2 out of 5 star rating on Trustpilot\\
 \\
-**676** reviews on\\
+**677** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.2 out of 5. 676 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.2 out of 5. 677 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee. Learn more
 
@@ -264,7 +264,7 @@ Alternative Product
 
 4.6
 
-[(1456)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
+[(1457)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
 
 Ratings Breakdown
 
@@ -287,7 +287,7 @@ Alternative Product
 
 4.7
 
-[(2739)](https://www.softwareadvice.com/construction/housecall-profile/reviews/)
+[(2740)](https://www.softwareadvice.com/construction/housecall-profile/reviews/)
 
 Ratings Breakdown
 
@@ -310,7 +310,7 @@ Alternative Product
 
 4.5
 
-[(20642)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20648)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -333,7 +333,7 @@ Alternative Product
 
 4.4
 
-[(3295)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3298)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
@@ -356,7 +356,7 @@ Alternative Product
 
 4.5
 
-[(4516)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
+[(4517)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
 
 Ratings Breakdown
 
@@ -455,9 +455,9 @@ User rating
 
 $124.42 per month
 
-3.89 [(433 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
+3.91 [(445 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**252**
+**239**
 
 recommendations
 
@@ -465,9 +465,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4781 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4790 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**154**
+**160**
 
 recommendations
 
@@ -477,17 +477,17 @@ $22.00 per month
 
 4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
 
-**63**
+**66**
 
 recommendations
 
-[![DOKKA](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F27ba828c-860f-48a6-a038-e354ff505db3.png&w=96&q=75)DOKKA](https://www.softwareadvice.com/accounting/dokka-profile/)
+[![Mango Practice Management](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fc8622c46-e455-4e7b-abb4-b3f2d7d68516.png&w=96&q=75)Mango Practice Management](https://www.softwareadvice.com/bpm/mangobilling-profile/)
 
-$400.00 per month
+$35.00 per month
 
-5.00 [(1 reviews)](https://www.softwareadvice.com/accounting/dokka-profile/reviews/)
+3.82 [(60 reviews)](https://www.softwareadvice.com/bpm/mangobilling-profile/reviews/)
 
-**58**
+**16**
 
 recommendations
 
@@ -495,9 +495,9 @@ recommendations
 
 $49.00 per month
 
-4.66 [(525 reviews)](https://www.softwareadvice.com/legal/paypanther-profile/reviews/)
+4.66 [(527 reviews)](https://www.softwareadvice.com/legal/paypanther-profile/reviews/)
 
-**14**
+**12**
 
 recommendations
 
@@ -529,7 +529,7 @@ Online Invoicing
 
 4.0
 
-4.23 category average
+4.24 category average
 
 Simpro's Worst Rated Features
 
@@ -2213,11 +2213,11 @@ Xero vs Simpro](https://www.softwareadvice.com/cafm/simpro-enterprise-profile/vs
 \\
 FreshBooks vs Simpro](https://www.softwareadvice.com/accounting/freshbooks-profile/vs/simpro-enterprise/) [![NetSuite](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F76ba5be7-e39f-481e-9045-7c45d7cf6d39.png&w=3840&q=75)\\
 \\
-NetSuite vs Simpro](https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile/vs/simpro-enterprise/) [![Odoo ](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png&w=3840&q=75)\\
+NetSuite vs Simpro](https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile/vs/simpro-enterprise/) [![FieldPulse](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ffc7db629-f83f-478c-9e4d-8f697f15e439.webp&w=3840&q=75)\\
 \\
-Odoo  vs Simpro](https://www.softwareadvice.com/crm/odoo-profile/vs/simpro-enterprise/) [![FieldPulse](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ffc7db629-f83f-478c-9e4d-8f697f15e439.webp&w=3840&q=75)\\
+FieldPulse vs Simpro](https://www.softwareadvice.com/field-service/fieldpulse-profile/vs/simpro-enterprise/) [![Odoo ](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png&w=3840&q=75)\\
 \\
-FieldPulse vs Simpro](https://www.softwareadvice.com/field-service/fieldpulse-profile/vs/simpro-enterprise/) [![Service Fusion](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F0ed775b3-981b-4b78-9e2d-27243d23198b.png&w=3840&q=75)\\
+Odoo  vs Simpro](https://www.softwareadvice.com/crm/odoo-profile/vs/simpro-enterprise/) [![Service Fusion](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F0ed775b3-981b-4b78-9e2d-27243d23198b.png&w=3840&q=75)\\
 \\
 Service Fusion vs Simpro](https://www.softwareadvice.com/scheduling/service-fusion-profile/vs/simpro-enterprise/) [![Commusoft](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ff5a8a146-1485-440a-94ef-13e51ba7151e.png&w=3840&q=75)\\
 \\
@@ -2245,10 +2245,46 @@ Trustpilot Custom Widget
 \\
 4.2 out of 5 star rating on Trustpilot\\
 \\
-Based on **676 reviews**\\
+Based on **677 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[GK ke question\\
+\\
+Review by\\
+\\
+Sumit Yadav,\\
+\\
+20 hours ago\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a2412dbaa794d8e499425c1?utm_medium=trustbox&utm_source=Carousel)
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[i love that i can see the raw hatred for linewize that others like me have\\
+\\
+Review by\\
+\\
+Joey Machado,\\
+\\
+2 days ago\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a21eddda8babcb13dd28aa2?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
 
 
@@ -2264,7 +2300,7 @@ Review by\\
 \\
 Trustpilot,\\
 \\
-3 days ago\\
+May 28\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a17b48cb8b8e2bfe4b7612f?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
@@ -2483,41 +2519,5 @@ Kay Gaspari,\\
 March 31\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69cbe2ef4a4e19ad0685b9a9?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Received several recommendations to choose from and ultimately selected the one...\\
-\\
-Review by\\
-\\
-Nixi Cat,\\
-\\
-March 25\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69c38d3f3e706459c4f3ff55?utm_medium=trustbox&utm_source=Carousel)
-- 4 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Quite easy & performing\\
-\\
-Review by\\
-\\
-Ranjeet Singh Chawla,\\
-\\
-March 23\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69c131a4a101ca1c8ed29c18?utm_medium=trustbox&utm_source=Carousel)
 
 Showing our 4 & 5 star reviews

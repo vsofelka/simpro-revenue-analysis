@@ -2,31 +2,31 @@
 
 [Blog\\
 \\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**HVAC Advertising Examples: Real Ads That Book More Jobs** \\
-\\
-May 28, 2026](https://www.simprogroup.com/blog/hvac-advertising-examples)
-
-[Blog\\
-\\
 Electrical\\
 \\
 Business Tips\\
 \\
-**Electrician Advertising Examples: Real Ads That Work** \\
+**Electrical Inspection Checklist for Contractors** \\
 \\
-May 27, 2026](https://www.simprogroup.com/blog/electrical-advertising-examples) [Blog\\
+June 5, 2026](https://www.simprogroup.com/blog/electrical-inspection-checklist)
+
+[Blog\\
 \\
 Plumbing\\
 \\
 Business Tips\\
 \\
-**Plumbing Price Book: What It Is & How to Build One** \\
+**Plumbing Inspection Checklist for Maintenance** \\
 \\
-May 26, 2026](https://www.simprogroup.com/blog/plumbing-price-book)
+June 4, 2026](https://www.simprogroup.com/blog/plumbing-inspection-checklist) [Blog\\
+\\
+Guide\\
+\\
+Trends\\
+\\
+**The Next Decade of the Trades: The era of thin margins is dying. Profitable businesses are being built – right now.** \\
+\\
+June 3, 2026](https://www.simprogroup.com/blog/next-decade-profitable-trades)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -46,9 +46,79 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
-HVAC\\
+Electrical\\
 \\
-Sales & Marketing\\
+Business Tips\\
+\\
+**Electrical Inspection Checklist for Contractors** \\
+\\
+June 5, 2026](https://www.simprogroup.com/blog/electrical-inspection-checklist)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**Plumbing Inspection Checklist for Maintenance** \\
+\\
+June 4, 2026](https://www.simprogroup.com/blog/plumbing-inspection-checklist)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**The Next Decade of the Trades: The era of thin margins is dying. Profitable businesses are being built – right now.** \\
+\\
+June 3, 2026](https://www.simprogroup.com/blog/next-decade-profitable-trades)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**A Day in the Life of a Job — Before and After Simpro Lightning** \\
+\\
+June 3, 2026](https://www.simprogroup.com/blog/simpro-lightning-job-margin-comparison)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**Overhead Cost Calculator (Free Excel Template + Step-by-Step Guide)** \\
+\\
+June 1, 2026](https://www.simprogroup.com/blog/overhead-cost-calculator)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**8 Best Field Service Management Software That Integrates With QuickBooks** \\
+\\
+June 1, 2026](https://www.simprogroup.com/blog/field-service-management-software-compatible-with-quickbooks)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**From the Toolbelt to the Top: How a Plumber Built One of Canberra’s Leading Trades Businesses** \\
+\\
+June 1, 2026](https://www.simprogroup.com/blog/heroes-of-the-trade-level-plumbing-canberra)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
 \\
 **HVAC Advertising Examples: Real Ads That Book More Jobs** \\
 \\
@@ -56,86 +126,16 @@ May 28, 2026](https://www.simprogroup.com/blog/hvac-advertising-examples)
 
 [Blog\\
 \\
-HVAC\\
+Electrical\\
 \\
-Sales & Marketing\\
+Business Tips\\
 \\
 **Electrician Advertising Examples: Real Ads That Work** \\
 \\
 May 27, 2026](https://www.simprogroup.com/blog/electrical-advertising-examples)
 
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**Plumbing Price Book: What It Is & How to Build One** \\
-\\
-May 26, 2026](https://www.simprogroup.com/blog/plumbing-price-book)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**How to Build & Maintain an HVAC Price Book in 2026** \\
-\\
-May 26, 2026](https://www.simprogroup.com/blog/hvac-price-book)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**How to Build an Electrical Contractor Price Book** \\
-\\
-May 26, 2026](https://www.simprogroup.com/blog/electrical-contractor-price-book)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**Best Plumbing Inventory Software & Apps** \\
-\\
-May 26, 2026](https://www.simprogroup.com/blog/best-plumbing-inventory-management-software)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**The New Standard for Becoming a Profitable Trades Business** \\
-\\
-May 25, 2026](https://www.simprogroup.com/blog/the-new-standard-for-becoming-a-profitable-trades-business)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**Simpro Wins Best in SaaS Awards for Third Consecutive Year** \\
-\\
-May 21, 2026](https://www.simprogroup.com/blog/simpro-wins-best-in-saas-awards-for-third-consecutive-year)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**Best Electrical Inventory Software for Contractors** \\
-\\
-May 20, 2026](https://www.simprogroup.com/blog/best-electrical-inventory-management-software)
-
 There are no results to display.
 
 1
 
-[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:26) [47](https://www.simprogroup.com/blog/page:47)
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:27) [48](https://www.simprogroup.com/blog/page:48)

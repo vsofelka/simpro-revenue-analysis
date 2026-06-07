@@ -33,7 +33,7 @@ Tap to unmute
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber47.7K subscribers
+Jobber47.9K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
