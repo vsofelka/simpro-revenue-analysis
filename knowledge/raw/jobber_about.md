@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/about/#)
 
-[Business grants from $10K to $100K: \\
-Apply Now](https://www.getjobber.com/grants/)
+[Jobber Now is coming to Austin. 🚨 Grab your Early Bird ticket before it's too late.\\
+Apply Now](https://www.getjobber.com/events/jobber-now-2026/)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
@@ -120,12 +120,10 @@ TRY JOBBER FOR FREE
 
 [Start Free Trial](https://www.getjobber.com/sign-up/)
 
-![](https://www.googleadservices.com/pagead/conversion/933084093/?label=qoZoCJ3Qt9QDEL339rwD&guid=ON&script=0)
-
-mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1
-
 reCAPTCHA
 
 Recaptcha requires verification.
 
 protected by **reCAPTCHA**
+
+![](https://www.googleadservices.com/pagead/conversion/933084093/?label=qoZoCJ3Qt9QDEL339rwD&guid=ON&script=0)

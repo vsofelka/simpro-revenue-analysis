@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/features/#)
 
-[Business grants from $10K to $100K: \\
-Apply Now](https://www.getjobber.com/grants/)
+[Jobber Now is coming to Austin. 🚨 Grab your Early Bird ticket before it's too late.\\
+Apply Now](https://www.getjobber.com/events/jobber-now-2026/)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
