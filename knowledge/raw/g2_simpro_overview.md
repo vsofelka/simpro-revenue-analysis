@@ -1,4 +1,4 @@
-# Source: https://www.g2.com/products/simPRO/reviews
+# Source: https://www.g2.com/products/simPRO
 
 ![Simpro](https://images.g2crowd.com/uploads/optimized_product_banner/image/469/9214fcae77765257296ca5bbfa1e4568%282%29.jpg)
 
@@ -129,19 +129,19 @@ What do users say about integrations?
 
 Verified by Simpro
 
-[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d08938b2bcd0f8cc93eb9321f26c74c4/claude-2025-12-11.jpeg)\\
+[![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-Claude](https://www.g2.com/products/claude-2025-12-11/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2fa888809469cf2642baf0a51026c5e8/faire-quickbooks-online-qbo.png)\\
+Claude](https://www.g2.com/products/claude-2025-12-11/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-Faire – QuickBooks Online - QBO](https://www.g2.com/products/faire-quickbooks-online-qbo/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_92f791c125019514c13f2138425a640b/hubspot-sales-hub.png)\\
+Faire – QuickBooks Online - QBO](https://www.g2.com/products/faire-quickbooks-online-qbo/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-HubSpot Sales Hub](https://www.g2.com/products/hubspot-sales-hub/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6b0135578182be9b7a3554a808a64d72/intuit-quickbooks.png)\\
+HubSpot Sales Hub](https://www.g2.com/products/hubspot-sales-hub/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-Intuit QuickBooks](https://www.g2.com/products/intuit-quickbooks/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_47428da869b5f8e54ade900c837084c4/quickbooks-desktop-enterprise.jpg)\\
+Intuit QuickBooks](https://www.g2.com/products/intuit-quickbooks/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-QuickBooks Desktop Enterprise](https://www.g2.com/products/quickbooks-desktop-enterprise/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_886c6362df2546780d72afd6d2eed4d9/quickbooks-desktop-pro.png)\\
+QuickBooks Desktop Enterprise](https://www.g2.com/products/quickbooks-desktop-enterprise/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-QuickBooks Desktop Pro](https://www.g2.com/products/quickbooks-desktop-pro/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_ec33e9d05030dd9c604a8848ebe0a8bb/xero.jpg)\\
+QuickBooks Desktop Pro](https://www.g2.com/products/quickbooks-desktop-pro/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 Xero](https://www.g2.com/products/xero/reviews)
 
@@ -149,31 +149,31 @@ Show More
 
 ## Simpro Media
 
-[![Simpro Demo - Simpro AI-First Operating Platform for the Trades](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/1781971/lightning-jpg.jpg)](https://images.g2crowd.com/uploads/attachment/file/1781971/lightning-jpg.jpg "Simpro AI-First Operating Platform for the Trades")
+[![Simpro Demo - Simpro AI-First Operating Platform for the Trades](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/1781971/lightning-jpg.jpg "Simpro AI-First Operating Platform for the Trades")
 
 Simpro is purpose-built for field service trades to drive efficiency and profitability. Simpro Lightning uses AI agents, field data and business intelligence to reduce admin, protect margins and scale operations without adding headcount.
 
-[![Simpro Demo - Profit Powered by AI](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg)](https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg "Profit Powered by AI")
+[![Simpro Demo - Profit Powered by AI](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg "Profit Powered by AI")
 
 Simpro is the AI-first operating platform for residential and commercial trades. We simplify complex workflows and help contractors double their profitability with advanced automation across scheduling, quoting, compliance, and field service management. The trades build the world. Simpro builds t...
 
-[![Simpro Demo - Track and Manage Inventory Without the Headache](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png)](https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png "Track and Manage Inventory Without the Headache")
+[![Simpro Demo - Track and Manage Inventory Without the Headache](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png "Track and Manage Inventory Without the Headache")
 
 Bring calm to the chaos of managing inventory. Quickly order stock, control inventory and better manage your warehouse.
 
-[![Simpro Demo - Improve Cash Flow](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png)](https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png "Improve Cash Flow")
+[![Simpro Demo - Improve Cash Flow](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png "Improve Cash Flow")
 
 Ready to crush the competition? Our Simpro Premium field service project management software and mobile apps can help you not only win more business, but also maximise job profitability.
 
-[![Simpro Demo - Manage Your People](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png)](https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png "Manage Your People")
+[![Simpro Demo - Manage Your People](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png "Manage Your People")
 
 Lean into the power of time-saving automation and digital shortcuts with effective people and resource management, including job scheduling, customer management and simple communication tools.
 
-[![Simpro Demo - One Field Service Mobile App To Improve Efficiency](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png)](https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png "One Field Service Mobile App To Improve Efficiency")
+[![Simpro Demo - One Field Service Mobile App To Improve Efficiency](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png "One Field Service Mobile App To Improve Efficiency")
 
 Simpro Mobile allows staff to simplify job management in the field. Field staff can access assigned jobs, site history, customer details, job notes and other information needed to complete a job. The information is then communicated to the office in real-time.
 
-![Simpro Lightning Demo  The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.](https://i.ytimg.com/vi/w7TEw1HyPMk/maxresdefault.jpg)
+![Simpro Lightning Demo  The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
@@ -181,49 +181,49 @@ Simpro Lightning Demo
 
 The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.
 
-![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://i.vimeocdn.com/video/2010048887-8ffaea40226b7e5d88ce65b9f413004178a6696a99a275ff68da00429d08c89b-d_720?region=us)
+![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
 Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.
 
-![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/ffffff-68c767501b5ac7a093a8f6741d87dc2c95eb7874a1fc64080e1234aa02f2b418.png)
+![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
 Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online
 
-![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://i.ytimg.com/vi/z42z34KzizE/maxresdefault.jpg)
+![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
 You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/1781971/lightning-jpg.jpg)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro provided thumbnail](https://images.g2crowd.com/cdn-cgi/image/width=300,height=300,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png)
+![Simpro provided thumbnail](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
-![Simpro Video](https://i.ytimg.com/vi/w7TEw1HyPMk/mqdefault.jpg)
-
-Play Simpro Video
-
-![Simpro Video](https://i.vimeocdn.com/video/2010048887-8ffaea40226b7e5d88ce65b9f413004178a6696a99a275ff68da00429d08c89b-d_200?region=us)
+![Simpro Video](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
-![Simpro Video](https://i.vimeocdn.com/video/2045540919-041ede88e002b6c3d066702ef973f7924ab8edd1c096dca1979271a78511d336-d_200?region=us)
+![Simpro Video](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
-![Simpro Video](https://i.ytimg.com/vi/z42z34KzizE/mqdefault.jpg)
+![Simpro Video](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+
+Play Simpro Video
+
+![Simpro Video](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
@@ -233,29 +233,29 @@ Play Simpro Video
 
 [Editedit](https://my.g2.com/simpro/downloads)
 
-![10 PREDICTIONS FOR THE NEXT DECADE](https://images.g2crowd.com/uploads/attachment/file/1781980/preview_Decade-of-the-trades%282%29.png)
+![10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
 
 [10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1781974/preview_Social-Post-1-_-Operational-Discipline%282%29.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
-![Trades Outlook Report](https://images.g2crowd.com/uploads/attachment/file/1724033/preview_Simpro-Trades-Outlook-Report-2025-F%282%29.png)
+![Trades Outlook Report](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
 
 [Trades Outlook Report](https://www.g2.com/products/simpro/reviews#)
 
-![Evaluation Criteria for Selecting a Field Service Management Platform](https://images.g2crowd.com/uploads/attachment/file/1724031/preview_RESOURCE-2-Selecting-a-Field-Service-Platform%282%29.png)
+![Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
 
 [Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1724032/preview_Simpro-hero-asset---V4.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
 Show More
 
-![Product Avatar Image](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)
+![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 ### Have you used Simpro before?
 
@@ -391,9 +391,9 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-d8710f96c9d65130777f)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-66f3bbb85e8a7fd73890)
 
-[![Adam S.](https://media.licdn.com/dms/image/v2/D4E03AQGUmYHcWXMRmQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731681102758?e=1782345600&v=beta&t=_x4CxKcPn7c8Jlq24MW9IJBFyda9CMLYl555x_4DnSM)\\
+[![Adam S.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 AS](https://www.g2.com/users/667dd297-e957-429b-89d3-11211e0c1098)
 
@@ -449,7 +449,7 @@ Rating Updated (6/4/2026)
 
 Current UserValidated ReviewerIncentivizedSource: G2 invite on behalf of seller
 
-[![Jordan O.](https://lh3.googleusercontent.com/a/ACg8ocKsLX4DXdI49Y6GlECuqsG_wy00hbuUo0kKQHs37_BzXSUv7l78=s96-c)\\
+[![Jordan O.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 JO](https://www.g2.com/users/3df9a450-c037-41f7-8451-324e41285cb1)
 
@@ -492,7 +492,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Michelle G.](https://images.g2crowd.com/uploads/avatar/image/1942004/thumb_square_13a580bf7c7f4e810c06d40a7e4ac870.jpeg)\\
+[![Michelle G.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 MG](https://www.g2.com/users/22f94ba9-2ad3-4a1b-bfef-a42212bd1c64)
 
@@ -735,7 +735,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Michelle K.](https://lh3.googleusercontent.com/a/AATXAJx4u7N0cssuHLbCbx2dQ1dP3TJDN_nc-2WDEjq2=s96-c)\\
+[![Michelle K.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 MK](https://www.g2.com/users/46bc56e2-2e07-487e-8b39-a6f92de9b65d)
 
@@ -778,7 +778,7 @@ Rating Updated (5/31/2026)
 
 Current UserValidated ReviewerIncentivizedSource: G2 invite on behalf of seller
 
-[![Dan M.](https://media.licdn.com/dms/image/v2/D4E03AQEBU7KJsbBKRA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729161432726?e=1781740800&v=beta&t=HJzdJhSHXXIkJ8D1-rM8LWfTYKE0Q1QH3tN09ThErNI)\\
+[![Dan M.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 DM](https://www.g2.com/users/89b953bc-5507-4087-a402-9f5244c404f7)
 
@@ -815,7 +815,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Neil H.](https://images.g2crowd.com/uploads/avatar/image/2558578/thumb_square_092edcc77b300477d22f40ef558b09ad.jpeg)\\
+[![Neil H.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 NH](https://www.g2.com/users/d3da2977-0289-4ab5-b30b-6201358a01e8)
 
@@ -983,7 +983,7 @@ Roles and Permissions
 
 ## Top-Rated Alternatives
 
-[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)\\
+[![ServiceTitan](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 ServiceTitan\\
 \\
@@ -991,7 +991,7 @@ ServiceTitan\\
 \\
 (365)](https://www.g2.com/products/servicetitan/reviews)
 
-[![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)\\
+[![Jobber](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 Jobber\\
 \\
@@ -999,7 +999,7 @@ Jobber\\
 \\
 (499)](https://www.g2.com/products/jobber/reviews)
 
-[![FieldPulse](https://images.g2crowd.com/uploads/product/hd_favicon/2042d283ea3abd7febbaba3f4dbb300e/fieldpulse-fieldpulse.svg)\\
+[![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 FieldPulse\\
 \\

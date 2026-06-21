@@ -14,11 +14,11 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.1 out of 5 star rating on Trustpilot\\
 \\
-**682** reviews on\\
+**680** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.2 out of 5. 682 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.1 out of 5. 680 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee.Learn more
 
@@ -72,9 +72,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.1 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.2 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.1 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 On this page
 
@@ -149,9 +149,9 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.1 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.2 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.1 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 ## Simpro User Interface
 
@@ -234,7 +234,7 @@ Alternative Product
 
 4.6
 
-[(1457)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
+[(1458)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
 
 Ratings Breakdown
 
@@ -280,7 +280,7 @@ Alternative Product
 
 4.5
 
-[(20649)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20653)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -303,14 +303,14 @@ Alternative Product
 
 4.4
 
-[(3299)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3300)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
 - 4.36Ease of use
 - 4.25Value for money
 - 4.04Customer support
-- 4.29Functionality
+- 4.30Functionality
 
 Pricing
 
@@ -425,9 +425,9 @@ User rating
 
 $124.42 per month
 
-3.94 [(467 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
+3.94 [(474 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**219**
+**193**
 
 recommendations
 
@@ -435,9 +435,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4803 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4818 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**157**
+**96**
 
 recommendations
 
@@ -447,7 +447,7 @@ $22.00 per month
 
 4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
 
-**60**
+**50**
 
 recommendations
 
@@ -457,7 +457,7 @@ $35.00 per month
 
 3.82 [(60 reviews)](https://www.softwareadvice.com/bpm/mangobilling-profile/reviews/)
 
-**15**
+**17**
 
 recommendations
 
@@ -467,7 +467,7 @@ $79.00 per month
 
 4.68 [(2741 reviews)](https://www.softwareadvice.com/construction/housecall-profile/reviews/)
 
-**14**
+**11**
 
 recommendations
 
@@ -519,7 +519,7 @@ Quotes/Estimates
 
 2.86
 
-3.89 category average
+3.90 category average
 
 - Popular features found in Billing and Invoicing
 
@@ -2216,48 +2216,12 @@ Trustpilot Custom Widget
 
 [Great\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.1 out of 5 star rating on Trustpilot\\
 \\
-Based on **682 reviews**\\
+Based on **680 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[1minAI makes accessing powerful AI features incredibly simple. I love how straig...\\
-\\
-Review by\\
-\\
-Lantis H,\\
-\\
-20 hours ago\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a2d4b0cf861f1271abeb46c?utm_medium=trustbox&utm_source=Carousel)
-- 4 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[This is the best website that i found for some advice for my business and its ve...\\
-\\
-Review by\\
-\\
-Haseeb Rehman,\\
-\\
-2 days ago\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a2be49c1881ec77ba32e35d?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
 
 
@@ -2273,7 +2237,7 @@ Review by\\
 \\
 Marco Hilby,\\
 \\
-5 days ago\\
+June 9\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a287d77b591bad6eb6bd5d2?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
@@ -2291,7 +2255,7 @@ Review by\\
 \\
 Timothy Fry,\\
 \\
-5 days ago\\
+June 9\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a28776c8247cdc62bb200db?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
@@ -2309,7 +2273,7 @@ Review by\\
 \\
 Catherine Wilson,\\
 \\
-6 days ago\\
+June 8\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a26d0685800aa17acaf487e?utm_medium=trustbox&utm_source=Carousel)
 - 5 out of 5 star rating on Trustpilot
@@ -2492,5 +2456,41 @@ Marty Putelis,\\
 April 9\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69d6fcb97a4625640eabc8ea?utm_medium=trustbox&utm_source=Carousel)
+- 4 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[based on my search to find what i needed and what fits best so i can grow my com...\\
+\\
+Review by\\
+\\
+peter,\\
+\\
+April 7\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69d48450afb534baa2b0ef8a?utm_medium=trustbox&utm_source=Carousel)
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[Helpful friendly advice. Research backed and tailored to my specific needs. Extr...\\
+\\
+Review by\\
+\\
+John DenOuden,\\
+\\
+April 1\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69cd2cc0d4cddbe32275ba50?utm_medium=trustbox&utm_source=Carousel)
 
 Showing our 4 & 5 star reviews

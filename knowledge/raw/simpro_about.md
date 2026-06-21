@@ -158,6 +158,14 @@ We’ve got something for everyone. Join us today!
 Press\\
 \\
 \\
+Simpro on Schwab Network: Field Service SMBs are Winning the AI Race](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/company/press/simpro-group-appoints-new-chief-technology-officer)
 
 [News\\
@@ -167,17 +175,6 @@ Press\\
 \\
 \\
 Simpro Group Launches Lightning: A Purpose-Built, AI-Native Operating Platform for the Field Service Trades](https://www.simprogroup.com/company/press/simpro-group-unveils-lightning)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-Simpro on Bloomberg: Why AI Will Redefine the Trades](https://www.simprogroup.com/company/press/simpro-on-bloomberg-why-ai-will-redefine-the-trades)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 
@@ -189,6 +186,14 @@ Simpro on Bloomberg: Why AI Will Redefine the Trades](https://www.simprogroup.co
 Press\\
 \\
 \\
+Simpro on Schwab Network: Field Service SMBs are Winning the AI Race](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/company/press/simpro-group-appoints-new-chief-technology-officer)
 
 [News\\
@@ -198,17 +203,6 @@ Press\\
 \\
 \\
 Simpro Group Launches Lightning: A Purpose-Built, AI-Native Operating Platform for the Field Service Trades](https://www.simprogroup.com/company/press/simpro-group-unveils-lightning)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-Simpro on Bloomberg: Why AI Will Redefine the Trades](https://www.simprogroup.com/company/press/simpro-on-bloomberg-why-ai-will-redefine-the-trades)
 
 We’re here for you,
 

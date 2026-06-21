@@ -2,31 +2,33 @@
 
 [Blog\\
 \\
+HVAC\\
+\\
 Business Tips\\
 \\
-Managing People\\
+**Top HVAC Manufacturers and Suppliers** \\
 \\
-Trends\\
-\\
-**Your Team Is Doing Work They Shouldn't Have to Do** \\
-\\
-June 10, 2026](https://www.simprogroup.com/blog/trade-business-hidden-labor-costs)
+June 18, 2026](https://www.simprogroup.com/blog/hvac-manufacturers)
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
-Trends\\
+Business Tips\\
 \\
-**Plumbing Industry Statistics for 2026** \\
+**Commercial HVAC Manufacturers and Suppliers** \\
 \\
-June 9, 2026](https://www.simprogroup.com/blog/plumbing-industry-statistics-2026) [Blog\\
+June 18, 2026](https://www.simprogroup.com/blog/commercial-hvac-manufacturers) [Blog\\
+\\
+Business Tips\\
 \\
 Cash Flow\\
 \\
-**Payments for Trades Businesses and Faster Cash Flow** \\
+Trends\\
 \\
-June 9, 2026](https://www.simprogroup.com/blog/modern-customer-payment-expectations-trades)
+**How to Use AI for Trade Business Data & Reporting** \\
+\\
+June 18, 2026](https://www.simprogroup.com/blog/trade-business-ai-data-reporting-insights)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -46,11 +48,79 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
+HVAC\\
+\\
 Business Tips\\
 \\
-Managing People\\
+**Top HVAC Manufacturers and Suppliers** \\
 \\
-Trends\\
+June 18, 2026](https://www.simprogroup.com/blog/hvac-manufacturers)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**Commercial HVAC Manufacturers and Suppliers** \\
+\\
+June 18, 2026](https://www.simprogroup.com/blog/commercial-hvac-manufacturers)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**How to Use AI for Trade Business Data & Reporting** \\
+\\
+June 18, 2026](https://www.simprogroup.com/blog/trade-business-ai-data-reporting-insights)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**Franchising an HVAC Business: 6-Step Franchise Guide** \\
+\\
+June 17, 2026](https://www.simprogroup.com/blog/turn-hvac-business-into-franchise)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**Plumbing Industry Trends Contractors Need to Know in 2026** \\
+\\
+June 16, 2026](https://www.simprogroup.com/blog/trends-in-plumbing-industry)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**HVAC Industry Statistics 2026** \\
+\\
+June 15, 2026](https://www.simprogroup.com/blog/hvac-industry-statistics-2026)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**Electrical Industry Statistics 2026: 30 Key Stats** \\
+\\
+June 15, 2026](https://www.simprogroup.com/blog/electrical-industry-statistics-2026)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
 \\
 **Your Team Is Doing Work They Shouldn't Have to Do** \\
 \\
@@ -58,102 +128,16 @@ June 10, 2026](https://www.simprogroup.com/blog/trade-business-hidden-labor-cost
 
 [Blog\\
 \\
+HVAC\\
+\\
 Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
 \\
 **Plumbing Industry Statistics for 2026** \\
 \\
 June 9, 2026](https://www.simprogroup.com/blog/plumbing-industry-statistics-2026)
 
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**Payments for Trades Businesses and Faster Cash Flow** \\
-\\
-June 9, 2026](https://www.simprogroup.com/blog/modern-customer-payment-expectations-trades)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**Electrical Inspection Checklist for Contractors** \\
-\\
-June 5, 2026](https://www.simprogroup.com/blog/electrical-inspection-checklist)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**Plumbing Inspection Checklist for Maintenance** \\
-\\
-June 4, 2026](https://www.simprogroup.com/blog/plumbing-inspection-checklist)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**The Next Decade of the Trades: The era of thin margins is dying. Profitable businesses are being built – right now.** \\
-\\
-June 3, 2026](https://www.simprogroup.com/blog/next-decade-profitable-trades)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**A Day in the Life of a Job — Before and After Simpro Lightning** \\
-\\
-June 3, 2026](https://www.simprogroup.com/blog/simpro-lightning-job-margin-comparison)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**Overhead Cost Calculator (Free Excel Template + Step-by-Step Guide)** \\
-\\
-June 1, 2026](https://www.simprogroup.com/blog/overhead-cost-calculator)
-
-[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-Trends\\
-\\
-**8 Best Field Service Management Software That Integrates With QuickBooks** \\
-\\
-June 1, 2026](https://www.simprogroup.com/blog/field-service-management-software-compatible-with-quickbooks)
-
 There are no results to display.
 
 1
 
-[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:27) [48](https://www.simprogroup.com/blog/page:48)
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:27) [49](https://www.simprogroup.com/blog/page:49)

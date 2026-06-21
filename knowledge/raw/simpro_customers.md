@@ -26,7 +26,7 @@ slide 181 to 186 of 91
 
 [**Hub Property Care**\\
 \\
-“We’ve sent hundreds of personalized emails without writing a single one ourselves. Delight is turning dormant customers in our Simpro database into real jobs.”](https://www.simprogroup.com/case-studies/hub-property-care) [**Vegreville Plumbing & Heating Ltd**\\
+“We’ve sent hundreds of personalised emails without writing a single one ourselves. Delight is turning dormant customers in our Simpro database into real jobs.”](https://www.simprogroup.com/case-studies/hub-property-care) [**Vegreville Plumbing & Heating Ltd**\\
 \\
 “By re-engaging customers already in our system, we generated a 33.1× return on investment and unlocked an additional 15% in Delight-driven revenue without adding headcount.”](https://www.simprogroup.com/case-studies/vegreville-plumbing-and-heating-ltd)
 
