@@ -95,7 +95,7 @@ Ease of Use
 
 Average: 9.5
 
-8.6
+8.5
 
 Meets Requirements
 
@@ -135,13 +135,13 @@ Average: 9.5
 
 [Connecteam](https://www.g2.com/products/connecteam/reviews "Connecteam")
 
-90
+89
 
 [Expand/Collapse Connecteam](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-90
+89
 
 Top Industries of Reviewers:
 
@@ -191,7 +191,7 @@ Quality of Support
 
 Average: 9.6
 
-9.4
+9.3
 
 Ease of Admin
 
@@ -435,7 +435,7 @@ Top Industries of Reviewers:
 
 Construction
 
-44%
+45%
 
 Non-Profit Organization Management
 
@@ -443,7 +443,7 @@ Non-Profit Organization Management
 
 Retail
 
-18%
+17%
 
 Consumer Services
 
@@ -711,13 +711,13 @@ Average: 9.5
 
 [XOi](https://www.g2.com/products/xoi/reviews "XOi")
 
-78
+77
 
 [Expand/Collapse XOi](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-78
+77
 
 Top Industries of Reviewers:
 
@@ -847,9 +847,81 @@ Average: 9.5
 
 10.0
 
-[Expand/Collapse GoSpotCheck by FORM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #12
+
+[![Route4Me](https://images.g2crowd.com/uploads/product/hd_favicon/84343a638109b8eb59c743a1714af57c/route4me.svg)](https://www.g2.com/products/route4me/reviews)
+
+[Route4Me](https://www.g2.com/products/route4me/reviews "Route4Me")
+
+77
+
+[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+77
+
+Top Industries of Reviewers:
+
+Logistics and Supply Chain
+
+29%
+
+Construction
+
+29%
+
+Pharmaceuticals
+
+24%
+
+Facilities Services
+
+18%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.7
+
+Meets Requirements
+
+Average: 9.5
+
+9.4
+
+Ease of Doing Business With
+
+Average: 9.6
+
+10.0
+
+Ease of Setup
+
+Average: 9.4
+
+9.4
+
+Quality of Support
+
+Average: 9.6
+
+10.0
+
+Ease of Admin
+
+Average: 9.5
+
+9.5
+
+[Expand/Collapse GoSpotCheck by FORM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#13
 
 [![GoSpotCheck by FORM](https://images.g2crowd.com/uploads/product/hd_favicon/42faf0a434a8d2cb24da40b3fda7c6a3/form-marketx.svg)](https://www.g2.com/products/gospotcheck-by-form/reviews)
 
@@ -921,19 +993,19 @@ Average: 9.5
 
 [Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#13
+#14
 
 [![Field Nation](https://images.g2crowd.com/uploads/product/hd_favicon/1507058487/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
 
 [Field Nation](https://www.g2.com/products/field-nation/reviews "Field Nation")
 
-76
+77
 
 [Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-76
+77
 
 Top Industries of Reviewers:
 
@@ -990,78 +1062,6 @@ Ease of Admin
 Average: 9.5
 
 9.3
-
-[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#14
-
-[![Route4Me](https://images.g2crowd.com/uploads/product/hd_favicon/84343a638109b8eb59c743a1714af57c/route4me.svg)](https://www.g2.com/products/route4me/reviews)
-
-[Route4Me](https://www.g2.com/products/route4me/reviews "Route4Me")
-
-75
-
-[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-75
-
-Top Industries of Reviewers:
-
-Construction
-
-31%
-
-Pharmaceuticals
-
-25%
-
-Logistics and Supply Chain
-
-25%
-
-Facilities Services
-
-19%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.5
-
-Meets Requirements
-
-Average: 9.5
-
-9.5
-
-Ease of Doing Business With
-
-Average: 9.6
-
-10.0
-
-Ease of Setup
-
-Average: 9.4
-
-9.1
-
-Quality of Support
-
-Average: 9.6
-
-10.0
-
-Ease of Admin
-
-Average: 9.5
-
-9.5
 
 [Expand/Collapse TEGRAL](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -1135,9 +1135,81 @@ Average: 9.5
 
 9.0
 
-[Expand/Collapse MobiWork](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #16
+
+[![ServiceNow Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/c7ed381b8103a08f610090492732a5fe/servicenow-field-service-management.svg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
+
+[ServiceNow Field Service Management](https://www.g2.com/products/servicenow-field-service-management/reviews "ServiceNow Field Service Management")
+
+74
+
+[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+74
+
+Top Industries of Reviewers:
+
+Information Technology and Services
+
+53%
+
+Hospital & Health Care
+
+22%
+
+Telecommunications
+
+14%
+
+Computer Software
+
+11%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+8.6
+
+Meets Requirements
+
+Average: 9.5
+
+9.0
+
+Ease of Doing Business With
+
+Average: 9.6
+
+9.3
+
+Ease of Setup
+
+Average: 9.4
+
+8.5
+
+Quality of Support
+
+Average: 9.6
+
+8.9
+
+Ease of Admin
+
+Average: 9.5
+
+8.7
+
+[Expand/Collapse MobiWork](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#17
 
 [![MobiWork](https://images.g2crowd.com/uploads/product/hd_favicon/fb2741baed66a92aac88b9c1816166a3/mobiwork.svg)](https://www.g2.com/products/mobiwork/reviews)
 
@@ -1209,7 +1281,7 @@ Average: 9.5
 
 [Expand/Collapse OptimoRoute](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#17
+#18
 
 [![OptimoRoute](https://images.g2crowd.com/uploads/product/hd_favicon/cbf546c443a779ab85217bad15cc23a4/optimoroute.svg)](https://www.g2.com/products/optimoroute/reviews)
 
@@ -1281,7 +1353,7 @@ Average: 9.5
 
 [Expand/Collapse Appenate (formerly Forms On Fire)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#18
+#19
 
 [![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)](https://www.g2.com/products/appenate-formerly-forms-on-fire/reviews)
 
@@ -1350,78 +1422,6 @@ Ease of Admin
 Average: 9.5
 
 9.4
-
-[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#19
-
-[![ServiceNow Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/c7ed381b8103a08f610090492732a5fe/servicenow-field-service-management.svg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
-
-[ServiceNow Field Service Management](https://www.g2.com/products/servicenow-field-service-management/reviews "ServiceNow Field Service Management")
-
-73
-
-[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-73
-
-Top Industries of Reviewers:
-
-Information Technology and Services
-
-53%
-
-Hospital & Health Care
-
-22%
-
-Telecommunications
-
-14%
-
-Computer Software
-
-11%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-8.6
-
-Meets Requirements
-
-Average: 9.5
-
-9.0
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.2
-
-Ease of Setup
-
-Average: 9.4
-
-8.5
-
-Quality of Support
-
-Average: 9.6
-
-8.9
-
-Ease of Admin
-
-Average: 9.5
-
-8.6
 
 [Expand/Collapse Kickserv](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 

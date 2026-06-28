@@ -440,6 +440,20 @@ Rainforest Plumbing now spends less time tracking projects and more time being p
 
 From bid to completion, Jackson Services can now track every phase and keep every project on budget and schedule, no matter how intricate.
 
+![Video Thumbnail](https://embed-ssl.wistia.com/deliveries/5be9034e1efcdfcc219184356655e8a57e834e8b/file.jpg?image_crop_resized=1920x1080)
+
+# Trusted by the trades. Backed by solid reviews.
+
+Play
+
+Search episodes
+
+[**+5% Increase in Net Profits**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=hybhkcr8gw)
+
+[**+10M Increase in Revenue**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=dtsu12njls)
+
+[**Manage +$5M Projects**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=h086et1wv5)
+
 ## Built-in integrations. Seamless control.
 
 ## Built-in integrations.   Seamless control.
