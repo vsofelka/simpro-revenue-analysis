@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/about/#)
 
-[Limited time offer: Save up to 40%\\
-Save Now](https://www.getjobber.com/pricing/)
+[Jobber Now is coming to Austin. 🚨Grab your ticket before it's too late.\\
+Register Now](https://www.getjobber.com/events/jobber-now-2026/?utm_source=Organic-mainsite&utm_medium=Homepagebanner&utm_campaign=jobber-now-2026-inperson)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 

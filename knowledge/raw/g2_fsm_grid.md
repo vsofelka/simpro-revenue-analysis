@@ -351,13 +351,13 @@ Average: 9.5
 
 [Repair-CRM](https://www.g2.com/products/repair-crm/reviews "Repair-CRM")
 
-83
+82
 
 [Expand/Collapse Repair-CRM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-83
+82
 
 Top Industries of Reviewers:
 
@@ -775,81 +775,9 @@ Average: 9.5
 
 9.1
 
-[Expand/Collapse Nextbillion.ai](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#11
-
-[![Nextbillion.ai](https://images.g2crowd.com/uploads/product/hd_favicon/c1bc79f08c3b887d09ff174f32152f2a/nextbillion_ai.svg)](https://www.g2.com/products/nextbillion_ai/reviews)
-
-[Nextbillion.ai](https://www.g2.com/products/nextbillion_ai/reviews "Nextbillion.ai")
-
-77
-
-[Expand/Collapse Nextbillion.ai](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-77
-
-Top Industries of Reviewers:
-
-Logistics and Supply Chain
-
-33%
-
-Information Technology and Services
-
-33%
-
-Events Services
-
-17%
-
-Health, Wellness and Fitness
-
-17%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.5
-
-Meets Requirements
-
-Average: 9.5
-
-9.8
-
-Ease of Doing Business With
-
-Average: 9.6
-
-10.0
-
-Ease of Setup
-
-Average: 9.4
-
-9.5
-
-Quality of Support
-
-Average: 9.6
-
-10.0
-
-Ease of Admin
-
-Average: 9.5
-
-10.0
-
 [Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#12
+#11
 
 [![Route4Me](https://images.g2crowd.com/uploads/product/hd_favicon/84343a638109b8eb59c743a1714af57c/route4me.svg)](https://www.g2.com/products/route4me/reviews)
 
@@ -918,6 +846,78 @@ Ease of Admin
 Average: 9.5
 
 9.5
+
+[Expand/Collapse Nextbillion.ai](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#12
+
+[![Nextbillion.ai](https://images.g2crowd.com/uploads/product/hd_favicon/c1bc79f08c3b887d09ff174f32152f2a/nextbillion_ai.svg)](https://www.g2.com/products/nextbillion_ai/reviews)
+
+[Nextbillion.ai](https://www.g2.com/products/nextbillion_ai/reviews "Nextbillion.ai")
+
+77
+
+[Expand/Collapse Nextbillion.ai](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+77
+
+Top Industries of Reviewers:
+
+Logistics and Supply Chain
+
+33%
+
+Information Technology and Services
+
+33%
+
+Events Services
+
+17%
+
+Health, Wellness and Fitness
+
+17%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.5
+
+Meets Requirements
+
+Average: 9.5
+
+9.8
+
+Ease of Doing Business With
+
+Average: 9.6
+
+10.0
+
+Ease of Setup
+
+Average: 9.4
+
+9.5
+
+Quality of Support
+
+Average: 9.6
+
+10.0
+
+Ease of Admin
+
+Average: 9.5
+
+10.0
 
 [Expand/Collapse GoSpotCheck by FORM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -1063,21 +1063,93 @@ Average: 9.5
 
 9.3
 
-[Expand/Collapse TEGRAL](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #15
+
+[![ServiceNow Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/c7ed381b8103a08f610090492732a5fe/servicenow-field-service-management.svg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
+
+[ServiceNow Field Service Management](https://www.g2.com/products/servicenow-field-service-management/reviews "ServiceNow Field Service Management")
+
+76
+
+[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+76
+
+Top Industries of Reviewers:
+
+Information Technology and Services
+
+53%
+
+Hospital & Health Care
+
+22%
+
+Telecommunications
+
+14%
+
+Computer Software
+
+11%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+8.6
+
+Meets Requirements
+
+Average: 9.5
+
+9.1
+
+Ease of Doing Business With
+
+Average: 9.6
+
+9.3
+
+Ease of Setup
+
+Average: 9.4
+
+8.5
+
+Quality of Support
+
+Average: 9.6
+
+8.9
+
+Ease of Admin
+
+Average: 9.5
+
+8.7
+
+[Expand/Collapse TEGRAL](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#16
 
 [![TEGRAL](https://images.g2crowd.com/uploads/product/hd_favicon/ba349d109791ff14c815bb33cdd1405c/tegral.svg)](https://www.g2.com/products/tegral/reviews)
 
 [TEGRAL](https://www.g2.com/products/tegral/reviews "TEGRAL")
 
-75
+74
 
 [Expand/Collapse TEGRAL](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-75
+74
 
 Top Industries of Reviewers:
 
@@ -1134,78 +1206,6 @@ Ease of Admin
 Average: 9.5
 
 9.0
-
-[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#16
-
-[![ServiceNow Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/c7ed381b8103a08f610090492732a5fe/servicenow-field-service-management.svg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
-
-[ServiceNow Field Service Management](https://www.g2.com/products/servicenow-field-service-management/reviews "ServiceNow Field Service Management")
-
-74
-
-[Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-74
-
-Top Industries of Reviewers:
-
-Information Technology and Services
-
-53%
-
-Hospital & Health Care
-
-22%
-
-Telecommunications
-
-14%
-
-Computer Software
-
-11%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-8.6
-
-Meets Requirements
-
-Average: 9.5
-
-9.0
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.3
-
-Ease of Setup
-
-Average: 9.4
-
-8.5
-
-Quality of Support
-
-Average: 9.6
-
-8.9
-
-Ease of Admin
-
-Average: 9.5
-
-8.7
 
 [Expand/Collapse MobiWork](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -1325,7 +1325,7 @@ Meets Requirements
 
 Average: 9.5
 
-9.6
+9.5
 
 Ease of Doing Business With
 
