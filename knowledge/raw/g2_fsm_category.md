@@ -10,7 +10,7 @@
 
 [What is Field Service Management Software?](https://www.g2.com/categories/field-service-management#learn-more)
 
-![Jeffrey Lin](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Jeffrey Lin](https://learn.g2.com/hubfs/jeffrey-lin.jpg)
 
 JL
 
@@ -29,6 +29,203 @@ To qualify for inclusion in the Field Service Management (FSM) category, a produ
 - Provide information to field workers on their tasks and how to achieve them
 - Deliver dashboards and analytics for managers to track ongoing field activities and the performance of field workers
 
+Top Tools at a Glance
+
+|     |     |     |
+| --- | --- | --- |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_3a71fba40151dc70320f4c77a71515c4/agentforce-field-service-formerly-salesforce-field-service.png)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews) <br>[Agentforce Field Service...](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews) [4.4/5\<br>\<br>(1,046)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews) | Best for<br>Intelligent scheduling and dispatch within Salesforce | User Review<br>"A Helpful Helper for Fixing Things Everywhere"<br>![Pavan S.](https://lh3.googleusercontent.com/a/ACg8ocLJ_pGKuDtZuAbOV4HpKR4K14kj-yth3yirtJqAx2lYQ9Tono4H=s96-c)<br>PS<br>Pavan S. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_70d5d734a8a49048eb302dcef9d03dc9/jobber.png)](https://www.g2.com/products/jobber/reviews) <br>[Jobber](https://www.g2.com/products/jobber/reviews) [4.6/5\<br>\<br>(509)](https://www.g2.com/products/jobber/reviews) | Best for<br>Scheduling, quoting, and invoicing for home service businesses | User Review<br>"Jobber Streamlines Scheduling, Invoicing, and Client Communication Effortlessly"<br>![Louise P.](https://lh3.googleusercontent.com/a/ACg8ocKYMhMZF-xO6gl2Ycznpk-dHSWThYHRbE9CP5U-UbmHVKW9IQ=s96-c)<br>LP<br>Louise P. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_da836c06c61c98d4a0795c7cfc3a9a5a/servicenow-field-service-management.jpg)](https://www.g2.com/products/servicenow-field-service-management/reviews) <br>[ServiceNow Field Service...](https://www.g2.com/products/servicenow-field-service-management/reviews) [4.3/5\<br>\<br>(142)](https://www.g2.com/products/servicenow-field-service-management/reviews) | Best for<br>Enterprise field operations integrated with ITSM | User Review<br>"Dynamic Scheduling and Mobile Support Enhance Service Efficiency"<br>![Rahul A.](https://lh3.googleusercontent.com/a/ACg8ocIp5Vn8Q-4FtUZBeVjzaTQojLPnwQR-Qk9-x7QBJHvSFdn08sEa4Q=s96-c)<br>RA<br>Rahul A. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_48873a1e62e70af369bccaf053a8c9c7/connecteam.png)](https://www.g2.com/products/connecteam/reviews) <br>[Connecteam](https://www.g2.com/products/connecteam/reviews) [4.6/5\<br>\<br>(3,505)](https://www.g2.com/products/connecteam/reviews) | Best for<br>Mobile-first scheduling and communication for frontline teams | User Review<br>"Connecteam Review"<br>![Kurt B.](https://lh3.googleusercontent.com/a/ACg8ocI1WVq6i-z_RCerJ3MMPzMZrMPP74QShsZqini4in-Iv3N_yQ=s96-c)<br>KB<br>Kurt B. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_cc1eb6c072916e48a0e1bd9d36e8d443/field-nation.png)](https://www.g2.com/products/field-nation/reviews) <br>[Field Nation](https://www.g2.com/products/field-nation/reviews) [4.5/5\<br>\<br>(401)](https://www.g2.com/products/field-nation/reviews) | Best for<br>On-demand technician marketplace for nationwide IT field work | User Review<br>"My experience of using Field Nation"<br>![Roze R.](https://lh3.googleusercontent.com/a/ACg8ocJfb1aAz4P_yzbDFjQrEcWDKqTBtM3eaQ5U43baTGrEeJ2LHw=s96-c)<br>RR<br>Roze R. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08dd74b9ba01ee5fb82025a38f8cb36d/sap-field-service-management.jpg)](https://www.g2.com/products/sap-field-service-management/reviews) <br>[SAP Field Service Management](https://www.g2.com/products/sap-field-service-management/reviews) [4.3/5\<br>\<br>(74)](https://www.g2.com/products/sap-field-service-management/reviews) | Best for<br>Real-time field dispatch with SAP ERP integration | User Review<br>"Excellent Technician Visibility and Field Job Tracking in SAP"<br>![Nijat I.](https://images.g2crowd.com/uploads/avatar/image/2407301/thumb_square_4bd75ee6c904162cfa3ac8e971cbac58.jpg)<br>NI<br>Nijat I. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4daf806ef7316c988e15a20797c547bd/jotform.png)](https://www.g2.com/products/jotform/reviews) <br>[Jotform](https://www.g2.com/products/jotform/reviews) [4.7/5\<br>\<br>(5,299)](https://www.g2.com/products/jotform/reviews) | Best for<br>Custom forms for field data collection and inspections | User Review<br>"Jotform AI Agent: No-code, natural-language chatbot delivering tailored responses in minutes"<br>![Yang b.](https://lh3.googleusercontent.com/a/ACg8ocLvS4K7qClrVcTSrOpRs94GV-V_SWATEn5d15LsiuBcj-fhMw=s96-c)<br>YB<br>Yang b. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1f3e71afa76e797defe56c8b1502f99c/housecall-pro.jpg)](https://www.g2.com/products/housecall-pro/reviews) <br>[Housecall Pro](https://www.g2.com/products/housecall-pro/reviews) [4.3/5\<br>\<br>(204)](https://www.g2.com/products/housecall-pro/reviews) | Best for<br>All-in-one job management for small home service businesses | User Review<br>"Efficient, Feature-Rich, and Easy to Use"<br>![Rod B.](https://lh3.googleusercontent.com/a/ACg8ocIYE8JWic-hsNUsesHsqLggN2woBcm-8A4e6vbqIbCrytQVqgHPPw=s96-c)<br>RB<br>Rod B. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d463ff5f1df1cfe7930e7899066ab520/servicetitan.png)](https://www.g2.com/products/servicetitan/reviews) <br>[ServiceTitan](https://www.g2.com/products/servicetitan/reviews) [4.5/5\<br>\<br>(373)](https://www.g2.com/products/servicetitan/reviews) | Best for<br>End-to-end operations for professional home service companies | User Review<br>"A True All-in-One Field Service Platform That Streamlines Growth"<br>![Marlene W.](https://lh3.googleusercontent.com/a/ACg8ocIumqdG2zFrJvrg86zMH1yghIal10rLRQh0UqkWaJzgd-hQRBpt=s96-c)<br>MW<br>Marlene W. |
+| [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6f2bd12bac9693e8f3197f44a0081c32/xoi.png)](https://www.g2.com/products/xoi/reviews) <br>[XOi](https://www.g2.com/products/xoi/reviews) [4.9/5\<br>\<br>(38)](https://www.g2.com/products/xoi/reviews) | Best for<br>Visual field documentation and AI-assisted quoting for commercial HVAC | User Review<br>"Powerful Job Site Visibility and Shareable Updates for Customers"<br>TS<br>Tim S. |
+
+Top Tools at a Glance
+
+* * *
+
+Intelligent scheduling and dispatch within Salesforce
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_3a71fba40151dc70320f4c77a71515c4/agentforce-field-service-formerly-salesforce-field-service.png)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
+
+[Agentforce Field Service...](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews) [4.4/5\\
+\\
+(1,046)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
+
+User Review
+
+"A Helpful Helper for Fixing Things Everywhere"
+
+![Pavan S.](https://lh3.googleusercontent.com/a/ACg8ocLJ_pGKuDtZuAbOV4HpKR4K14kj-yth3yirtJqAx2lYQ9Tono4H=s96-c)
+
+PS
+
+Pavan S.
+
+Scheduling, quoting, and invoicing for home service businesses
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_70d5d734a8a49048eb302dcef9d03dc9/jobber.png)](https://www.g2.com/products/jobber/reviews)
+
+[Jobber](https://www.g2.com/products/jobber/reviews) [4.6/5\\
+\\
+(509)](https://www.g2.com/products/jobber/reviews)
+
+User Review
+
+"Jobber Streamlines Scheduling, Invoicing, and Client Communication Effortlessly"
+
+![Louise P.](https://lh3.googleusercontent.com/a/ACg8ocKYMhMZF-xO6gl2Ycznpk-dHSWThYHRbE9CP5U-UbmHVKW9IQ=s96-c)
+
+LP
+
+Louise P.
+
+Enterprise field operations integrated with ITSM
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_da836c06c61c98d4a0795c7cfc3a9a5a/servicenow-field-service-management.jpg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
+
+[ServiceNow Field Service...](https://www.g2.com/products/servicenow-field-service-management/reviews) [4.3/5\\
+\\
+(142)](https://www.g2.com/products/servicenow-field-service-management/reviews)
+
+User Review
+
+"Dynamic Scheduling and Mobile Support Enhance Service Efficiency"
+
+![Rahul A.](https://lh3.googleusercontent.com/a/ACg8ocIp5Vn8Q-4FtUZBeVjzaTQojLPnwQR-Qk9-x7QBJHvSFdn08sEa4Q=s96-c)
+
+RA
+
+Rahul A.
+
+Mobile-first scheduling and communication for frontline teams
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_48873a1e62e70af369bccaf053a8c9c7/connecteam.png)](https://www.g2.com/products/connecteam/reviews)
+
+[Connecteam](https://www.g2.com/products/connecteam/reviews) [4.6/5\\
+\\
+(3,505)](https://www.g2.com/products/connecteam/reviews)
+
+User Review
+
+"Connecteam Review"
+
+![Kurt B.](https://lh3.googleusercontent.com/a/ACg8ocI1WVq6i-z_RCerJ3MMPzMZrMPP74QShsZqini4in-Iv3N_yQ=s96-c)
+
+KB
+
+Kurt B.
+
+On-demand technician marketplace for nationwide IT field work
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_cc1eb6c072916e48a0e1bd9d36e8d443/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
+
+[Field Nation](https://www.g2.com/products/field-nation/reviews) [4.5/5\\
+\\
+(401)](https://www.g2.com/products/field-nation/reviews)
+
+User Review
+
+"My experience of using Field Nation"
+
+![Roze R.](https://lh3.googleusercontent.com/a/ACg8ocJfb1aAz4P_yzbDFjQrEcWDKqTBtM3eaQ5U43baTGrEeJ2LHw=s96-c)
+
+RR
+
+Roze R.
+
+Real-time field dispatch with SAP ERP integration
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_08dd74b9ba01ee5fb82025a38f8cb36d/sap-field-service-management.jpg)](https://www.g2.com/products/sap-field-service-management/reviews)
+
+[SAP Field Service Management](https://www.g2.com/products/sap-field-service-management/reviews) [4.3/5\\
+\\
+(74)](https://www.g2.com/products/sap-field-service-management/reviews)
+
+User Review
+
+"Excellent Technician Visibility and Field Job Tracking in SAP"
+
+![Nijat I.](https://images.g2crowd.com/uploads/avatar/image/2407301/thumb_square_4bd75ee6c904162cfa3ac8e971cbac58.jpg)
+
+NI
+
+Nijat I.
+
+Custom forms for field data collection and inspections
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4daf806ef7316c988e15a20797c547bd/jotform.png)](https://www.g2.com/products/jotform/reviews)
+
+[Jotform](https://www.g2.com/products/jotform/reviews) [4.7/5\\
+\\
+(5,299)](https://www.g2.com/products/jotform/reviews)
+
+User Review
+
+"Jotform AI Agent: No-code, natural-language chatbot delivering tailored responses in minutes"
+
+![Yang b.](https://lh3.googleusercontent.com/a/ACg8ocLvS4K7qClrVcTSrOpRs94GV-V_SWATEn5d15LsiuBcj-fhMw=s96-c)
+
+YB
+
+Yang b.
+
+All-in-one job management for small home service businesses
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1f3e71afa76e797defe56c8b1502f99c/housecall-pro.jpg)](https://www.g2.com/products/housecall-pro/reviews)
+
+[Housecall Pro](https://www.g2.com/products/housecall-pro/reviews) [4.3/5\\
+\\
+(204)](https://www.g2.com/products/housecall-pro/reviews)
+
+User Review
+
+"Efficient, Feature-Rich, and Easy to Use"
+
+![Rod B.](https://lh3.googleusercontent.com/a/ACg8ocIYE8JWic-hsNUsesHsqLggN2woBcm-8A4e6vbqIbCrytQVqgHPPw=s96-c)
+
+RB
+
+Rod B.
+
+End-to-end operations for professional home service companies
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d463ff5f1df1cfe7930e7899066ab520/servicetitan.png)](https://www.g2.com/products/servicetitan/reviews)
+
+[ServiceTitan](https://www.g2.com/products/servicetitan/reviews) [4.5/5\\
+\\
+(373)](https://www.g2.com/products/servicetitan/reviews)
+
+User Review
+
+"A True All-in-One Field Service Platform That Streamlines Growth"
+
+![Marlene W.](https://lh3.googleusercontent.com/a/ACg8ocIumqdG2zFrJvrg86zMH1yghIal10rLRQh0UqkWaJzgd-hQRBpt=s96-c)
+
+MW
+
+Marlene W.
+
+Visual field documentation and AI-assisted quoting for commercial HVAC
+
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6f2bd12bac9693e8f3197f44a0081c32/xoi.png)](https://www.g2.com/products/xoi/reviews)
+
+[XOi](https://www.g2.com/products/xoi/reviews) [4.9/5\\
+\\
+(38)](https://www.g2.com/products/xoi/reviews)
+
+User Review
+
+"Powerful Job Site Visibility and Shareable Updates for Customers"
+
+TS
+
+Tim S.
+
 [Show More\\
 \\
 Show Less](https://www.g2.com/categories/field-service-management#)
@@ -37,7 +234,7 @@ Show Less](https://www.g2.com/categories/field-service-management#)
 
 **Free Plan Available:**
 
-![Appenate (formerly Forms On Fire)](<Base64-Image-Removed>)
+![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)
 
 Appenate (formerly Forms On Fire)
 
@@ -47,31 +244,31 @@ You’re seeing this ad based on the product’s relevance to this page. Sponsor
 
 **Leader:**
 
-![Agentforce Field Service (formerly Salesforce Field Service)](<Base64-Image-Removed>)
+![Agentforce Field Service (formerly Salesforce Field Service)](https://images.g2crowd.com/uploads/product/hd_favicon/e2170cb2fb1e97e4b23447ad004fa376/agentforce-field-service-formerly-salesforce-field-service.svg)
 
 [Agentforce Field Service (formerly Salesforce Field Service)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
 
 **Highest Performer:**
 
-![GoCanvas](<Base64-Image-Removed>)
+![GoCanvas](https://images.g2crowd.com/uploads/product/hd_favicon/b2dfc4e125cb6d45dacd66ebd4cf7bc3/canvas-solutions-gocanvas.svg)
 
 [GoCanvas](https://www.g2.com/products/canvas-solutions-gocanvas/reviews)
 
 **Easiest to Use:**
 
-![Connecteam](<Base64-Image-Removed>)
+![Connecteam](https://images.g2crowd.com/uploads/product/hd_favicon/b4756bff91de7c0d3a6676272a368c98/connecteam.svg)
 
 [Connecteam](https://www.g2.com/products/connecteam/reviews)
 
 **Top Trending:**
 
-![ServiceTitan](<Base64-Image-Removed>)
+![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)
 
 [ServiceTitan](https://www.g2.com/products/servicetitan/reviews)
 
 **Best Free Software:**
 
-![Jobber](<Base64-Image-Removed>)
+![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)
 
 [Jobber](https://www.g2.com/products/jobber/reviews)
 
@@ -337,9 +534,9 @@ Satisfaction
 
 Clear All
 
-**817** Listings in Field Service Management Available
+**824** Listings in Field Service Management Available
 
-[![Agentforce Field Service (formerly Salesforce Field Service)](<Base64-Image-Removed>)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
+[![Agentforce Field Service (formerly Salesforce Field Service)](https://images.g2crowd.com/uploads/product/hd_favicon/e2170cb2fb1e97e4b23447ad004fa376/agentforce-field-service-formerly-salesforce-field-service.svg)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
 
 ### [Agentforce Field Service (formerly Salesforce Field Service)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews)
 
@@ -358,9 +555,9 @@ Salesforce Field Service is the leading AI platform powering field service. With
 
 [Previous: Overview](https://www.g2.com/categories/field-service-management#) Pros and Cons [Seller Details](https://www.g2.com/categories/field-service-management#)
 
-ProsEase of Use, Scheduling Management, Easy Integration, Real-Time Data, Integrations
+ProsScheduling Management, Ease of Use, Easy Integration, Real-Time Data, Integrations
 
-ConsImprovement Needed, Learning Curve, Setup Difficulties, Expensive, Customization Difficulties
+ConsLearning Curve, Improvement Needed, Setup Difficulties, Mobile Limitations, Expensive
 
 [Previous: Pros and Cons](https://www.g2.com/categories/field-service-management#) Seller Details
 
@@ -394,7 +591,7 @@ Phone
 
 [Get a quote](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/leads/new?lead%5Bcontext%5D=custom_quote&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=component_streams%23create)
 
-[![Jobber](<Base64-Image-Removed>)](https://www.g2.com/products/jobber/reviews)
+[![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)](https://www.g2.com/products/jobber/reviews)
 
 ### [Jobber](https://www.g2.com/products/jobber/reviews)
 
@@ -416,7 +613,7 @@ Keep Work Moving as You Get Busier
 
 [Previous: Overview](https://www.g2.com/categories/field-service-management#) Pros and Cons [Seller Details](https://www.g2.com/categories/field-service-management#)
 
-ProsEase of Use, Scheduling, Invoicing, Features, Scheduling Management
+ProsEase of Use, Scheduling, Invoicing, Features, User-Friendly
 
 ConsImprovement Needed, Limited Functionality, Limited Features, Feature Limitations, Job Management
 
@@ -444,7 +641,7 @@ https://www.linkedin.com/company/1617574
 
 Try for free
 
-![Appenate (formerly Forms On Fire)](https://www.g2.com/assets/ajax-loader-351774b26d7cf5b8130671ab5c4c4f0bbd5a37c22b9fc9fcd7abc7e902469389.svg)
+![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)
 
 Sponsored
 
@@ -462,13 +659,13 @@ Appenate is the most flexible no-code platform for businesses needing mobile For
 
 Visit website
 
-[![ServiceNow Field Service Management](<Base64-Image-Removed>)](https://www.g2.com/products/servicenow-field-service-management/reviews)
+[![ServiceNow Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/c7ed381b8103a08f610090492732a5fe/servicenow-field-service-management.svg)](https://www.g2.com/products/servicenow-field-service-management/reviews)
 
 ### [ServiceNow Field Service Management](https://www.g2.com/products/servicenow-field-service-management/reviews)
 
 [By ServiceNow](https://www.g2.com/sellers/servicenow)
 
-[(136)4.3  out of  5](https://www.g2.com/products/servicenow-field-service-management/reviews#reviews "Read ServiceNow Field Service Management Reviews")
+[(142)4.3  out of  5](https://www.g2.com/products/servicenow-field-service-management/reviews#reviews "Read ServiceNow Field Service Management Reviews")
 All-in-One
 
 Overview [Pros and Cons](https://www.g2.com/categories/field-service-management#)
@@ -513,7 +710,7 @@ NYSE:NOW
 
 [Read ServiceNow Field Service Management Reviews](https://www.g2.com/products/servicenow-field-service-management/reviews)
 
-[![Connecteam](<Base64-Image-Removed>)](https://www.g2.com/products/connecteam/reviews)
+[![Connecteam](https://images.g2crowd.com/uploads/product/hd_favicon/b4756bff91de7c0d3a6676272a368c98/connecteam.svg)](https://www.g2.com/products/connecteam/reviews)
 
 ### [Connecteam](https://www.g2.com/products/connecteam/reviews)
 
@@ -564,7 +761,7 @@ https://www.linkedin.com/company/10591384/
 
 [Read Connecteam Reviews](https://www.g2.com/products/connecteam/reviews)
 
-[![Field Nation](<Base64-Image-Removed>)](https://www.g2.com/products/field-nation/reviews)
+[![Field Nation](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_cc1eb6c072916e48a0e1bd9d36e8d443/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
 
 ### [Field Nation](https://www.g2.com/products/field-nation/reviews)
 
@@ -613,7 +810,7 @@ https://www.linkedin.com/company/2557484/
 
 [Get a quote](https://www.g2.com/products/field-nation/leads/new?lead%5Bcontext%5D=custom_quote&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=component_streams%23create)
 
-[![SAP Field Service Management](<Base64-Image-Removed>)](https://www.g2.com/products/sap-field-service-management/reviews)
+[![SAP Field Service Management](https://images.g2crowd.com/uploads/product/hd_favicon/7ff24fefdb8cc17f461e8084346fd686/sap-field-service-management.svg)](https://www.g2.com/products/sap-field-service-management/reviews)
 
 ### [SAP Field Service Management](https://www.g2.com/products/sap-field-service-management/reviews)
 
@@ -668,13 +865,13 @@ Phone
 
 Try for free
 
-[![Jotform](<Base64-Image-Removed>)](https://www.g2.com/products/jotform/reviews)
+[![Jotform](https://images.g2crowd.com/uploads/product/hd_favicon/db92fdbe82415a54d6c44d2085e85c83/jotform.svg)](https://www.g2.com/products/jotform/reviews)
 
 ### [Jotform](https://www.g2.com/products/jotform/reviews)
 
 [By Jotform](https://www.g2.com/sellers/jotform)
 
-[(5,271)4.7  out of  5](https://www.g2.com/products/jotform/reviews#reviews "Read Jotform Reviews")
+[(5,299)4.7  out of  5](https://www.g2.com/products/jotform/reviews#reviews "Read Jotform Reviews")
 All-in-One
 
 Deals
@@ -731,7 +928,7 @@ https://www.linkedin.com/company/3541463/
 
 Try for free
 
-[![Housecall Pro](<Base64-Image-Removed>)](https://www.g2.com/products/housecall-pro/reviews)
+[![Housecall Pro](https://images.g2crowd.com/uploads/product/hd_favicon/ce6ead72f65b8b12db2c767501f610ed/housecall-pro.svg)](https://www.g2.com/products/housecall-pro/reviews)
 
 ### [Housecall Pro](https://www.g2.com/products/housecall-pro/reviews)
 
@@ -774,7 +971,7 @@ https://www.linkedin.com/company/3491149/
 
 Try for free
 
-[![ServiceTitan](<Base64-Image-Removed>)](https://www.g2.com/products/servicetitan/reviews)
+[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)](https://www.g2.com/products/servicetitan/reviews)
 
 ### [ServiceTitan](https://www.g2.com/products/servicetitan/reviews)
 
@@ -795,9 +992,9 @@ ServiceTitan is AI for the trades - a purpose-built agentic operating system aut
 
 [Previous: Overview](https://www.g2.com/categories/field-service-management#) Pros and Cons [Seller Details](https://www.g2.com/categories/field-service-management#)
 
-ProsEase of Use, Customer Support, Features, Tracking, Efficiency
+ProsEase of Use, Customer Support, Features, Tracking, Improvement
 
-ConsLearning Curve, Poor Support, Improvement Needed, Poor Customer Support, Limited Functionality
+ConsLearning Curve, Improvement Needed, Poor Customer Support, Poor Support, Limited Functionality
 
 [Previous: Pros and Cons](https://www.g2.com/categories/field-service-management#) Seller Details
 
@@ -823,7 +1020,7 @@ https://www.linkedin.com/company/3157549/
 
 [Get a quote](https://www.g2.com/products/servicetitan/leads/new?lead%5Bcontext%5D=custom_quote&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=component_streams%23create)
 
-[![XOi](<Base64-Image-Removed>)](https://www.g2.com/products/xoi/reviews)
+[![XOi](https://images.g2crowd.com/uploads/product/hd_favicon/31a3ee92aaf56441bfe212d9dc1033e9/xoi.svg)](https://www.g2.com/products/xoi/reviews)
 
 ### [XOi](https://www.g2.com/products/xoi/reviews)
 
@@ -870,7 +1067,7 @@ https://www.linkedin.com/company/xoi-technologies
 
 [Read XOi Reviews](https://www.g2.com/products/xoi/reviews)
 
-[![ServiceMax](<Base64-Image-Removed>)](https://www.g2.com/products/ptc-servicemax/reviews)
+[![ServiceMax](https://images.g2crowd.com/uploads/product/hd_favicon/3f97f22ebf3270a898fc130fc894502b/ptc-servicemax.svg)](https://www.g2.com/products/ptc-servicemax/reviews)
 
 ### [ServiceMax](https://www.g2.com/products/ptc-servicemax/reviews)
 
@@ -889,7 +1086,7 @@ ServiceMax, a PTC technology, maximizes the lifecycle and value of critical asse
 
 [Previous: Overview](https://www.g2.com/categories/field-service-management#) Pros and Cons [Seller Details](https://www.g2.com/categories/field-service-management#)
 
-ProsEasy Communication, Communication, Ease of Use, Scheduling Management, Security
+ProsEase of Use, Easy Communication, Communication, Scheduling Management, Easy Access
 
 ConsConnectivity Issues, Expensive, Improvement Needed, Learning Curve, Slow Performance
 
@@ -921,13 +1118,13 @@ NASDAQ: PTC
 
 [Read ServiceMax Reviews](https://www.g2.com/products/ptc-servicemax/reviews)
 
-[![Quickbase](<Base64-Image-Removed>)](https://www.g2.com/products/quickbase/reviews)
+[![Quickbase](https://images.g2crowd.com/uploads/product/hd_favicon/b9699c0fa4dd8b1e4dca9cb53b76f2b0/quickbase.svg)](https://www.g2.com/products/quickbase/reviews)
 
 ### [Quickbase](https://www.g2.com/products/quickbase/reviews)
 
 [By Quickbase](https://www.g2.com/sellers/quickbase)
 
-[(1,551)4.5  out of  5](https://www.g2.com/products/quickbase/reviews#reviews "Read Quickbase Reviews")
+[(1,563)4.5  out of  5](https://www.g2.com/products/quickbase/reviews#reviews "Read Quickbase Reviews")
 All-in-One
 
 Overview [Pros and Cons](https://www.g2.com/categories/field-service-management#)
@@ -972,7 +1169,7 @@ https://www.linkedin.com/company/2845325/
 
 Try for free
 
-[![Workiz](<Base64-Image-Removed>)](https://www.g2.com/products/workiz/reviews)
+[![Workiz](https://images.g2crowd.com/uploads/product/hd_favicon/7cac750fb8b86e8f0909f0a88e8af0b9/workiz.svg)](https://www.g2.com/products/workiz/reviews)
 
 ### [Workiz](https://www.g2.com/products/workiz/reviews)
 
@@ -1025,13 +1222,13 @@ https://www.linkedin.com/company/workizinc/
 
 [Read Workiz Reviews](https://www.g2.com/products/workiz/reviews)
 
-[![Praxedo](<Base64-Image-Removed>)](https://www.g2.com/products/praxedo/reviews)
+[![Praxedo](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_667ac723041fbc2d7ed65b5bb38a0eba/praxedo.jpg)](https://www.g2.com/products/praxedo/reviews)
 
 ### [Praxedo](https://www.g2.com/products/praxedo/reviews)
 
 [By Praxedo](https://www.g2.com/sellers/praxedo)
 
-[(39)4.6  out of  5](https://www.g2.com/products/praxedo/reviews#reviews "Read Praxedo Reviews")
+[(40)4.6  out of  5](https://www.g2.com/products/praxedo/reviews#reviews "Read Praxedo Reviews")
 Best-of-Breed
 
 Overview [Pros and Cons](https://www.g2.com/categories/field-service-management#)
@@ -1040,7 +1237,7 @@ Product Description
 
 Praxedo is a specialized, best-of-breed Field Service Management (FSM) platform purpose-built for mid-market and enterprise industrial operations, including telecom fiber rollouts, utility grid mainte
 
-**Market Segment:** 67% Small-Business, 28% Mid-Market
+**Market Segment:** 68% Small-Business, 28% Mid-Market
 
 [Previous: Overview](https://www.g2.com/categories/field-service-management#) Pros and Cons [Seller Details](https://www.g2.com/categories/field-service-management#)
 
@@ -1072,7 +1269,7 @@ https://www.linkedin.com/company/praxedo
 
 [Get a quote](https://www.g2.com/products/praxedo/leads/new?lead%5Bcontext%5D=custom_quote&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=component_streams%23create)
 
-[![GoCanvas](<Base64-Image-Removed>)](https://www.g2.com/products/canvas-solutions-gocanvas/reviews)
+[![GoCanvas](https://images.g2crowd.com/uploads/product/hd_favicon/b2dfc4e125cb6d45dacd66ebd4cf7bc3/canvas-solutions-gocanvas.svg)](https://www.g2.com/products/canvas-solutions-gocanvas/reviews)
 
 ### [GoCanvas](https://www.g2.com/products/canvas-solutions-gocanvas/reviews)
 
@@ -1644,19 +1841,19 @@ Satisfaction
 
 Clear All
 
-**817** Listings in Field Service Management Available
+**824** Listings in Field Service Management Available
 
 Spotlight Categories
 
-[Corporate Learning Management Systems](https://www.g2.com/categories/corporate-learning-management-systems)
+[Attribution Software](https://www.g2.com/categories/attribution)
 
-[Professional Services Automation Software](https://www.g2.com/categories/professional-services-automation)
+[Generative AI Infrastructure Software](https://www.g2.com/categories/generative-ai-infrastructure)
 
-[Accounts Payable Automation Software](https://www.g2.com/categories/ap-automation)
+[Remote Monitoring & Management (RMM) Software](https://www.g2.com/categories/remote-monitoring-management-rmm)
 
-[Event Management Platforms](https://www.g2.com/categories/event-management-platforms)
+[Influencer Marketing Platforms](https://www.g2.com/categories/influencer-marketing-platforms)
 
-[Business Continuity Management (BCM) Software Solutions](https://www.g2.com/categories/business-continuity-management-software)
+[Help Desk Software](https://www.g2.com/categories/help-desk)
 
 Similar Categories
 

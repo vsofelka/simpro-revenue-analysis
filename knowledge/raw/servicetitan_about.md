@@ -256,30 +256,6 @@ Track progress and profits accurately and in real time to identify risks and all
 
 ![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/2gdYijsJkiMwTjoh9lR94d/df6b51747e152a8fe38716ba99ff71ac/Logo_-_Interstate_-_White.png?w=640&h=300&q=85&fm=webp&bg=transparent%20640w)
 
-![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='600'%20width='2949'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
-
-![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/4743VJgK538FL6jvWtWaKC/48e35f78b43d7d77aca1876aa6090028/wright-brothers-logo-white.png?w=750&h=153&q=85&fm=webp&bg=transparent%20750w,https://images.ctfassets.net/3q1a0w8cwuwf/4743VJgK538FL6jvWtWaKC/48e35f78b43d7d77aca1876aa6090028/wright-brothers-logo-white.png?w=1080&h=220&q=85&fm=webp&bg=transparent%201080w,https://images.ctfassets.net/3q1a0w8cwuwf/4743VJgK538FL6jvWtWaKC/48e35f78b43d7d77aca1876aa6090028/wright-brothers-logo-white.png?w=1366&h=278&q=85&fm=webp&bg=transparent%201366w,https://images.ctfassets.net/3q1a0w8cwuwf/4743VJgK538FL6jvWtWaKC/48e35f78b43d7d77aca1876aa6090028/wright-brothers-logo-white.png?w=1920&h=391&q=85&fm=webp&bg=transparent%201920w,https://images.ctfassets.net/3q1a0w8cwuwf/4743VJgK538FL6jvWtWaKC/48e35f78b43d7d77aca1876aa6090028/wright-brothers-logo-white.png?w=2949&h=600&q=85&fm=webp&bg=transparent%202949w)
-
-#### +50%
-
-Service agreement growth
-
-![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='399'%20width='1983'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
-
-![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/3tkyQCOYBpCvmMFabwM7fI/98acb09e2da4e9fe615844e8586893e6/priority-plumbers-air.png?w=750&h=151&q=85&fm=webp&bg=transparent%20750w,https://images.ctfassets.net/3q1a0w8cwuwf/3tkyQCOYBpCvmMFabwM7fI/98acb09e2da4e9fe615844e8586893e6/priority-plumbers-air.png?w=1080&h=217&q=85&fm=webp&bg=transparent%201080w,https://images.ctfassets.net/3q1a0w8cwuwf/3tkyQCOYBpCvmMFabwM7fI/98acb09e2da4e9fe615844e8586893e6/priority-plumbers-air.png?w=1366&h=275&q=85&fm=webp&bg=transparent%201366w,https://images.ctfassets.net/3q1a0w8cwuwf/3tkyQCOYBpCvmMFabwM7fI/98acb09e2da4e9fe615844e8586893e6/priority-plumbers-air.png?w=1920&h=386&q=85&fm=webp&bg=transparent%201920w,https://images.ctfassets.net/3q1a0w8cwuwf/3tkyQCOYBpCvmMFabwM7fI/98acb09e2da4e9fe615844e8586893e6/priority-plumbers-air.png?w=1983&h=399&q=85&fm=webp&bg=transparent%201983w)
-
-#### +31%
-
-Return customer rate
-
-![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='315'%20width='1500'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
-
-![Product Illustration](https://images.ctfassets.net/3q1a0w8cwuwf/31g2FvY5GCw36gtUsaSvAZ/998d0e48c1af324fbb6e42be7a53390d/bill-joplins-logo.png?w=750&h=158&q=85&fm=webp&bg=transparent%20750w,https://images.ctfassets.net/3q1a0w8cwuwf/31g2FvY5GCw36gtUsaSvAZ/998d0e48c1af324fbb6e42be7a53390d/bill-joplins-logo.png?w=1080&h=227&q=85&fm=webp&bg=transparent%201080w,https://images.ctfassets.net/3q1a0w8cwuwf/31g2FvY5GCw36gtUsaSvAZ/998d0e48c1af324fbb6e42be7a53390d/bill-joplins-logo.png?w=1366&h=287&q=85&fm=webp&bg=transparent%201366w,https://images.ctfassets.net/3q1a0w8cwuwf/31g2FvY5GCw36gtUsaSvAZ/998d0e48c1af324fbb6e42be7a53390d/bill-joplins-logo.png?w=1500&h=315&q=85&fm=webp&bg=transparent%201500w)
-
-#### +1.1m
-
-Potential revenue growth
-
 ## Build your legacy on a strong foundation. Build your legacy with ServiceTitan.
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg%20height='1900'%20width='3136'%20xmlns='http://www.w3.org/2000/svg'%20version='1.1'%3E%3C/svg%3E)
@@ -432,27 +408,11 @@ Lovett Services found new levels of efficiency that led to higher profitability 
 
 Rainforest Plumbing now spends less time tracking projects and more time being profitable.
 
-![Product Illustration](https://embed-ssl.wistia.com/deliveries/66e477ada3ffe4e4f8cdd04dcaae3760.jpg?image_crop_resized=960x540)
-
 ###### Manage +$5M Projects
 
 #### “Building the launching pad”
 
 From bid to completion, Jackson Services can now track every phase and keep every project on budget and schedule, no matter how intricate.
-
-![Video Thumbnail](https://embed-ssl.wistia.com/deliveries/5be9034e1efcdfcc219184356655e8a57e834e8b/file.jpg?image_crop_resized=1920x1080)
-
-# Trusted by the trades. Backed by solid reviews.
-
-Play
-
-Search episodes
-
-[**+5% Increase in Net Profits**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=hybhkcr8gw)
-
-[**+10M Increase in Revenue**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=dtsu12njls)
-
-[**Manage +$5M Projects**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=h086et1wv5)
 
 ## Built-in integrations. Seamless control.
 

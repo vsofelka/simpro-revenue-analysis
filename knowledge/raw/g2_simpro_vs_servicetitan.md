@@ -6,9 +6,9 @@ All CategoriesField Service ManagementHVAC
 
 All ReviewersSmall-Business ReviewersMid-Market ReviewersLarge Enterprise Reviewers
 
-Save your comparisonKeep these tools in one place and come back anytime.
+Customize this compareAdd the features that matter most to you to compare side by side
 
-[Save to board](https://www.g2.com/assistant/preview?product_slugs%5B%5D=servicetitan&product_slugs%5B%5D=simpro&source=compare_save_banner)
+[Customize and save](https://www.g2.com/assistant/preview?product_slugs%5B%5D=servicetitan&product_slugs%5B%5D=simpro&source=compare_save_banner)
 
 - [At a Glance](https://www.g2.com/compare/servicetitan-vs-simpro#glance)
 - [Pricing](https://www.g2.com/compare/servicetitan-vs-simpro#pricing)
@@ -38,7 +38,7 @@ ServiceTitan](https://www.g2.com/products/servicetitan/reviews)
 \\
 Simpro\\
 \\
-(423)\\
+(425)\\
 \\
 4.2  out of  5\\
 \\
@@ -50,39 +50,15 @@ Simpro](https://www.g2.com/products/simpro/reviews)
 
 Featured Products
 
-![Premier Construction Software](https://images.g2crowd.com/uploads/product/hd_favicon/e68c8d91757f0583d8f67f06b0c3aa4c/premier-construction-software.svg)
+![Housecall Pro](https://images.g2crowd.com/uploads/product/hd_favicon/ce6ead72f65b8b12db2c767501f610ed/housecall-pro.svg)
 
 Sponsored
 
-Premier Construction Software
-
-4.7/5
-
-(56)
-
-Visit Website
-
-![Buildertrend](https://images.g2crowd.com/uploads/product/hd_favicon/46cab7e9db9f95c712a7760af7ca8434/buildertrend.svg)
-
-Sponsored
-
-Buildertrend
+Housecall Pro
 
 4.3/5
 
-(228)
-
-Visit Website
-
-![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)
-
-Sponsored
-
-Appenate (formerly Forms On Fire)
-
-4.5/5
-
-(265)
+(204)
 
 Visit Website
 
@@ -92,7 +68,7 @@ Star Rating
 
 [(373)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
 
-[(423)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(425)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
@@ -100,15 +76,15 @@ Small-Business (65.4% of reviews)
 
 Information
 
-Small-Business (76.0% of reviews)
+Small-Business (75.8% of reviews)
 
 Information
 
 Pros & Cons
 
-[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Poor Support (17)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401559&qs=pros-and-cons#reviews)
+[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (19)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
 
-[Ease of Use (7)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
+[Ease of Use (8)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (4)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -132,7 +108,7 @@ Information
 
 Pros & Cons
 
-[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Poor Support (17)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401559&qs=pros-and-cons#reviews)
+[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (19)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -146,17 +122,17 @@ Simpro
 
 Star Rating
 
-[(423)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(425)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
-Small-Business (76.0% of reviews)
+Small-Business (75.8% of reviews)
 
 Information
 
 Pros & Cons
 
-[Ease of Use (7)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
+[Ease of Use (8)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (4)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -249,7 +225,7 @@ Ease of Admin
 
 7.6
 
-172
+173
 
 Quality of Support
 
@@ -269,7 +245,7 @@ Has the product been a good partner in doing business?
 
 8.0
 
-170
+171
 
 Product Direction (% positive)
 
@@ -621,7 +597,7 @@ Field Service ManagementHide 18 FeaturesShow 18 Features
 
 7.5
 
-266
+267
 
 Generative AI
 
@@ -859,11 +835,11 @@ Simpro
 
 Small-Business(50 or fewer emp.)
 
-76.0%
+75.8%
 
 Mid-Market(51-1000 emp.)
 
-23.8%
+24.0%
 
 Enterprise(\> 1000 emp.)
 
@@ -875,7 +851,7 @@ Small-Business
 
 65.4%
 
-76.0%
+75.8%
 
 Mid-Market
 
@@ -883,7 +859,7 @@ Mid-Market
 
 32.7%
 
-23.8%
+24.0%
 
 Enterprise
 
@@ -1077,10 +1053,10 @@ The component that sets simPRO apart from our competitors is our commitment to c
 
 ### Spotlight Categories
 
-- [Job Search Sites](https://www.g2.com/categories/job-search-sites)
-- [Operational Risk Management Software](https://www.g2.com/categories/operational-risk-management)
-- [Inbound Call Tracking Software](https://www.g2.com/categories/inbound-call-tracking)
-- [Lead Intelligence Software](https://www.g2.com/categories/lead-intelligence)
+- [Talent Assessment Software](https://www.g2.com/categories/talent-assessment-software)
+- [Revenue Operations & Intelligence (RO&I) Software](https://www.g2.com/categories/revenue-operations-intelligence-ro-i)
+- [Accounts Receivable Software](https://www.g2.com/categories/accounts-receivable)
+- [CMMS Software](https://www.g2.com/categories/cmms)
 
 - [At a Glance](https://www.g2.com/compare/servicetitan-vs-simpro#glance)
 - [Pricing](https://www.g2.com/compare/servicetitan-vs-simpro#pricing)

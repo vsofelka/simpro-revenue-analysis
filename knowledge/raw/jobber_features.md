@@ -2,8 +2,8 @@
 
 [\\_\\_\\_](https://www.getjobber.com/features/#)
 
-[Limited time offer: Save up to 40%\\
-Save Now](https://www.getjobber.com/pricing/)
+[Jobber Now is coming to Austin. 🚨Grab your ticket before it's too late.\\
+Register Now](https://www.getjobber.com/events/jobber-now-2026/?utm_source=Organic-mainsite&utm_medium=Homepagebanner&utm_campaign=jobber-now-2026-inperson)
 
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
@@ -33,7 +33,7 @@ Tap to unmute
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber48.1K subscribers
+Jobber48.3K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
@@ -633,11 +633,11 @@ Efficiently route the day’s work, assign incoming jobs to the closest team mem
 
 When you make a schedule change to an employee’s current workday, they’ll get a notification on their phone with all the details.
 
-![Keep employees organized with time tracking](https://www.getjobber.com/wp-content/uploads/2025/03/img-keep_employees_organized-time_tracking.webp)
+![](https://www.getjobber.com/wp-content/uploads/2026/07/img-WorkSmarter-Team_Management-time_tracking.webp)
 
 #### Time Tracking
 
-Your team can clock in and out of jobs so you can prep payroll faster. With a timer that’s easy to start and stop, you’ll get a clear picture of time spent at each job.
+Keep a complete record of your team’s day with time tracking for on-the-job work, drive time, shop time, office tasks, and unpaid breaks. With every activity logged in one place, it’s easier to review timesheets, understand productivity, and prepare payroll.
 
 ![Keep employees organized with location timers](https://www.getjobber.com/wp-content/uploads/2025/03/img-keep_employees_organized-location_timers.webp)
 

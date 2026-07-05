@@ -12,13 +12,13 @@ Simpro
 
 Trustpilot Custom Widget
 
-[Great\\
+[Excellent\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.3 out of 5 star rating on Trustpilot\\
 \\
-**680** reviews on\\
+**681** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Great. 4.2 out of 5. 680 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Excellent. 4.3 out of 5. 681 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee.Learn more
 
@@ -70,11 +70,11 @@ Get Free Advice
 
 Trustpilot Custom Widget
 
-[Great\\
+[Excellent\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.3 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.2 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Excellent. 4.3 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 On this page
 
@@ -147,11 +147,11 @@ Get Free Advice
 
 Trustpilot Custom Widget
 
-[Great\\
+[Excellent\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.3 out of 5 star rating on Trustpilot\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Great. 4.2 out of 5 on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroStar) Rated Excellent. 4.3 out of 5 on TrustpilotClick to view the company's Trustpilot profile
 
 ## Simpro User Interface
 
@@ -234,7 +234,7 @@ Alternative Product
 
 4.6
 
-[(1461)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
+[(1462)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
 
 Ratings Breakdown
 
@@ -280,7 +280,7 @@ Alternative Product
 
 4.5
 
-[(20655)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20658)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -303,12 +303,12 @@ Alternative Product
 
 4.4
 
-[(3301)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3304)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
 - 4.36Ease of use
-- 4.25Value for money
+- 4.24Value for money
 - 4.04Customer support
 - 4.30Functionality
 
@@ -425,9 +425,9 @@ User rating
 
 $124.42 per month
 
-3.97 [(562 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
+4.00 [(601 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**242**
+**209**
 
 recommendations
 
@@ -435,9 +435,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4826 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4829 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**78**
+**77**
 
 recommendations
 
@@ -447,7 +447,7 @@ $22.00 per month
 
 4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
 
-**54**
+**43**
 
 recommendations
 
@@ -457,7 +457,7 @@ $35.00 per month
 
 3.82 [(60 reviews)](https://www.softwareadvice.com/bpm/mangobilling-profile/reviews/)
 
-**20**
+**11**
 
 recommendations
 
@@ -465,9 +465,9 @@ recommendations
 
 $20.00 per month
 
-4.10 [(631 reviews)](https://www.softwareadvice.com/accounting/sage-business-cloud-accounting-profile/reviews/)
+4.10 [(638 reviews)](https://www.softwareadvice.com/accounting/sage-business-cloud-accounting-profile/reviews/)
 
-**11**
+**10**
 
 recommendations
 
@@ -499,7 +499,7 @@ Customizable Reports
 
 4.0
 
-3.78 category average
+3.77 category average
 
 Simpro's Worst Rated Features
 
@@ -507,7 +507,7 @@ Time Tracking
 
 1.83
 
-4.22 category average
+4.18 category average
 
 Forms Management
 
@@ -2176,25 +2176,25 @@ Yes, Simpro has a mobile app that field techs can use to get job information, ma
 
 ## Simpro PopularComparisons
 
-[![Jobber](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fad18d6d9-96a7-429c-af65-8beb3926ec4e.jpeg&w=3840&q=75)\\
+[![Jobber](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/ad18d6d9-96a7-429c-af65-8beb3926ec4e.jpeg?fit=max&w=46&fm=png&auto=format)\\
 \\
-Jobber vs Simpro](https://www.softwareadvice.com/field-service/jobber-profile/vs/simpro-enterprise/) [![Housecall Pro](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fbd6ad857-8506-4472-a257-27953e488179.jpeg&w=3840&q=75)\\
+Jobber vs Simpro](https://www.softwareadvice.com/field-service/jobber-profile/vs/simpro-enterprise/) [![Housecall Pro](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/bd6ad857-8506-4472-a257-27953e488179.jpeg?fit=max&w=46&fm=png&auto=format)\\
 \\
-Housecall Pro vs Simpro](https://www.softwareadvice.com/construction/housecall-profile/vs/simpro-enterprise/) [![QuickBooks Enterprise](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F90cac4f1-9eba-4d30-9949-91da634d4da5.png&w=3840&q=75)\\
+Housecall Pro vs Simpro](https://www.softwareadvice.com/construction/housecall-profile/vs/simpro-enterprise/) [![QuickBooks Enterprise](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/90cac4f1-9eba-4d30-9949-91da634d4da5.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-QuickBooks Enterprise vs Simpro](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/vs/simpro-enterprise/) [![Xero](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Faa6f08b4-1fe7-4944-bee8-e3ef64ed55f9.png&w=3840&q=75)\\
+QuickBooks Enterprise vs Simpro](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/vs/simpro-enterprise/) [![Xero](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/aa6f08b4-1fe7-4944-bee8-e3ef64ed55f9.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-Xero vs Simpro](https://www.softwareadvice.com/cafm/simpro-enterprise-profile/vs/xero/) [![FreshBooks](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F67665783-bd0d-4b97-99af-c628a74ea005.png&w=3840&q=75)\\
+Xero vs Simpro](https://www.softwareadvice.com/cafm/simpro-enterprise-profile/vs/xero/) [![FreshBooks](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/67665783-bd0d-4b97-99af-c628a74ea005.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-FreshBooks vs Simpro](https://www.softwareadvice.com/accounting/freshbooks-profile/vs/simpro-enterprise/) [![NetSuite](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F76ba5be7-e39f-481e-9045-7c45d7cf6d39.png&w=3840&q=75)\\
+FreshBooks vs Simpro](https://www.softwareadvice.com/accounting/freshbooks-profile/vs/simpro-enterprise/) [![NetSuite](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/76ba5be7-e39f-481e-9045-7c45d7cf6d39.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-NetSuite vs Simpro](https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile/vs/simpro-enterprise/) [![FieldPulse](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ffc7db629-f83f-478c-9e4d-8f697f15e439.webp&w=3840&q=75)\\
+NetSuite vs Simpro](https://www.softwareadvice.com/accounting/netsuite-financials-accounting-software-profile/vs/simpro-enterprise/) [![FieldPulse](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/fc7db629-f83f-478c-9e4d-8f697f15e439.webp?fit=max&w=46&fm=png&auto=format)\\
 \\
-FieldPulse vs Simpro](https://www.softwareadvice.com/field-service/fieldpulse-profile/vs/simpro-enterprise/) [![Odoo ](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png&w=3840&q=75)\\
+FieldPulse vs Simpro](https://www.softwareadvice.com/field-service/fieldpulse-profile/vs/simpro-enterprise/) [![Odoo ](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/17efceca-38ea-4e7e-83dc-2cdd9fb0987f.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-Odoo  vs Simpro](https://www.softwareadvice.com/crm/odoo-profile/vs/simpro-enterprise/) [![Service Fusion](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F0ed775b3-981b-4b78-9e2d-27243d23198b.png&w=3840&q=75)\\
+Odoo  vs Simpro](https://www.softwareadvice.com/crm/odoo-profile/vs/simpro-enterprise/) [![Service Fusion](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/0ed775b3-981b-4b78-9e2d-27243d23198b.png?fit=max&w=46&fm=png&auto=format)\\
 \\
-Service Fusion vs Simpro](https://www.softwareadvice.com/scheduling/service-fusion-profile/vs/simpro-enterprise/) [![Commusoft](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ff5a8a146-1485-440a-94ef-13e51ba7151e.png&w=3840&q=75)\\
+Service Fusion vs Simpro](https://www.softwareadvice.com/scheduling/service-fusion-profile/vs/simpro-enterprise/) [![Commusoft](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/f5a8a146-1485-440a-94ef-13e51ba7151e.png?fit=max&w=46&fm=png&auto=format)\\
 \\
 Commusoft vs Simpro](https://www.softwareadvice.com/garage-door/commusoft-profile/vs/simpro-enterprise/)
 
@@ -2214,11 +2214,11 @@ Get Advice Now
 
 Trustpilot Custom Widget
 
-[Great\\
+[Excellent\\
 \\
-4.2 out of 5 star rating on Trustpilot\\
+4.3 out of 5 star rating on Trustpilot\\
 \\
-Based on **680 reviews**\\
+Based on **681 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
@@ -2233,9 +2233,63 @@ Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trus
 
 [Review by\\
 \\
-C Snyder,\\
+Vagmin Vora,\\
+\\
+2 days ago\\
+\\
+Very prompt and helpful \\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a478e51504cc97850186c62?utm_medium=trustbox&utm_source=Carousel)
+- 4 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[Review by\\
+\\
+Scrooges Spirits,\\
 \\
 3 days ago\\
+\\
+Samsung Banner went away and needed replacement. Tried several different ones a...\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a46610dc05d05686df62e88?utm_medium=trustbox&utm_source=Carousel)
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[Review by\\
+\\
+Bernardo Luis,\\
+\\
+June 28\\
+\\
+I just like it 5 stars\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a41362bcac9cc5211b199fc?utm_medium=trustbox&utm_source=Carousel)
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[Review by\\
+\\
+C Snyder,\\
+\\
+June 25\\
 \\
 We had several well known vendors reach out to us and make presentations. Softw...\\
 \\
@@ -2253,7 +2307,7 @@ Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/
 \\
 Dustin,\\
 \\
-6 days ago\\
+June 22\\
 \\
 Software advance was very responsive and helpful when helping us find a compatib...\\
 \\
@@ -2438,59 +2492,5 @@ April 22\\
 Kendra was fantastic and helpful throughout the process of selecting the right p...\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69e8ddcf9d5f11624e6a6777?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Review by\\
-\\
-Chase King,\\
-\\
-April 21\\
-\\
-highly recommend torque360 affordable and ease of use\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69e7d0f5d1e985f3bc888de4?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Review by\\
-\\
-Juan Diego P.M,\\
-\\
-April 17\\
-\\
-Perfection in every sense!\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69e2725d2d11613eeb75a897?utm_medium=trustbox&utm_source=Carousel)
-- 4 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Review by\\
-\\
-Marty Putelis,\\
-\\
-April 9\\
-\\
-Quick recommendations..\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/69d6fcb97a4625640eabc8ea?utm_medium=trustbox&utm_source=Carousel)
 
 Showing our 4 & 5 star reviews
