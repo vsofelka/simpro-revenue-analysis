@@ -127,81 +127,9 @@ Average: 9.5
 
 8.6
 
-[Expand/Collapse Connecteam](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#2
-
-[![Connecteam](https://images.g2crowd.com/uploads/product/hd_favicon/b4756bff91de7c0d3a6676272a368c98/connecteam.svg)](https://www.g2.com/products/connecteam/reviews)
-
-[Connecteam](https://www.g2.com/products/connecteam/reviews "Connecteam")
-
-89
-
-[Expand/Collapse Connecteam](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-89
-
-Top Industries of Reviewers:
-
-Construction
-
-64%
-
-Consumer Services
-
-15%
-
-Security and Investigations
-
-11%
-
-Facilities Services
-
-10%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.3
-
-Meets Requirements
-
-Average: 9.5
-
-9.1
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.5
-
-Ease of Setup
-
-Average: 9.4
-
-9.2
-
-Quality of Support
-
-Average: 9.6
-
-9.3
-
-Ease of Admin
-
-Average: 9.5
-
-9.3
-
 [Expand/Collapse Jobber](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#3
+#2
 
 [![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)](https://www.g2.com/products/jobber/reviews)
 
@@ -251,13 +179,85 @@ Ease of Doing Business With
 
 Average: 9.6
 
-9.5
+9.4
 
 Ease of Setup
 
 Average: 9.4
 
 9.1
+
+Quality of Support
+
+Average: 9.6
+
+9.3
+
+Ease of Admin
+
+Average: 9.5
+
+9.3
+
+[Expand/Collapse Connecteam](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#3
+
+[![Connecteam](https://images.g2crowd.com/uploads/product/hd_favicon/b4756bff91de7c0d3a6676272a368c98/connecteam.svg)](https://www.g2.com/products/connecteam/reviews)
+
+[Connecteam](https://www.g2.com/products/connecteam/reviews "Connecteam")
+
+88
+
+[Expand/Collapse Connecteam](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+88
+
+Top Industries of Reviewers:
+
+Construction
+
+64%
+
+Consumer Services
+
+15%
+
+Security and Investigations
+
+11%
+
+Facilities Services
+
+10%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.3
+
+Meets Requirements
+
+Average: 9.5
+
+9.1
+
+Ease of Doing Business With
+
+Average: 9.6
+
+9.5
+
+Ease of Setup
+
+Average: 9.4
+
+9.2
 
 Quality of Support
 
@@ -557,7 +557,7 @@ Ease of Admin
 
 Average: 9.5
 
-9.7
+9.6
 
 [Expand/Collapse MotionOps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -599,7 +599,7 @@ Ease of Use
 
 Average: 9.5
 
-9.9
+10.0
 
 Meets Requirements
 
@@ -775,9 +775,81 @@ Average: 9.5
 
 9.1
 
-[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #11
+
+[![Field Nation](https://images.g2crowd.com/uploads/product/hd_favicon/1507058487/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
+
+[Field Nation](https://www.g2.com/products/field-nation/reviews "Field Nation")
+
+77
+
+[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+77
+
+Top Industries of Reviewers:
+
+Information Technology and Services
+
+63%
+
+Telecommunications
+
+18%
+
+Computer Networking
+
+10%
+
+Computer Hardware
+
+9%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.2
+
+Meets Requirements
+
+Average: 9.5
+
+9.5
+
+Ease of Doing Business With
+
+Average: 9.6
+
+9.6
+
+Ease of Setup
+
+Average: 9.4
+
+9.2
+
+Quality of Support
+
+Average: 9.6
+
+9.2
+
+Ease of Admin
+
+Average: 9.5
+
+9.3
+
+[Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#12
 
 [![Route4Me](https://images.g2crowd.com/uploads/product/hd_favicon/84343a638109b8eb59c743a1714af57c/route4me.svg)](https://www.g2.com/products/route4me/reviews)
 
@@ -849,7 +921,7 @@ Average: 9.5
 
 [Expand/Collapse Nextbillion.ai](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#12
+#13
 
 [![Nextbillion.ai](https://images.g2crowd.com/uploads/product/hd_favicon/c1bc79f08c3b887d09ff174f32152f2a/nextbillion_ai.svg)](https://www.g2.com/products/nextbillion_ai/reviews)
 
@@ -921,7 +993,7 @@ Average: 9.5
 
 [Expand/Collapse GoSpotCheck by FORM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#13
+#14
 
 [![GoSpotCheck by FORM](https://images.g2crowd.com/uploads/product/hd_favicon/42faf0a434a8d2cb24da40b3fda7c6a3/form-marketx.svg)](https://www.g2.com/products/gospotcheck-by-form/reviews)
 
@@ -991,78 +1063,6 @@ Average: 9.5
 
 9.5
 
-[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#14
-
-[![Field Nation](https://images.g2crowd.com/uploads/product/hd_favicon/1507058487/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
-
-[Field Nation](https://www.g2.com/products/field-nation/reviews "Field Nation")
-
-77
-
-[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-77
-
-Top Industries of Reviewers:
-
-Information Technology and Services
-
-63%
-
-Telecommunications
-
-18%
-
-Computer Networking
-
-10%
-
-Computer & Network Security
-
-9%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.2
-
-Meets Requirements
-
-Average: 9.5
-
-9.5
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.6
-
-Ease of Setup
-
-Average: 9.4
-
-9.1
-
-Quality of Support
-
-Average: 9.6
-
-9.2
-
-Ease of Admin
-
-Average: 9.5
-
-9.3
-
 [Expand/Collapse ServiceNow Field Service Management](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #15
@@ -1083,15 +1083,15 @@ Top Industries of Reviewers:
 
 Information Technology and Services
 
-53%
+55%
 
 Hospital & Health Care
 
-22%
+21%
 
 Telecommunications
 
-14%
+13%
 
 Computer Software
 
@@ -1103,13 +1103,13 @@ Ease of Use
 
 Average: 9.5
 
-8.6
+8.7
 
 Meets Requirements
 
 Average: 9.5
 
-9.1
+9.0
 
 Ease of Doing Business With
 
