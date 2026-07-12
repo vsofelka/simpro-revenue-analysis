@@ -38,7 +38,7 @@ ServiceTitan](https://www.g2.com/products/servicetitan/reviews)
 \\
 Simpro\\
 \\
-(425)\\
+(428)\\
 \\
 4.2  out of  5\\
 \\
@@ -56,9 +56,7 @@ Sponsored
 
 Housecall Pro
 
-4.3/5
-
-(204)
+4.3/5(204)
 
 Visit Website
 
@@ -68,7 +66,7 @@ Star Rating
 
 [(373)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
 
-[(425)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(428)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
@@ -122,7 +120,7 @@ Simpro
 
 Star Rating
 
-[(425)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(428)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
@@ -195,7 +193,7 @@ Meets Requirements
 
 7.8
 
-306
+310
 
 Ease of Use
 
@@ -205,7 +203,7 @@ Ease of Use
 
 7.8
 
-311
+315
 
 Ease of Setup
 
@@ -215,7 +213,7 @@ Ease of Setup
 
 6.5
 
-195
+199
 
 Ease of Admin
 
@@ -223,9 +221,9 @@ Ease of Admin
 
 200
 
-7.6
+7.5
 
-173
+175
 
 Quality of Support
 
@@ -235,7 +233,7 @@ Quality of Support
 
 7.9
 
-296
+300
 
 Has the product been a good partner in doing business?
 
@@ -245,7 +243,7 @@ Has the product been a good partner in doing business?
 
 8.0
 
-171
+173
 
 Product Direction (% positive)
 
@@ -255,7 +253,37 @@ Product Direction (% positive)
 
 8.4
 
-288
+292
+
+## Send me this comparison
+
+Fill out the form and we'll send the comparison directly to your inbox.
+
+Email address \*
+
+Get the comparison
+
+To continue, please agree to our [Terms of Use](https://legal.g2.com/terms-of-use) and [Privacy Policy](https://legal.g2.com/privacy-policy).
+
+I would like to receive updates about products, services, and special offers from G2.
+
+## You're in! Just one more question:
+
+What are you here to do today?
+
+Select an optionReplace a toolSearch for new softwareI'm just browsing
+
+Submit
+
+## Thank you!
+
+We're sending you a link to this comparison
+
+![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)
+
+vs
+
+![Simpro](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)
 
 Features by Category
 
@@ -535,9 +563,9 @@ Barcode and Signature Capture
 
 Not enough data
 
-6.5(won by default)
+6.6(won by default)
 
-47
+48
 
 Image and Video Capture
 
@@ -597,7 +625,7 @@ Field Service ManagementHide 18 FeaturesShow 18 Features
 
 7.5
 
-267
+270
 
 Generative AI
 
@@ -609,7 +637,7 @@ AI Text Summarization
 
 7.3
 
-100
+101
 
 AI Image-to-Text
 
@@ -631,7 +659,7 @@ Calendar
 
 7.7(won by 0.3)
 
-196
+198
 
 Dispatch
 
@@ -651,7 +679,7 @@ Roles
 
 7.9
 
-191
+192
 
 Booking
 
@@ -673,7 +701,7 @@ Location
 
 7.6
 
-195
+196
 
 Employee Communication
 
@@ -683,7 +711,7 @@ Employee Communication
 
 7.2
 
-200
+201
 
 Behavior Monitoring
 
@@ -717,13 +745,13 @@ After the Job
 
 Reports
 
-8.4(won by 1.0)
+8.4(won by 0.9)
 
 212
 
-7.4
+7.5
 
-222
+223
 
 Analytics
 
@@ -733,7 +761,7 @@ Analytics
 
 7.2
 
-202
+203
 
 Invoicing
 
@@ -743,7 +771,7 @@ Invoicing
 
 8.3
 
-227
+229
 
 CRM Integrations
 
@@ -905,27 +933,27 @@ Simpro
 
 Construction
 
-37.0%
+37.1%
 
 Electrical/Electronic Manufacturing
 
-13.7%
+13.6%
 
 Facilities Services
 
-9.1%
+9.3%
 
 Mechanical or Industrial Engineering
 
-6.5%
+6.4%
 
 Security and Investigations
 
-5.8%
+6.0%
 
 Other
 
-27.9%
+27.6%
 
 Alternatives
 
@@ -1053,10 +1081,10 @@ The component that sets simPRO apart from our competitors is our commitment to c
 
 ### Spotlight Categories
 
-- [Talent Assessment Software](https://www.g2.com/categories/talent-assessment-software)
-- [Revenue Operations & Intelligence (RO&I) Software](https://www.g2.com/categories/revenue-operations-intelligence-ro-i)
-- [Accounts Receivable Software](https://www.g2.com/categories/accounts-receivable)
-- [CMMS Software](https://www.g2.com/categories/cmms)
+- [Professional Services Automation Software](https://www.g2.com/categories/professional-services-automation)
+- [Network Monitoring Software](https://www.g2.com/categories/network-monitoring)
+- [Retail POS Systems](https://www.g2.com/categories/retail-pos)
+- [Contact Center Workforce Software](https://www.g2.com/categories/contact-center-workforce)
 
 - [At a Glance](https://www.g2.com/compare/servicetitan-vs-simpro#glance)
 - [Pricing](https://www.g2.com/compare/servicetitan-vs-simpro#pricing)
