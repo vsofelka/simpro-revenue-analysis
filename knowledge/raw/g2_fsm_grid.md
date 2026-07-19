@@ -63,13 +63,13 @@ Compare
 
 [Agentforce Field Service (formerly Salesforce Field Service)](https://www.g2.com/products/agentforce-field-service-formerly-salesforce-field-service/reviews "Agentforce Field Service (formerly Salesforce Field Service)")
 
-99
+98
 
 [Expand/Collapse Agentforce Field Service (formerly Salesforce Field Service)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-99
+98
 
 Top Industries of Reviewers:
 
@@ -105,7 +105,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.0
 
@@ -135,13 +135,13 @@ Average: 9.5
 
 [Jobber](https://www.g2.com/products/jobber/reviews "Jobber")
 
-89
+88
 
 [Expand/Collapse Jobber](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-89
+88
 
 Top Industries of Reviewers:
 
@@ -151,7 +151,7 @@ Construction
 
 Consumer Services
 
-36%
+35%
 
 Facilities Services
 
@@ -177,7 +177,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.4
 
@@ -239,7 +239,7 @@ Ease of Use
 
 Average: 9.5
 
-9.3
+9.2
 
 Meets Requirements
 
@@ -249,7 +249,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.5
 
@@ -269,7 +269,7 @@ Ease of Admin
 
 Average: 9.5
 
-9.3
+9.2
 
 [Expand/Collapse Zapium](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -321,7 +321,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -393,7 +393,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -423,13 +423,13 @@ Average: 9.5
 
 [Jotform](https://www.g2.com/products/jotform/reviews "Jotform")
 
-82
+81
 
 [Expand/Collapse Jotform](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-82
+81
 
 Top Industries of Reviewers:
 
@@ -465,7 +465,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.3
 
@@ -487,21 +487,93 @@ Average: 9.5
 
 9.4
 
-[Expand/Collapse Fieldcode](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse MotionOps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #7
+
+[![MotionOps](https://images.g2crowd.com/uploads/product/hd_favicon/167407f54e4b86a7d7340ffe6f74e5b7/motionops.svg)](https://www.g2.com/products/motionops/reviews)
+
+[MotionOps](https://www.g2.com/products/motionops/reviews "MotionOps")
+
+81
+
+[Expand/Collapse MotionOps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+81
+
+Top Industries of Reviewers:
+
+Construction
+
+71%
+
+Environmental Services
+
+14%
+
+Information Technology and Services
+
+7%
+
+Marketing and Advertising
+
+7%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+10.0
+
+Meets Requirements
+
+Average: 9.5
+
+9.9
+
+Ease of Doing Business With
+
+Average: 9.7
+
+9.9
+
+Ease of Setup
+
+Average: 9.4
+
+9.9
+
+Quality of Support
+
+Average: 9.6
+
+9.9
+
+Ease of Admin
+
+Average: 9.5
+
+10.0
+
+[Expand/Collapse Fieldcode](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#8
 
 [![Fieldcode](https://images.g2crowd.com/uploads/product/hd_favicon/c51a498a9cee581cc08fdd54c65d207f/fieldcode.svg)](https://www.g2.com/products/fieldcode/reviews)
 
 [Fieldcode](https://www.g2.com/products/fieldcode/reviews "Fieldcode")
 
-81
+80
 
 [Expand/Collapse Fieldcode](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-81
+80
 
 Top Industries of Reviewers:
 
@@ -537,7 +609,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -559,78 +631,6 @@ Average: 9.5
 
 9.6
 
-[Expand/Collapse MotionOps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#8
-
-[![MotionOps](https://images.g2crowd.com/uploads/product/hd_favicon/167407f54e4b86a7d7340ffe6f74e5b7/motionops.svg)](https://www.g2.com/products/motionops/reviews)
-
-[MotionOps](https://www.g2.com/products/motionops/reviews "MotionOps")
-
-81
-
-[Expand/Collapse MotionOps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-81
-
-Top Industries of Reviewers:
-
-Construction
-
-69%
-
-Environmental Services
-
-15%
-
-Information Technology and Services
-
-8%
-
-Marketing and Advertising
-
-8%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-10.0
-
-Meets Requirements
-
-Average: 9.5
-
-9.9
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.8
-
-Ease of Setup
-
-Average: 9.4
-
-9.9
-
-Quality of Support
-
-Average: 9.6
-
-9.9
-
-Ease of Admin
-
-Average: 9.5
-
-9.9
-
 [Expand/Collapse FRONTU](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #9
@@ -639,13 +639,13 @@ Average: 9.5
 
 [FRONTU](https://www.g2.com/products/frontu/reviews "FRONTU")
 
-80
+79
 
 [Expand/Collapse FRONTU](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-80
+79
 
 Top Industries of Reviewers:
 
@@ -681,7 +681,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.8
 
@@ -703,9 +703,81 @@ Average: 9.5
 
 10.0
 
-[Expand/Collapse XOi](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 #10
+
+[![Field Nation](https://images.g2crowd.com/uploads/product/hd_favicon/1507058487/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
+
+[Field Nation](https://www.g2.com/products/field-nation/reviews "Field Nation")
+
+78
+
+[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+78
+
+Top Industries of Reviewers:
+
+Information Technology and Services
+
+63%
+
+Telecommunications
+
+18%
+
+Computer Networking
+
+10%
+
+Computer Hardware
+
+9%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.3
+
+Meets Requirements
+
+Average: 9.5
+
+9.5
+
+Ease of Doing Business With
+
+Average: 9.7
+
+9.6
+
+Ease of Setup
+
+Average: 9.4
+
+9.2
+
+Quality of Support
+
+Average: 9.6
+
+9.1
+
+Ease of Admin
+
+Average: 9.5
+
+9.4
+
+[Expand/Collapse XOi](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#11
 
 [![XOi](https://images.g2crowd.com/uploads/product/hd_favicon/31a3ee92aaf56441bfe212d9dc1033e9/xoi.svg)](https://www.g2.com/products/xoi/reviews)
 
@@ -753,7 +825,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.8
 
@@ -774,78 +846,6 @@ Ease of Admin
 Average: 9.5
 
 9.1
-
-[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#11
-
-[![Field Nation](https://images.g2crowd.com/uploads/product/hd_favicon/1507058487/field-nation.png)](https://www.g2.com/products/field-nation/reviews)
-
-[Field Nation](https://www.g2.com/products/field-nation/reviews "Field Nation")
-
-77
-
-[Expand/Collapse Field Nation](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-77
-
-Top Industries of Reviewers:
-
-Information Technology and Services
-
-63%
-
-Telecommunications
-
-18%
-
-Computer Networking
-
-10%
-
-Computer Hardware
-
-9%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.2
-
-Meets Requirements
-
-Average: 9.5
-
-9.5
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.6
-
-Ease of Setup
-
-Average: 9.4
-
-9.2
-
-Quality of Support
-
-Average: 9.6
-
-9.2
-
-Ease of Admin
-
-Average: 9.5
-
-9.3
 
 [Expand/Collapse Route4Me](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
@@ -897,7 +897,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -969,7 +969,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -999,13 +999,13 @@ Average: 9.5
 
 [GoSpotCheck by FORM](https://www.g2.com/products/gospotcheck-by-form/reviews "GoSpotCheck by FORM")
 
-77
+76
 
 [Expand/Collapse GoSpotCheck by FORM](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-77
+76
 
 Top Industries of Reviewers:
 
@@ -1041,7 +1041,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.8
 
@@ -1083,19 +1083,19 @@ Top Industries of Reviewers:
 
 Information Technology and Services
 
-55%
+53%
 
 Hospital & Health Care
 
-21%
+20%
 
 Telecommunications
 
-13%
+15%
 
 Computer Software
 
-11%
+13%
 
 Ratings from Reviews (out of 10):
 
@@ -1103,19 +1103,19 @@ Ease of Use
 
 Average: 9.5
 
-8.7
+8.6
 
 Meets Requirements
 
 Average: 9.5
 
-9.0
+8.9
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
-9.3
+9.2
 
 Ease of Setup
 
@@ -1127,17 +1127,161 @@ Quality of Support
 
 Average: 9.6
 
-8.9
+8.8
 
 Ease of Admin
 
 Average: 9.5
 
-8.7
+8.8
+
+[Expand/Collapse Badger Maps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#16
+
+[![Badger Maps](https://images.g2crowd.com/uploads/product/hd_favicon/1c352cd642a852f57af40084e5aaa079/badger-maps.svg)](https://www.g2.com/products/badger-maps/reviews)
+
+[Badger Maps](https://www.g2.com/products/badger-maps/reviews "Badger Maps")
+
+75
+
+[Expand/Collapse Badger Maps](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+75
+
+Top Industries of Reviewers:
+
+Wholesale
+
+33%
+
+Insurance
+
+25%
+
+Medical Devices
+
+25%
+
+Automotive
+
+17%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.4
+
+Meets Requirements
+
+Average: 9.5
+
+9.3
+
+Ease of Doing Business With
+
+Average: 9.7
+
+9.7
+
+Ease of Setup
+
+Average: 9.4
+
+9.6
+
+Quality of Support
+
+Average: 9.6
+
+10.0
+
+Ease of Admin
+
+Average: 9.5
+
+9.8
+
+[Expand/Collapse Appenate (formerly Forms On Fire)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+#17
+
+[![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)](https://www.g2.com/products/appenate-formerly-forms-on-fire/reviews)
+
+[Appenate (formerly Forms On Fire)](https://www.g2.com/products/appenate-formerly-forms-on-fire/reviews "Appenate (formerly Forms On Fire)")
+
+74
+
+[Expand/Collapse Appenate (formerly Forms On Fire)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
+
+Overall Satisfaction Score
+
+74
+
+Top Industries of Reviewers:
+
+Information Technology and Services
+
+38%
+
+Environmental Services
+
+23%
+
+Construction
+
+19%
+
+Marketing and Advertising
+
+19%
+
+Ratings from Reviews (out of 10):
+
+Ease of Use
+
+Average: 9.5
+
+9.4
+
+Meets Requirements
+
+Average: 9.5
+
+9.6
+
+Ease of Doing Business With
+
+Average: 9.7
+
+9.5
+
+Ease of Setup
+
+Average: 9.4
+
+9.4
+
+Quality of Support
+
+Average: 9.6
+
+9.4
+
+Ease of Admin
+
+Average: 9.5
+
+9.5
 
 [Expand/Collapse TEGRAL](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#16
+#18
 
 [![TEGRAL](https://images.g2crowd.com/uploads/product/hd_favicon/ba349d109791ff14c815bb33cdd1405c/tegral.svg)](https://www.g2.com/products/tegral/reviews)
 
@@ -1185,7 +1329,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.5
 
@@ -1193,7 +1337,7 @@ Ease of Setup
 
 Average: 9.4
 
-8.7
+8.6
 
 Quality of Support
 
@@ -1209,19 +1353,19 @@ Average: 9.5
 
 [Expand/Collapse MobiWork](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#17
+#19
 
 [![MobiWork](https://images.g2crowd.com/uploads/product/hd_favicon/fb2741baed66a92aac88b9c1816166a3/mobiwork.svg)](https://www.g2.com/products/mobiwork/reviews)
 
 [MobiWork](https://www.g2.com/products/mobiwork/reviews "MobiWork")
 
-74
+73
 
 [Expand/Collapse MobiWork](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-74
+73
 
 Top Industries of Reviewers:
 
@@ -1257,7 +1401,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 10.0
 
@@ -1281,19 +1425,19 @@ Average: 9.5
 
 [Expand/Collapse OptimoRoute](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
-#18
+#20
 
 [![OptimoRoute](https://images.g2crowd.com/uploads/product/hd_favicon/cbf546c443a779ab85217bad15cc23a4/optimoroute.svg)](https://www.g2.com/products/optimoroute/reviews)
 
 [OptimoRoute](https://www.g2.com/products/optimoroute/reviews "OptimoRoute")
 
-74
+73
 
 [Expand/Collapse OptimoRoute](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
 
 Overall Satisfaction Score
 
-74
+73
 
 Top Industries of Reviewers:
 
@@ -1329,7 +1473,7 @@ Average: 9.5
 
 Ease of Doing Business With
 
-Average: 9.6
+Average: 9.7
 
 9.1
 
@@ -1350,153 +1494,3 @@ Ease of Admin
 Average: 9.5
 
 10.0
-
-[Expand/Collapse Appenate (formerly Forms On Fire)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#19
-
-[![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)](https://www.g2.com/products/appenate-formerly-forms-on-fire/reviews)
-
-[Appenate (formerly Forms On Fire)](https://www.g2.com/products/appenate-formerly-forms-on-fire/reviews "Appenate (formerly Forms On Fire)")
-
-73
-
-[Expand/Collapse Appenate (formerly Forms On Fire)](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-73
-
-Top Industries of Reviewers:
-
-Information Technology and Services
-
-38%
-
-Environmental Services
-
-23%
-
-Construction
-
-19%
-
-Marketing and Advertising
-
-19%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.4
-
-Meets Requirements
-
-Average: 9.5
-
-9.6
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.4
-
-Ease of Setup
-
-Average: 9.4
-
-9.4
-
-Quality of Support
-
-Average: 9.6
-
-9.3
-
-Ease of Admin
-
-Average: 9.5
-
-9.4
-
-[Expand/Collapse Kickserv](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-#20
-
-[![Kickserv](https://images.g2crowd.com/uploads/product/hd_favicon/01383434f82fab773f7d04d1de89b69d/kickserv.svg)](https://www.g2.com/products/kickserv/reviews)
-
-[Kickserv](https://www.g2.com/products/kickserv/reviews "Kickserv")
-
-73
-
-[Expand/Collapse Kickserv](https://www.g2.com/categories/field-service-management?tab=highest_rated#)
-
-Overall Satisfaction Score
-
-73
-
-Top Industries of Reviewers:
-
-Construction
-
-56%
-
-Consumer Services
-
-22%
-
-Facilities Services
-
-12%
-
-Computer Software
-
-9%
-
-Ratings from Reviews (out of 10):
-
-Ease of Use
-
-Average: 9.5
-
-9.4
-
-Meets Requirements
-
-Average: 9.5
-
-9.4
-
-Ease of Doing Business With
-
-Average: 9.6
-
-9.3
-
-Ease of Setup
-
-Average: 9.4
-
-9.4
-
-Quality of Support
-
-Average: 9.6
-
-9.8
-
-Ease of Admin
-
-Average: 9.5
-
-9.3
-
-Remove All
-
-[Compare Now](https://www.g2.com/compare/)
-
-![Chat with G2](https://www.g2.com/assets/catalog_ai/ai-sparkle-6652f9e2176bc49324ac6e37a299857e96910f106aa71af32c937e3d729302fc.svg)

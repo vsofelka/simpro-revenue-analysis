@@ -18,7 +18,7 @@ Thanks! Tell us a little
 
 more about yourself
 
-Email
+Enter your email
 
 Hp123
 
@@ -28,7 +28,7 @@ Thanks! Tell us a little
 
 more about yourself
 
-Email
+Enter your email
 
 Hp123
 

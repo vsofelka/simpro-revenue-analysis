@@ -8,13 +8,13 @@
 
 ![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/1ee6d0ff1787f18fe862ccf2631a61cc/simpro.jpg)
 
-![G2 recognized Simpro](https://images.g2crowd.com/uploads/report_medal_translation/image/35775/medal.svg)
+![G2 recognized Simpro](https://images.g2crowd.com/uploads/report_medal_translation/image/37303/medal.svg)
 
 Simpro
 
 By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8defb)
 
-4.2/5(428)
+4.2/5(434)
 
 ###### 4.2 out of 5 stars
 
@@ -28,11 +28,11 @@ By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8de
 
 [3 star\\
 \\
-7%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=3#reviews)
+8%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=3#reviews)
 
 [2 star\\
 \\
-3%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=2#reviews)
+2%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=2#reviews)
 
 [1 star\\
 \\
@@ -42,7 +42,7 @@ How would you rate your experience with Simpro?
 
 [Start Review](https://www.g2.com/products/simpro/take_survey)
 
-[See all 428 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
+[See all 434 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
 
 [Get Started](https://www.g2.com/products/simpro/leads/new?lead%5Bcontext%5D=contact&lead%5Bsource_location%5D=products%23reviews)
 
@@ -121,13 +121,15 @@ Averages based on real user reviews.
 
 ## Simpro Integrations
 
-(14)
+(16)
 
 What do users say about integrations?
 
 Verified by Simpro
 
 [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+\\
+Bluebeam](https://www.g2.com/products/bluebeam/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 Claude](https://www.g2.com/products/claude-2025-12-11/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -146,6 +148,8 @@ QuickBooks Desktop Enterprise](https://www.g2.com/products/quickbooks-desktop-en
 QuickBooks Desktop Pro](https://www.g2.com/products/quickbooks-desktop-pro/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 QuickBooks Online](https://www.g2.com/products/quickbooks-online/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+\\
+QuickBooks Online Advanced](https://www.g2.com/products/quickbooks-online-advanced/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 Sage 50cloud Accounting](https://www.g2.com/products/sage-50cloud-accounting/reviews) [![Product Avatar Image](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -276,27 +280,27 @@ Answer a few questions to help the Simpro community
 [Yes](https://www.g2.com/products/simpro/take_survey.json?entry_point=short_form%3A+product_profile) [Yes](https://www.g2.com/authorize?form=signup&return_to=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fsimpro%2Freviews%3Fsmall_ask%3Dsimpro)
 No
 
-### Simpro Reviews (428)
+### Simpro Reviews (434)
 
 Reviews
 
-### Simpro Reviews (428)
+### Simpro Reviews (434)
 
 4.2
 
-428 reviews
+434 reviews
 
 [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new) [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new)
 
-234
+237
 
-141
+142
 
-34
+35
 
 13
 
-6
+7
 
 #### What do users say?
 
@@ -308,7 +312,7 @@ Users consistently praise the software for its **user-friendly interface** and *
 
 Generated from real user reviews
 
-Ease of Use (8)Features (5)Data Management (5)Efficiency (4)Customer Support (4)Complexity (4)Learning Curve (3)Improvement Needed (3)Difficult Learning (3)Complex Setup (3) [View All Pros and Cons](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+Ease of Use (7)Features (5)Data Management (5)Efficiency (4)Centralization (3)Setup Difficulties (3)Learning Curve (3)Difficult Learning (3)Complex Setup (3)Complexity (3) [View All Pros and Cons](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Search reviews
 
@@ -332,7 +336,7 @@ View Filters
 
 Company Size
 
-Small Business (50 or fewer emp.) (324)
+Small Business (50 or fewer emp.) (330)
 
 Mid-Market (51-1000 emp.) (102)
 
@@ -342,7 +346,7 @@ User Role
 
 User (170)
 
-Administrator (227)
+Administrator (233)
 
 Executive Sponsor (18)
 
@@ -358,39 +362,39 @@ Industry Analyst / Tech Writer (1)
 
 Category
 
-Field Service Management (401)
+Field Service Management (407)
 
-Construction Estimating (52)
+Construction Estimating (55)
 
-HVAC (60)
+HVAC (61)
 
-Mobile Forms Automation (152)
+Mobile Forms Automation (153)
 
-Construction Project Management (95)
+Construction Project Management (98)
 
-Takeoff (17)
+Takeoff (18)
 
 Industry
 
-Construction (157)
+Construction (160)
 
-Electrical/Electronic Manufacturing (58)
+Electrical/Electronic Manufacturing (59)
 
 Facilities Services (40)
 
-Mechanical or Industrial Engineering (27)
+Mechanical or Industrial Engineering (28)
 
 Security and Investigations (25)
 
-Other (119)
+Other (120)
 
 Region
 
-ANZ (192)
+ANZ (197)
 
 Europe (115)
 
-North America (106)
+North America (107)
 
 Asia (9)
 
@@ -403,7 +407,46 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-a69a87243933ba0e33f1)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-5044f2ee03f0e22f0daa)
+
+[![Mike B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+\\
+MB](https://www.g2.com/users/d11a891c-168a-44bb-9740-0689a7f3fa87)
+
+Mike B.
+
+Owner
+
+Small-Business (50 or fewer emp.)
+
+7/16/2026
+
+More Options
+
+- [Report a Concern](https://www.g2.com/survey_responses/13118004/concerns/new)
+- [Respond as Simpro](https://www.g2.com/survey_responses/simpro-review-13118004/official_response/new)
+
+"Simpro Brings End-to-End Accountability from Quote to Final Payment"
+
+4/5
+
+What do you like best about Simpro?
+
+Simpro has made everyone accountable from the very beginning, from the lead and quote stage all the way through to collecting the final payment for the job. It took some adjustment for everyone here, but it was truly needed. Review collected by and hosted on G2.com.
+
+What do you dislike about Simpro?
+
+The learning curve moving from QuickBooks Desktop to Simpro has been steep. In QuickBooks, you can adjust almost anything at any time. With Simpro, the initial importing is confusing, and when you go back later to try to fix issues, it feels like it gets even worse.
+
+For example, why weren’t we told during training to use the initial import feature in the accounting link? It’s also the small things that add up, like why sites default to customer rates. Most of the time, the sites are in different towns, so the tax rates aren’t correct unless they’re manually updated. Then, after manually updating, you might get a prompt like, “Do you wish to save the current tax rate to this site for future transactions?” It’s just little things like that. why cant the accounting link be automatic or on a timer of some sort, instead of manually running it? Review collected by and hosted on G2.com.
+
+What problems is Simpro solving and how is that benefiting you?
+
+Inventory in warehouses and on jobs. I cant wait to get this 100%. missing parts is a killer for anyone and everyone. its never to our advantage it alays benefits the customer. Review collected by and hosted on G2.com.
+
+Show More
+
+Current UserValidated ReviewerSource: Organic
 
 [![Theo .](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -757,92 +800,42 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Dorota F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Geovani Q.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
-DF](https://www.g2.com/users/e2171ac3-f1b4-4bfb-af48-91945db32e81)
+GQ](https://www.g2.com/users/6912f1b3-4375-4dab-9b51-7d544d842e3b)
 
-Dorota F.
+Geovani Q.
 
-Office Administrator
+MD
 
 Small-Business (50 or fewer emp.)
 
-5/29/2026
+7/11/2026
 
 More Options
 
-- [Report a Concern](https://www.g2.com/survey_responses/12889660/concerns/new)
-- [Respond as Simpro](https://www.g2.com/survey_responses/simpro-review-12889660/official_response/new)
+- [Report a Concern](https://www.g2.com/survey_responses/13091610/concerns/new)
+- [Respond as Simpro](https://www.g2.com/survey_responses/simpro-review-13091610/official_response/new)
 
-"All-in-One Platform with Impressive New AI Agents"
+"Disappointed customer"
 
-4.5/5
+0/5
 
 What do you like best about Simpro?
 
-The new AI agents are great, and I'm currently setting up the Maintenance Planner. Our account manager is very helpful. Review collected by and hosted on G2.com.
+It’s a smart but dumb software. There are cool features but also some really stupid ways it does things. It’s a love and hate relationship. Review collected by and hosted on G2.com.
 
 What do you dislike about Simpro?
 
-Some features are difficult to use. For example, supplier quotes are confusing in terms of naming, and it’s hard to understand how they work. Review collected by and hosted on G2.com.
+It’s very clumsy and very old in some features. Also everything has to be a stupid add on when we already pay so much for it. Very disappointing Review collected by and hosted on G2.com.
 
 What problems is Simpro solving and how is that benefiting you?
 
-During asset testing, mobile AI agents such as Job Scribe help obtain more precise reports from engineers. Review collected by and hosted on G2.com.
+New travel features and photos upload are quite helpful Review collected by and hosted on G2.com.
 
 Show More
-
-6/30/2026
 
 Current UserValidated ReviewerSource: Organic
-
-[KM](https://www.g2.com/users/17d88c84-5919-49b3-856c-925f3f5d6a09)
-
-Kirstie M.
-
-Small-Business (50 or fewer emp.)
-
-7/16/2023
-
-More Options
-
-- [Report a Concern](https://www.g2.com/survey_responses/8324714/concerns/new)
-
-"The perfect program for job tracking"
-
-5/5
-
-What do you like best about Simpro?
-
-I love that you can track everything from labour and materials in the one place, nothing can be missed and everything is streamlined. Job flow is also very easy to keep on top of. Review collected by and hosted on G2.com.
-
-What do you dislike about Simpro?
-
-There is no major dislikes with Simpro, although it would ideal if the technicians could access all their licences on the app Review collected by and hosted on G2.com.
-
-What problems is Simpro solving and how is that benefiting you?
-
-Simpro is streamlining all of the invoicing and flow of all of our jobs, making things flow very smoothly. Review collected by and hosted on G2.com.
-
-Show More
-
-Response from Simpro Marketing of Simpro
-
-[Editedit](https://www.g2.com/survey_responses/simpro-review-8324714/official_response/edit)
-
-Hi Kirstie,
-
-Thanks for your wonderful review and letting us know that you find Simpro to be a one-stop solution for tracking everything from jobs, to labor and materials, to invoicing in one place. Making sure nothing gets missed and streamlining the whole process are top priorities for us in Simpro.
-
-We get how important it is for technicians to have easy access to information, and we appreciate your feedback about accessing all their licences on the Simpro Mobile app. Our team is always working to improve the app's features and capabilities, and we'll definitely take your suggestion into consideration for future updates.
-
-If you've got any more feedback or need a hand, don't hesitate to reach out. We're here to support you every step of the way.
-
-Best regards,
-
-6/1/2026
-
-Current UserValidated ReviewerIncentivizedSource: G2 invite on behalf of seller
 
 - &lsaquo; Prev‹ Prev
 - 1
@@ -861,18 +854,6 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 [Ask about Simpro](https://www.g2.com/products/simpro/discussions/new)
 
-GU
-
-Guest User
-
-What is simPRO used for?
-
-0 Upvotes
-
-0
-
-[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
-
 CD
 
 Chris Dayton
@@ -888,6 +869,18 @@ Your drop down list of industries served does not cover \| Maintenance / Fire et
 1
 
 [Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
+
+GU
+
+Guest User
+
+What is simPRO used for?
+
+0 Upvotes
+
+0
+
+[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -923,7 +916,7 @@ ServiceTitan
 
 Jobber
 
-4.6/5(509)
+4.6/5(510)
 
 [Compare Now](https://www.g2.com/compare/jobber-vs-simpro)
 
@@ -979,7 +972,7 @@ ServiceTitan\\
 \\
 Jobber\\
 \\
-4.6/5(509)](https://www.g2.com/products/jobber/reviews)
+4.6/5(510)](https://www.g2.com/products/jobber/reviews)
 
 [![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -999,15 +992,15 @@ Show More
 
 ##### Explore More
 
-[What are the most trusted financial consulting firms by CFOs and finance leaders based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-financial-consulting-firms-by-cfos-and-finance-leaders-based-on-user-reviews) [Which AI chatbot solution works best for 24/7 support?](https://www.g2.com/discussions/which-ai-chatbot-solution-works-best-for-24-7-support) [Best tools for building personalized employee career paths](https://www.g2.com/discussions/best-tools-for-building-personalized-employee-career-paths)
+[Which estimating software offers real-time cost updates?](https://www.g2.com/discussions/which-estimating-software-gives-me-real-time-cost-updates) [What is the most affordable media targeting solution for small teams?](https://www.g2.com/discussions/what-is-the-most-affordable-media-targeting-solution-for-small-teams) [What is the best payroll software for small businesses?](https://www.g2.com/discussions/what-is-the-best-payroll-software-for-small-businesses)
 
-[What is the best-rated software for handling social media?](https://www.g2.com/discussions/what-is-the-best-rated-software-for-handling-social-media) [Top-rated asset tracking solutions with barcode/RFID support](https://www.g2.com/discussions/top-rated-asset-tracking-solutions-with-barcode-rfid-support) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Top-rated portals for client collaboration and communication](https://www.g2.com/discussions/what-are-the-top-rated-portals-for-client-collaboration-and-communication) [Best rated security compliance service for IT sector](https://www.g2.com/discussions/what-s-the-best-rated-security-compliance-service-for-the-it-sector) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show More
 
-[What are the most trusted financial consulting firms by CFOs and finance leaders based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-financial-consulting-firms-by-cfos-and-finance-leaders-based-on-user-reviews) [Which AI chatbot solution works best for 24/7 support?](https://www.g2.com/discussions/which-ai-chatbot-solution-works-best-for-24-7-support) [Best tools for building personalized employee career paths](https://www.g2.com/discussions/best-tools-for-building-personalized-employee-career-paths)
+[Which estimating software offers real-time cost updates?](https://www.g2.com/discussions/which-estimating-software-gives-me-real-time-cost-updates) [What is the most affordable media targeting solution for small teams?](https://www.g2.com/discussions/what-is-the-most-affordable-media-targeting-solution-for-small-teams) [What is the best payroll software for small businesses?](https://www.g2.com/discussions/what-is-the-best-payroll-software-for-small-businesses)
 
-[What is the best-rated software for handling social media?](https://www.g2.com/discussions/what-is-the-best-rated-software-for-handling-social-media) [Top-rated asset tracking solutions with barcode/RFID support](https://www.g2.com/discussions/top-rated-asset-tracking-solutions-with-barcode-rfid-support) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Top-rated portals for client collaboration and communication](https://www.g2.com/discussions/what-are-the-top-rated-portals-for-client-collaboration-and-communication) [Best rated security compliance service for IT sector](https://www.g2.com/discussions/what-s-the-best-rated-security-compliance-service-for-the-it-sector) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Get Demo
 
@@ -1015,7 +1008,7 @@ Get Demo
 
 Simpro
 
-4.2/5(428)
+4.2/5(434)
 
 [Save to Research Board](https://www.g2.com/assistant/preview?product_slug=simpro&source=sticky_header_pin)
 
