@@ -38,7 +38,7 @@ ServiceTitan](https://www.g2.com/products/servicetitan/reviews)
 \\
 Simpro\\
 \\
-(428)\\
+(434)\\
 \\
 4.2  out of  5\\
 \\
@@ -66,7 +66,7 @@ Star Rating
 
 [(373)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
 
-[(428)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(434)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
@@ -74,15 +74,15 @@ Small-Business (65.4% of reviews)
 
 Information
 
-Small-Business (75.8% of reviews)
+Small-Business (76.1% of reviews)
 
 Information
 
 Pros & Cons
 
-[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (19)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
+[Ease of Use (29)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (24)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (17)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (15)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
 
-[Ease of Use (8)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (4)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
+[Ease of Use (7)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -106,7 +106,7 @@ Information
 
 Pros & Cons
 
-[Ease of Use (35)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (27)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (20)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (19)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
+[Ease of Use (29)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400457&qs=pros-and-cons#reviews) [Customer Support (24)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1399594&qs=pros-and-cons#reviews) [Learning Curve (17)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1400061&qs=pros-and-cons#reviews) [Improvement Needed (15)](https://www.g2.com/products/servicetitan/reviews?filters%5Bsentiment_snippet%5D=1401545&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -120,17 +120,17 @@ Simpro
 
 Star Rating
 
-[(428)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
+[(434)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
-Small-Business (75.8% of reviews)
+Small-Business (76.1% of reviews)
 
 Information
 
 Pros & Cons
 
-[Ease of Use (8)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (4)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
+[Ease of Use (7)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
 
 Entry-Level Pricing
 
@@ -191,9 +191,9 @@ Meets Requirements
 
 304
 
-7.8
+7.9
 
-310
+316
 
 Ease of Use
 
@@ -203,7 +203,7 @@ Ease of Use
 
 7.8
 
-315
+321
 
 Ease of Setup
 
@@ -213,7 +213,7 @@ Ease of Setup
 
 6.5
 
-199
+205
 
 Ease of Admin
 
@@ -223,7 +223,7 @@ Ease of Admin
 
 7.5
 
-175
+181
 
 Quality of Support
 
@@ -233,7 +233,7 @@ Quality of Support
 
 7.9
 
-300
+306
 
 Has the product been a good partner in doing business?
 
@@ -243,7 +243,7 @@ Has the product been a good partner in doing business?
 
 8.0
 
-173
+179
 
 Product Direction (% positive)
 
@@ -253,7 +253,7 @@ Product Direction (% positive)
 
 8.4
 
-292
+297
 
 ## Send me this comparison
 
@@ -285,531 +285,7 @@ vs
 
 ![Simpro](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)
 
-Features by Category
-
-Construction Project ManagementHide 13 FeaturesShow 13 Features
-
-Not enough data
-
-7.5
-
-35
-
-Task Management
-
-Construction Accounting Tool Integrations
-
-Not enough data
-
-8.1(won by default)
-
-27
-
-Construction Estimating Tool Integration
-
-Not enough data
-
-7.2(won by default)
-
-27
-
-Construction Workforce Management Tool Integration
-
-Not enough data
-
-7.4(won by default)
-
-28
-
-Project Tracking
-
-Not enough data
-
-8.6(won by default)
-
-32
-
-Information Management
-
-Not enough data
-
-8.3(won by default)
-
-31
-
-Communication and Collaboration
-
-Not enough data
-
-7.1(won by default)
-
-30
-
-Site Management
-
-Field Service Management
-
-Not enough data
-
-7.5(won by default)
-
-31
-
-Field Collaboration
-
-Not enough data
-
-7.4(won by default)
-
-29
-
-Mobile App
-
-Not enough data
-
-6.6(won by default)
-
-31
-
-Field Reporting
-
-Not enough data
-
-7.0(won by default)
-
-28
-
-Timesheets
-
-Not enough data
-
-7.3(won by default)
-
-32
-
-Photo and Video Uploads
-
-Not enough data
-
-6.7(won by default)
-
-31
-
-Workforce Scheduling
-
-Not enough data
-
-7.6(won by default)
-
-32
-
-Construction EstimatingHide 5 FeaturesShow 5 Features
-
-Not enough data
-
-8.2
-
-20
-
-Workflow Management
-
-Proposal Generation
-
-Not enough data
-
-7.8(won by default)
-
-18
-
-Integrations
-
-Not enough data
-
-7.8(won by default)
-
-16
-
-Job Costing
-
-Access to Cost Databases
-
-Not enough data
-
-8.2(won by default)
-
-17
-
-Digitizing Quantities
-
-Not enough data
-
-8.4(won by default)
-
-16
-
-Work Breakdown Structure (WBS)
-
-Not enough data
-
-8.2(won by default)
-
-16
-
-TakeoffHide 7 FeaturesShow 7 Features
-
-Not enough data
-
-Not enough data
-
-Data Gathering
-
-Cost Calculators
-
-Not enough data
-
-Not enough data
-
-Enterprise Search
-
-Not enough data
-
-Not enough data
-
-Multiple Input Formats
-
-Not enough data
-
-Not enough data
-
-Bid Generation
-
-Collaborative Editing
-
-Not enough data
-
-Not enough data
-
-Automated BoQs and BoMs
-
-Not enough data
-
-Not enough data
-
-Versioning
-
-Not enough data
-
-Not enough data
-
-Integration with Estimating Software
-
-Not enough data
-
-Not enough data
-
-Mobile Forms AutomationHide 12 FeaturesShow 12 Features
-
-Not enough data
-
-6.9
-
-75
-
-Development Tools
-
-Drag-and-drop Form Builder
-
-Not enough data
-
-6.4(won by default)
-
-47
-
-API Builder
-
-Not enough data
-
-5.5(won by default)
-
-34
-
-Integrations
-
-Not enough data
-
-6.5(won by default)
-
-55
-
-Field Tools
-
-OCR
-
-Not enough data
-
-6.4(won by default)
-
-32
-
-GPS & Time Stamps
-
-Not enough data
-
-7.6(won by default)
-
-55
-
-Barcode and Signature Capture
-
-Not enough data
-
-6.6(won by default)
-
-48
-
-Image and Video Capture
-
-Not enough data
-
-7.4(won by default)
-
-58
-
-Offline Capability
-
-Not enough data
-
-5.9(won by default)
-
-48
-
-Embedded Work Instructions
-
-Not enough data
-
-7.2(won by default)
-
-54
-
-Back Office Tools
-
-Report Formatting
-
-Not enough data
-
-7.2(won by default)
-
-61
-
-Roles and Permissions
-
-Not enough data
-
-8.4(won by default)
-
-71
-
-Analytics Dashboards
-
-Not enough data
-
-7.9(won by default)
-
-64
-
-Field Service ManagementHide 18 FeaturesShow 18 Features
-
-7.6
-
-233
-
-7.5
-
-270
-
-Generative AI
-
-AI Text Summarization
-
-7.9(won by 0.6)
-
-85
-
-7.3
-
-101
-
-AI Image-to-Text
-
-6.9(won by 0.5)
-
-81
-
-6.4
-
-91
-
-Before the Job
-
-Calendar
-
-7.4
-
-190
-
-7.7(won by 0.3)
-
-198
-
-Dispatch
-
-8.9(won by 1.5)
-
-218
-
-7.4
-
-182
-
-Roles
-
-8.4(won by 0.5)
-
-201
-
-7.9
-
-192
-
-Booking
-
-8.4(won by 0.7)
-
-194
-
-7.7
-
-168
-
-On the Job
-
-Location
-
-8.6(won by 1.0)
-
-201
-
-7.6
-
-196
-
-Employee Communication
-
-7.8(won by 0.6)
-
-205
-
-7.2
-
-201
-
-Behavior Monitoring
-
-7.3(won by default)
-
-183
-
-Feature Not Available
-
-Client Notifications
-
-8.5(won by 1.7)
-
-207
-
-6.8
-
-150
-
-Field Sales
-
-8.1(won by 1.2)
-
-175
-
-6.9
-
-163
-
-After the Job
-
-Reports
-
-8.4(won by 0.9)
-
-212
-
-7.5
-
-223
-
-Analytics
-
-8.3(won by 1.1)
-
-206
-
-7.2
-
-203
-
-Invoicing
-
-8.7(won by 0.4)
-
-209
-
-8.3
-
-229
-
-CRM Integrations
-
-7.9(won by 1.2)
-
-186
-
-6.7
-
-155
-
-Agentic AI - Field Service Management
-
-Autonomous Task Execution
-
-5.2(won by default)
-
-19
-
-Not enough data
-
-Natural Language Interaction
-
-5.0
-
-18
-
-9.7(won by 4.7)
-
-5
-
-Proactive Assistance
-
-5.1(won by default)
-
-18
-
-Not enough data
+**Content missing**
 
 Categories
 
@@ -837,123 +313,7 @@ ServiceTitan is categorized as [Pest Control](https://www.g2.com/categories/pest
 
 Simpro is categorized as [Construction Estimating](https://www.g2.com/categories/construction-estimating-software), [Construction Project Management](https://www.g2.com/categories/construction-project-management), [Takeoff](https://www.g2.com/categories/takeoff), and [Mobile Forms Automation](https://www.g2.com/categories/mobile-forms-automation)
 
-Reviews
-
-Reviewers' Company Size
-
-[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)](https://www.g2.com/products/servicetitan/reviews)
-
-ServiceTitan
-
-Small-Business(50 or fewer emp.)
-
-65.4%
-
-Mid-Market(51-1000 emp.)
-
-32.7%
-
-Enterprise(\> 1000 emp.)
-
-1.9%
-
-[![Simpro](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)](https://www.g2.com/products/simpro/reviews)
-
-Simpro
-
-Small-Business(50 or fewer emp.)
-
-75.8%
-
-Mid-Market(51-1000 emp.)
-
-24.0%
-
-Enterprise(\> 1000 emp.)
-
-0.2%
-
-Small-Business
-
-(50 or fewer emp.)
-
-65.4%
-
-75.8%
-
-Mid-Market
-
-(51-1000 emp.)
-
-32.7%
-
-24.0%
-
-Enterprise
-
-(\> 1000 emp.)
-
-1.9%
-
-0.2%
-
-Reviewers' Industry
-
-[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)](https://www.g2.com/products/servicetitan/reviews)
-
-ServiceTitan
-
-Construction
-
-38.2%
-
-Consumer Services
-
-22.9%
-
-Utilities
-
-4.2%
-
-Marketing and Advertising
-
-3.7%
-
-Accounting
-
-3.7%
-
-Other
-
-27.2%
-
-[![Simpro](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)](https://www.g2.com/products/simpro/reviews)
-
-Simpro
-
-Construction
-
-37.1%
-
-Electrical/Electronic Manufacturing
-
-13.6%
-
-Facilities Services
-
-9.3%
-
-Mechanical or Industrial Engineering
-
-6.4%
-
-Security and Investigations
-
-6.0%
-
-Other
-
-27.6%
+**Content missing**
 
 Alternatives
 
@@ -1001,79 +361,7 @@ Autodesk Forma (formerly...](https://www.g2.com/products/autodesk-forma-formerly
 
 [See all alternatives](https://www.g2.com/products/simpro/competitors/alternatives)
 
-Discussions
-
-[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)](https://www.g2.com/products/servicetitan/reviews)
-
-ServiceTitan Discussions
-
-Is it easy to migrate to ServiceTitan?
-
-4 Comments
-
-![Daniel C.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
-
-DC
-
-The answer is kind of complicated. In short, yes it is Easy. Service Titan has a whole range of trainers, support staff and online training to make the...[Read more](https://www.g2.com/discussions/is-it-easy-to-migrate-to-servicetitan)
-
-What is ServiceTitan?
-
-2 Comments
-
-![Alex D.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
-
-AD
-
-Servicetitan is a industry specific software for plumbing, heating, electrical, garage doors, lawn care and pest control. They are expanding to other...[Read more](https://www.g2.com/discussions/what-is-servicetitan)
-
-What is ServiceTitan used for?
-
-1 Comment
-
-![Tricia B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
-
-TB
-
-Service Titan is an online field service management system. It is cloud based. It has it all. It is used for industries like HVAC, Plumbing, Electrical,...[Read more](https://www.g2.com/discussions/what-is-servicetitan-used-for)
-
-[See all discussions](https://www.g2.com/products/servicetitan/discuss)
-
-[![Simpro](https://images.g2crowd.com/uploads/product/hd_favicon/81991d213a756595ce01d63753f1a412/simpro.svg)](https://www.g2.com/products/simpro/reviews)
-
-Simpro Discussions
-
-Your drop down list of industries served does not cover \| Maintenance / Fire etc
-
-1 Comment
-
-S
-
-Hi there Chris,
-
-With over 150,000 simPRO users, the Ideas Portal receives many suggestions every day. We can reassure you though that every idea...[Read more](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
-
-Can you make it search anything within the job details field?
-
-1 Comment
-
-![Jordyn E.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
-
-JE
-
-It can search for some things in the global search bar, but not everything can be searched[Read more](https://www.g2.com/discussions/can-you-make-it-search-anything-within-the-job-details-field)
-
-How is simPRO better than their competitors (or most others in their market)?
-
-1 Comment
-
-Official Response from Simpro
-
-![](https://images.g2crowd.com/uploads/product/image/thumb_square/thumb_square_1ee6d0ff1787f18fe862ccf2631a61cc/simpro.jpg)
-
-The component that sets simPRO apart from our competitors is our commitment to customer success. Our experienced implementation consultants provide thorough...[Read more](https://www.g2.com/discussions/how-is-simpro-better-than-their-competitors-or-most-others-in-their-market)
-
-[See all discussions](https://www.g2.com/products/simpro/discuss)
+**Content missing**
 
 [Ask ServiceTitan a Question](https://www.g2.com/products/servicetitan/leads/new?lead%5Bcontext%5D=contact&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=comparisons%23show) [Contact ServiceTitan](https://www.g2.com/products/servicetitan/leads/new?lead%5Bcontext%5D=contact&lead%5Bdocument_title%5D=&lead%5Bfeature%5D=&lead%5Bsource_location%5D=comparisons%23show)
 
@@ -1081,10 +369,10 @@ The component that sets simPRO apart from our competitors is our commitment to c
 
 ### Spotlight Categories
 
-- [Professional Services Automation Software](https://www.g2.com/categories/professional-services-automation)
-- [Network Monitoring Software](https://www.g2.com/categories/network-monitoring)
-- [Retail POS Systems](https://www.g2.com/categories/retail-pos)
-- [Contact Center Workforce Software](https://www.g2.com/categories/contact-center-workforce)
+- [Enterprise Risk Management (ERM) Software](https://www.g2.com/categories/enterprise-risk-management-erm)
+- [ERP Systems](https://www.g2.com/categories/erp-systems)
+- [Procure to Pay Software](https://www.g2.com/categories/procure-to-pay)
+- [Employee Recognition Software](https://www.g2.com/categories/employee-recognition)
 
 - [At a Glance](https://www.g2.com/compare/servicetitan-vs-simpro#glance)
 - [Pricing](https://www.g2.com/compare/servicetitan-vs-simpro#pricing)
