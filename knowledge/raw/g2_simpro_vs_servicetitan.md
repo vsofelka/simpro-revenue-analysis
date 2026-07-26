@@ -24,7 +24,7 @@ Customize this compareAdd the features that matter most to you to compare side b
 \\
 ServiceTitan\\
 \\
-(373)\\
+(374)\\
 \\
 4.5  out of  5\\
 \\
@@ -50,13 +50,33 @@ Simpro](https://www.g2.com/products/simpro/reviews)
 
 Featured Products
 
-![Housecall Pro](https://images.g2crowd.com/uploads/product/hd_favicon/ce6ead72f65b8b12db2c767501f610ed/housecall-pro.svg)
+![Premier Construction Software](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a49939d830bc717590cecc12a108dd11/premier-construction-software.jpg)
 
 Sponsored
 
-Housecall Pro
+Premier Construction Software
 
-4.3/5(204)
+4.8/5(57)
+
+Visit Website
+
+![InEight](https://images.g2crowd.com/uploads/product/hd_favicon/19ab58d0305e9cbd2206f1d6b10acd51/ineight.svg)
+
+Sponsored
+
+InEight
+
+4.1/5(48)
+
+Visit Website
+
+![Appenate (formerly Forms On Fire)](https://images.g2crowd.com/uploads/product/hd_favicon/0826229be0beb3a670b0e7aea25ea8d8/appenate-formerly-forms-on-fire.svg)
+
+Sponsored
+
+Appenate (formerly Forms On Fire)
+
+4.5/5(268)
 
 Visit Website
 
@@ -64,13 +84,13 @@ At a Glance
 
 Star Rating
 
-[(373)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
+[(374)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
 
 [(434)](https://www.g2.com/products/simpro/reviews#reviews) 4.2  out of  5
 
 Market Segments
 
-Small-Business (65.4% of reviews)
+Small-Business (65.5% of reviews)
 
 Information
 
@@ -96,11 +116,11 @@ ServiceTitan
 
 Star Rating
 
-[(373)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
+[(374)](https://www.g2.com/products/servicetitan/reviews#reviews) 4.5  out of  5
 
 Market Segments
 
-Small-Business (65.4% of reviews)
+Small-Business (65.5% of reviews)
 
 Information
 
@@ -189,7 +209,7 @@ Meets Requirements
 
 8.7
 
-304
+305
 
 7.9
 
@@ -199,7 +219,7 @@ Ease of Use
 
 8.3
 
-309
+310
 
 7.8
 
@@ -209,7 +229,7 @@ Ease of Setup
 
 6.7
 
-236
+237
 
 6.5
 
@@ -219,7 +239,7 @@ Ease of Admin
 
 8.0
 
-200
+201
 
 7.5
 
@@ -229,7 +249,7 @@ Quality of Support
 
 7.8
 
-299
+300
 
 7.9
 
@@ -239,7 +259,7 @@ Has the product been a good partner in doing business?
 
 8.7
 
-201
+202
 
 8.0
 
@@ -249,7 +269,7 @@ Product Direction (% positive)
 
 9.0
 
-298
+299
 
 8.4
 
@@ -369,10 +389,10 @@ Autodesk Forma (formerly...](https://www.g2.com/products/autodesk-forma-formerly
 
 ### Spotlight Categories
 
-- [Enterprise Risk Management (ERM) Software](https://www.g2.com/categories/enterprise-risk-management-erm)
-- [ERP Systems](https://www.g2.com/categories/erp-systems)
-- [Procure to Pay Software](https://www.g2.com/categories/procure-to-pay)
-- [Employee Recognition Software](https://www.g2.com/categories/employee-recognition)
+- [Voice Recognition Software](https://www.g2.com/categories/voice-recognition)
+- [SMS Marketing Software](https://www.g2.com/categories/sms-marketing)
+- [Purchasing Software](https://www.g2.com/categories/purchasing-software)
+- [Contact Center Quality Assurance Software](https://www.g2.com/categories/contact-center-quality-assurance)
 
 - [At a Glance](https://www.g2.com/compare/servicetitan-vs-simpro#glance)
 - [Pricing](https://www.g2.com/compare/servicetitan-vs-simpro#pricing)

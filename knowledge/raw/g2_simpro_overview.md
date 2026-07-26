@@ -44,6 +44,8 @@ How would you rate your experience with Simpro?
 
 [See all 434 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
 
+AI Verified
+
 [Get Started](https://www.g2.com/products/simpro/leads/new?lead%5Bcontext%5D=contact&lead%5Bsource_location%5D=products%23reviews)
 
 Get Demo
@@ -407,7 +409,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-5044f2ee03f0e22f0daa)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-e3ebc629ec93ca90e8b4)
 
 [![Mike B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -854,6 +856,18 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 [Ask about Simpro](https://www.g2.com/products/simpro/discussions/new)
 
+GU
+
+Guest User
+
+What is simPRO used for?
+
+0 Upvotes
+
+0
+
+[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
+
 CD
 
 Chris Dayton
@@ -869,18 +883,6 @@ Your drop down list of industries served does not cover \| Maintenance / Fire et
 1
 
 [Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
-
-GU
-
-Guest User
-
-What is simPRO used for?
-
-0 Upvotes
-
-0
-
-[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -908,7 +910,7 @@ Simpro Comparisons
 
 ServiceTitan
 
-4.5/5(373)
+4.5/5(374)
 
 [Compare Now](https://www.g2.com/compare/servicetitan-vs-simpro)
 
@@ -916,7 +918,7 @@ ServiceTitan
 
 Jobber
 
-4.6/5(510)
+4.6/5(516)
 
 [Compare Now](https://www.g2.com/compare/jobber-vs-simpro)
 
@@ -924,7 +926,7 @@ Jobber
 
 FieldPulse
 
-4.7/5(368)
+4.7/5(370)
 
 [Compare Now](https://www.g2.com/compare/fieldpulse-fieldpulse-vs-simpro)
 
@@ -966,19 +968,19 @@ Roles and Permissions
 \\
 ServiceTitan\\
 \\
-4.5/5(373)](https://www.g2.com/products/servicetitan/reviews)
+4.5/5(374)](https://www.g2.com/products/servicetitan/reviews)
 
 [![Jobber](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 Jobber\\
 \\
-4.6/5(510)](https://www.g2.com/products/jobber/reviews)
+4.6/5(516)](https://www.g2.com/products/jobber/reviews)
 
 [![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
 FieldPulse\\
 \\
-4.7/5(368)](https://www.g2.com/products/fieldpulse-fieldpulse/reviews)
+4.7/5(370)](https://www.g2.com/products/fieldpulse-fieldpulse/reviews)
 
 [View All Alternatives](https://www.g2.com/products/simpro/competitors/alternatives)
 
@@ -992,15 +994,15 @@ Show More
 
 ##### Explore More
 
-[Which estimating software offers real-time cost updates?](https://www.g2.com/discussions/which-estimating-software-gives-me-real-time-cost-updates) [What is the most affordable media targeting solution for small teams?](https://www.g2.com/discussions/what-is-the-most-affordable-media-targeting-solution-for-small-teams) [What is the best payroll software for small businesses?](https://www.g2.com/discussions/what-is-the-best-payroll-software-for-small-businesses)
+[What are the best financial data APIs with published uptime guarantees and incident response SLAs for production trading applications?](https://www.g2.com/discussions/what-are-the-best-financial-data-apis-with-published-uptime-guarantees-and-incident-response-slas-for-production-trading-applications) [What are the most trusted financial fraud prevention platforms used by fraud analysts at fintech companies based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-financial-fraud-prevention-platforms-used-by-fraud-analysts-at-fintech-companies-based-on-user-reviews) [Popular relational database services for app developers](https://www.g2.com/discussions/what-are-the-most-popular-relational-database-services-for-app-developers)
 
-[Top-rated portals for client collaboration and communication](https://www.g2.com/discussions/what-are-the-top-rated-portals-for-client-collaboration-and-communication) [Best rated security compliance service for IT sector](https://www.g2.com/discussions/what-s-the-best-rated-security-compliance-service-for-the-it-sector) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Which CLM platforms are rated highest for mid-market technology companies that want easy integration with their existing tools?](https://www.g2.com/discussions/which-clm-platforms-are-rated-highest-for-mid-market-technology-companies-that-want-easy-integration-with-their-existing-tools) [Top platforms for feedback trend analysis](https://www.g2.com/discussions/what-are-the-top-platforms-for-feedback-trend-analysis) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show More
 
-[Which estimating software offers real-time cost updates?](https://www.g2.com/discussions/which-estimating-software-gives-me-real-time-cost-updates) [What is the most affordable media targeting solution for small teams?](https://www.g2.com/discussions/what-is-the-most-affordable-media-targeting-solution-for-small-teams) [What is the best payroll software for small businesses?](https://www.g2.com/discussions/what-is-the-best-payroll-software-for-small-businesses)
+[What are the best financial data APIs with published uptime guarantees and incident response SLAs for production trading applications?](https://www.g2.com/discussions/what-are-the-best-financial-data-apis-with-published-uptime-guarantees-and-incident-response-slas-for-production-trading-applications) [What are the most trusted financial fraud prevention platforms used by fraud analysts at fintech companies based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-financial-fraud-prevention-platforms-used-by-fraud-analysts-at-fintech-companies-based-on-user-reviews) [Popular relational database services for app developers](https://www.g2.com/discussions/what-are-the-most-popular-relational-database-services-for-app-developers)
 
-[Top-rated portals for client collaboration and communication](https://www.g2.com/discussions/what-are-the-top-rated-portals-for-client-collaboration-and-communication) [Best rated security compliance service for IT sector](https://www.g2.com/discussions/what-s-the-best-rated-security-compliance-service-for-the-it-sector) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Which CLM platforms are rated highest for mid-market technology companies that want easy integration with their existing tools?](https://www.g2.com/discussions/which-clm-platforms-are-rated-highest-for-mid-market-technology-companies-that-want-easy-integration-with-their-existing-tools) [Top platforms for feedback trend analysis](https://www.g2.com/discussions/what-are-the-top-platforms-for-feedback-trend-analysis) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Get Demo
 

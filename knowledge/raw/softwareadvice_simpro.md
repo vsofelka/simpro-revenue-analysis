@@ -16,9 +16,9 @@ Trustpilot Custom Widget
 \\
 4.3 out of 5 star rating on Trustpilot\\
 \\
-**686** reviews on\\
+**687** reviews on\\
 \\
-Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Excellent. 4.3 out of 5. 686 reviews on TrustpilotClick to view the company's Trustpilot profile
+Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=MicroCombo) Rated Excellent. 4.3 out of 5. 687 reviews on TrustpilotClick to view the company's Trustpilot profile
 
 Software Advice offers objective insights based on verified user reviews and independent product and market research. When our advisors match you to a software provider, we may earn a referral fee.Learn more
 
@@ -40,9 +40,7 @@ Overview
 
 ![Simpro](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F32d880d7-912a-4e1e-888b-1bc796a221c1.jpeg&w=128&q=75)
 
-# Simpro Review
-
-Custom quote3 plans
+# Simpro 2026: Benefits, Features & Pricing
 
 Get PriceDemo
 
@@ -236,7 +234,7 @@ Alternative Product
 
 4.6
 
-[(1463)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
+[(1467)](https://www.softwareadvice.com/field-service/jobber-profile/reviews/)
 
 Ratings Breakdown
 
@@ -282,7 +280,7 @@ Alternative Product
 
 4.5
 
-[(20663)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
+[(20664)](https://www.softwareadvice.com/construction/qb-desktop-enterprise-profile/reviews/)
 
 Ratings Breakdown
 
@@ -305,7 +303,7 @@ Alternative Product
 
 4.4
 
-[(3309)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
+[(3311)](https://www.softwareadvice.com/accounting/xero-profile/reviews/)
 
 Ratings Breakdown
 
@@ -328,7 +326,7 @@ Alternative Product
 
 4.5
 
-[(4519)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
+[(4521)](https://www.softwareadvice.com/accounting/freshbooks-profile/reviews/)
 
 Ratings Breakdown
 
@@ -427,9 +425,9 @@ User rating
 
 $124.42 per month
 
-4.00 [(615 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
+4.01 [(617 reviews)](https://www.softwareadvice.com/accounting/sage-50cloud-profile/reviews/)
 
-**217**
+**239**
 
 recommendations
 
@@ -437,9 +435,9 @@ recommendations
 
 $8.00 per month
 
-4.86 [(4842 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
+4.86 [(4846 reviews)](https://www.softwareadvice.com/hr/rippling-profile/reviews/)
 
-**97**
+**88**
 
 recommendations
 
@@ -449,7 +447,17 @@ $22.00 per month
 
 4.53 [(286 reviews)](https://www.softwareadvice.com/product/127735-Canopy-Tax/reviews/)
 
-**46**
+**45**
+
+recommendations
+
+[![Clio](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Ffa1feb98-8579-416f-ac83-b49088a3650d.jpeg&w=96&q=75)Clio](https://www.softwareadvice.com/legal/clio-legal-profile/)
+
+$49.00 per month
+
+4.66 [(1738 reviews)](https://www.softwareadvice.com/legal/clio-legal-profile/reviews/)
+
+**15**
 
 recommendations
 
@@ -459,17 +467,7 @@ $35.00 per month
 
 3.82 [(60 reviews)](https://www.softwareadvice.com/bpm/mangobilling-profile/reviews/)
 
-**16**
-
-recommendations
-
-[![Housecall Pro](https://www.softwareadvice.com/_next/image/?url=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2Fbd6ad857-8506-4472-a257-27953e488179.jpeg&w=96&q=75)Housecall Pro](https://www.softwareadvice.com/construction/housecall-profile/)
-
-$79.00 per month
-
-4.68 [(2742 reviews)](https://www.softwareadvice.com/construction/housecall-profile/reviews/)
-
-**10**
+**13**
 
 recommendations
 
@@ -1709,39 +1707,45 @@ The reason was mainly due to pricing & specific business needs.
 
 Read More
 
-VR
+![Braden's profile](https://reviews.capterra.com/cdn/profile-images/linkedin/ecbd6e88bfb45e10d1bc0363628f3d2f102667f6ea1f41aa52aec33c6e5da774.jpeg)
 
-Verified
+Braden B.
 
-Reviewer
+Verified reviewer
 
-Utilities
+Construction
 
 2-10 employees
 
-Used weekly for less than 12 months
+Used daily for less than 12 months
 
 Review source
 
-Reviewed June 2026
+Reviewed March 2026
 
-Robust and comprehensive job management tool with a steep learning curve
+AVOID at all costs!!
 
-5
+1
 
-Overall, my experience with the software has been highly positive despite a steep learning curve. It has completely streamlined how we manage our jobs, inventory, and field staff. The software is incredibly robust and capable, which makes it ideal for businesses that need to track comprehensive job costing. While it does feel overly complex and click heavy at times, the massive boost to our back office organization makes it well worth implementing.
+AVOID at all costs!! This company is only after your money.
+The sales person had an amazing pitch and sold me on convenience and process driven application which was meant to reduce the admin staff I require, instead, I had to employ an additional staff member to work Simpro properly.
+First - they charged a discounted rate of approx $6000NZD for set up (our replacement software Tradify had NIL set up cost). The set up was incomplete and incompatible, it was meant to reconcile with Xero however it completely missed supplier invoices, or at best sent them across incorrectly. Invoicing was a nightmare, and could take several hours to produce a single invoice.
+Because they couldn't get their supplier invoice system to work properly, we were told that the only solution was for the supplier to change their invoices to suit Simpro! This defies belief, the supplier is an international company LOL.
+When the new staff member was employed, they wanted $750NZD for 3hours of training!! Then, for every "user" it costs $200NZD per month, and if that "user" needs the mobile app, another $50NZD for month.
+Upon contacting them to complain, they had no complaints policy or procedure, no escalation process and when I pushed, their only response was to talk to their lawyers!
+I now have to finish off my contract with them as they catch you on a minimum 12 month term even though they have failed to meet their obligations.
 
 Ratings Breakdown
 
-5
+1
 
 Ease of use
 
-4
+1
 
 Value for money
 
-5
+1
 
 Customer support
 
@@ -1753,11 +1757,20 @@ icon
 
 Pros:
 
-It is an absolute powerhouse when it comes to keeping our quoting, job management, and invoicing tied together in one single source of truth. The depth of the project management features and job costing tools makes it incredibly easy to track real time profits and expenses on larger projects. Having our asset management and inventory updates sync automatically with billing saves the office team tons of admin hours every single week.
+Their sales pitch. They came to me to do the set up. They are great marketers of their own branding...
 
 Cons:
 
-The system layout can feel quite clunky and rigid when you are first learning how to navigate it. It often takes far too many clicks just to get through a simple daily task like revising an invoice or editing purchase orders. The mobile app can also be a bit delicate after updates, occasionally lagging or requiring a full reinstall to get field notes to sync properly up to the main office dashboard.
+Almost every aspect.
+The software is really only suitable for large, multisite businesses who have the budget to spend on the software and the staff to manage it.
+
+Reasons for choosing Simpro
+
+Believed the sales pitch, if were to work as it should I would have needed to spent less time on admin
+
+Reasons for switching to Simpro
+
+Looking for a more complete software, was sold on great promises.
 
 Read More
 
@@ -2214,7 +2227,7 @@ Trustpilot Custom Widget
 \\
 4.3 out of 5 star rating on Trustpilot\\
 \\
-Based on **686 reviews**\\
+Based on **687 reviews**\\
 \\
 Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trustbox&utm_source=Carousel)
 
@@ -2229,9 +2242,27 @@ Trustpilot](https://www.trustpilot.com/review/softwareadvice.com?utm_medium=trus
 
 [Review by\\
 \\
+Suzanne Cooper,\\
+\\
+5 days ago\\
+\\
+The people at CCStorage are very professional and service oriented. Everything t...\\
+\\
+Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a5fd0cf2e7d3c6ea22cd6a1?utm_medium=trustbox&utm_source=Carousel)
+- 5 out of 5 star rating on Trustpilot
+
+
+
+
+
+
+
+
+[Review by\\
+\\
 Jamie Banks,\\
 \\
-1 day ago\\
+July 17\\
 \\
 I really like this interaction. My adviser was very knowledgeable and guided st...\\
 \\
@@ -2249,7 +2280,7 @@ Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/
 \\
 KD-Finance Specialist,\\
 \\
-3 days ago\\
+July 16\\
 \\
 Great preliminary chat on our company's needs, followed by matching us with repu...\\
 \\
@@ -2267,7 +2298,7 @@ Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/
 \\
 Lauresha Z. Hawkins, LCSW,\\
 \\
-4 days ago\\
+July 15\\
 \\
 I did not care too much for my current EHR. It was too Simple and did not offer...\\
 \\
@@ -2470,23 +2501,5 @@ May 28\\
 Very efficient and knowledgeable and helpful to new business owners struggling w...\\
 \\
 Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a17b48cb8b8e2bfe4b7612f?utm_medium=trustbox&utm_source=Carousel)
-- 5 out of 5 star rating on Trustpilot
-
-
-
-
-
-
-
-
-[Review by\\
-\\
-Melannie Atteberry,\\
-\\
-May 21\\
-\\
-They were very polite, responsive, but unfortunately, I was unable to do a demo...\\
-\\
-Click to view the full review on Trustpilot](https://www.trustpilot.com/reviews/6a0f17707cea34671a4934d7?utm_medium=trustbox&utm_source=Carousel)
 
 Showing our 4 & 5 star reviews
