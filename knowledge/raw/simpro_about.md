@@ -106,6 +106,14 @@ Chief Technology Officer
 
 Learn more
 
+##### Frank DeBenedetto
+
+Chief Customer Officer
+
+Learn more
+
+[![LinkedIn Logo](https://www.simprogroup.com/user/themes/simpro/images/icons/linkedin-logo-stone.svg)](https://www.linkedin.com/in/frankdebenedetto)
+
 ## Honors & awards
 
 ![G2 Spring 2025 Grid Leader Small Business](https://www.simprogroup.com/user/pages/company/about-us/07._awards/G2-Grid-Leader-2x.png)
@@ -158,7 +166,10 @@ We’ve got something for everyone. Join us today!
 Press\\
 \\
 \\
-Simpro on Schwab Network: Field Service SMBs are Winning the AI Race](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
+Trends\\
+\\
+\\
+AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
 
 [News\\
 \\
@@ -186,7 +197,10 @@ Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/
 Press\\
 \\
 \\
-Simpro on Schwab Network: Field Service SMBs are Winning the AI Race](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
+Trends\\
+\\
+\\
+AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
 
 [News\\
 \\

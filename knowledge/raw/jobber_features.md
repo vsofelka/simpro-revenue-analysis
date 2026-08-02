@@ -2,9 +2,6 @@
 
 [\\_\\_\\_](https://www.getjobber.com/features/#)
 
-[Limited time offer: save up to 40%\\
-Save Now](https://www.getjobber.com/pricing/)
-
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
 [Skip to content](https://www.getjobber.com/features/#main) [Visit the Jobber home page](https://www.getjobber.com/)
@@ -33,7 +30,7 @@ Tap to unmute
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber48.5K subscribers
+Jobber48.6K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
