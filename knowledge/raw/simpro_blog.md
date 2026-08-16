@@ -6,9 +6,9 @@ Plumbing\\
 \\
 Business Tips\\
 \\
-**Grow a Multi-Branch Plumbing Business** \\
+**Commercial Plumbing Project Management Guide** \\
 \\
-August 7, 2026](https://www.simprogroup.com/blog/managing-multi-branch-plumbing-business)
+August 14, 2026](https://www.simprogroup.com/blog/commercial-plumbing-project-management-guide)
 
 [Blog\\
 \\
@@ -16,15 +16,17 @@ HVAC\\
 \\
 Business Tips\\
 \\
-**How to Manage and Scale a Multi-Branch HVAC Business** \\
+**Commercial HVAC Project Management** \\
 \\
-August 6, 2026](https://www.simprogroup.com/blog/managing-multi-branch-hvac-business) [Blog\\
+August 13, 2026](https://www.simprogroup.com/blog/commercial-hvac-project-management-guide) [Blog\\
+\\
+Electrical\\
 \\
 Business Tips\\
 \\
-**Top 12 Trades for Women in 2026: Pay, Demand & How to Start** \\
+**Managing a Multi-Branch Electrical Business** \\
 \\
-August 5, 2026](https://www.simprogroup.com/blog/women-in-skilled-trades-the-ultimate-guide)
+August 12, 2026](https://www.simprogroup.com/blog/managing-multi-branch-electrical-business)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -41,6 +43,46 @@ Business TipsCash FlowManaging PeopleCustomer ExperienceSales & MarketingTrends
 ###### Format
 
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+**Commercial Plumbing Project Management Guide** \\
+\\
+August 14, 2026](https://www.simprogroup.com/blog/commercial-plumbing-project-management-guide)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+**Commercial HVAC Project Management** \\
+\\
+August 13, 2026](https://www.simprogroup.com/blog/commercial-hvac-project-management-guide)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+**Managing a Multi-Branch Electrical Business** \\
+\\
+August 12, 2026](https://www.simprogroup.com/blog/managing-multi-branch-electrical-business)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+**10 AI Features in Field Service Management Software** \\
+\\
+August 10, 2026](https://www.simprogroup.com/blog/ai-features-field-service-software)
 
 [Blog\\
 \\
@@ -91,46 +133,6 @@ Business Tips\\
 **AI Use Cases in Field Service to Improve Margins** \\
 \\
 July 31, 2026](https://www.simprogroup.com/blog/top-use-cases-for-ai-in-field-service)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**AI in Field Service Management: Practical Guide** \\
-\\
-July 29, 2026](https://www.simprogroup.com/blog/ai-for-field-service)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Guide to Agentic AI for Field Service** \\
-\\
-July 27, 2026](https://www.simprogroup.com/blog/agentic-ai-for-field-service)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**15 Best Plumbing Websites and Design Tips (2026)** \\
-\\
-July 27, 2026](https://www.simprogroup.com/blog/plumbing-websites)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**AI for HVAC Estimating** \\
-\\
-July 24, 2026](https://www.simprogroup.com/blog/how-to-use-ai-for-hvac-estimating)
 
 There are no results to display.
 

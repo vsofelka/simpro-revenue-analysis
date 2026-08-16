@@ -166,6 +166,14 @@ We’ve got something for everyone. Join us today!
 Press\\
 \\
 \\
+Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Trends\\
 \\
 \\
@@ -178,14 +186,6 @@ Press\\
 \\
 \\
 Simpro Group Makes It RAIN — New Features and AI-Infused Enhancements Delivered at Record Speed](https://www.simprogroup.com/company/press/simpro-group-announces-rain)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/company/press/simpro-group-appoints-new-chief-technology-officer)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 
@@ -197,6 +197,14 @@ Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/
 Press\\
 \\
 \\
+Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Trends\\
 \\
 \\
@@ -209,14 +217,6 @@ Press\\
 \\
 \\
 Simpro Group Makes It RAIN — New Features and AI-Infused Enhancements Delivered at Record Speed](https://www.simprogroup.com/company/press/simpro-group-announces-rain)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simpro Group Appoints New Chief Technology Officer](https://www.simprogroup.com/company/press/simpro-group-appoints-new-chief-technology-officer)
 
 We’re here for you,
 
