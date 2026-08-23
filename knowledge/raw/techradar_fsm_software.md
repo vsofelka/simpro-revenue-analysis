@@ -6,6 +6,8 @@ The page you're looking for has either been moved or removed from the site.
 
 Please try searching our site or [start again on our homepage](https://www.techradar.com/).
 
+Looks like you're in the UK! Visit TechRadar's [UK edition](https://www.techradar.com/uk) for content related to your region.
+
 Close
 
 Please login or signup to comment

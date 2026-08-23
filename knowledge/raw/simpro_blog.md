@@ -2,31 +2,31 @@
 
 [Blog\\
 \\
+Electrical\\
+\\
+Business Tips\\
+\\
+**Commercial Electrical Takeoff** \\
+\\
+August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-electrical-job)
+
+[Blog\\
+\\
 Plumbing\\
 \\
 Business Tips\\
 \\
-**Commercial Plumbing Project Management Guide** \\
+**Commercial Plumbing Takeoff: Step-by-Step Guide** \\
 \\
-August 14, 2026](https://www.simprogroup.com/blog/commercial-plumbing-project-management-guide)
-
-[Blog\\
+August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-plumbing-job) [Blog\\
 \\
 HVAC\\
 \\
 Business Tips\\
 \\
-**Commercial HVAC Project Management** \\
+**How to Take Off a Commercial HVAC Job** \\
 \\
-August 13, 2026](https://www.simprogroup.com/blog/commercial-hvac-project-management-guide) [Blog\\
-\\
-Electrical\\
-\\
-Business Tips\\
-\\
-**Managing a Multi-Branch Electrical Business** \\
-\\
-August 12, 2026](https://www.simprogroup.com/blog/managing-multi-branch-electrical-business)
+August 19, 2026](https://www.simprogroup.com/blog/how-to-do-an-hvac-takeoff)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -46,6 +46,48 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
+Electrical\\
+\\
+Business Tips\\
+\\
+**Commercial Electrical Takeoff** \\
+\\
+August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-electrical-job)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+**Commercial Plumbing Takeoff: Step-by-Step Guide** \\
+\\
+August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-plumbing-job)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**How to Take Off a Commercial HVAC Job** \\
+\\
+August 19, 2026](https://www.simprogroup.com/blog/how-to-do-an-hvac-takeoff)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Managing People\\
+\\
+Business Tips\\
+\\
+**Commercial Electrical Project Management Guide** \\
+\\
+August 18, 2026](https://www.simprogroup.com/blog/commercial-electrical-project-management-guide)
+
+[Blog\\
+\\
 Plumbing\\
 \\
 Business Tips\\
@@ -56,7 +98,7 @@ August 14, 2026](https://www.simprogroup.com/blog/commercial-plumbing-project-ma
 
 [Blog\\
 \\
-Plumbing\\
+HVAC\\
 \\
 Business Tips\\
 \\
@@ -66,7 +108,7 @@ August 13, 2026](https://www.simprogroup.com/blog/commercial-hvac-project-manage
 
 [Blog\\
 \\
-Plumbing\\
+Electrical\\
 \\
 Business Tips\\
 \\
@@ -75,10 +117,6 @@ Business Tips\\
 August 12, 2026](https://www.simprogroup.com/blog/managing-multi-branch-electrical-business)
 
 [Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
 \\
 **10 AI Features in Field Service Management Software** \\
 \\
@@ -94,48 +132,8 @@ Business Tips\\
 \\
 August 7, 2026](https://www.simprogroup.com/blog/managing-multi-branch-plumbing-business)
 
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**How to Manage and Scale a Multi-Branch HVAC Business** \\
-\\
-August 6, 2026](https://www.simprogroup.com/blog/managing-multi-branch-hvac-business)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Top 12 Trades for Women in 2026: Pay, Demand & How to Start** \\
-\\
-August 5, 2026](https://www.simprogroup.com/blog/women-in-skilled-trades-the-ultimate-guide)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**How to Use AI for Electrical Estimating and Takeoffs** \\
-\\
-August 3, 2026](https://www.simprogroup.com/blog/ai-for-electrical-estimating)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**AI Use Cases in Field Service to Improve Margins** \\
-\\
-July 31, 2026](https://www.simprogroup.com/blog/top-use-cases-for-ai-in-field-service)
-
 There are no results to display.
 
 1
 
-[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:29) [52](https://www.simprogroup.com/blog/page:52)
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:29) [53](https://www.simprogroup.com/blog/page:53)
