@@ -20,8 +20,17 @@ Capterra’s researchers use a mix of verified reviews, independent research and
 
 How Capterra verifies reviews
 
-Capterra carefully verified over 2.5 million+ reviews to bring you authentic software experiences from real users. Our human moderators verify that reviewers are real people and that reviews are authentic. They use leading tech to analyze text quality and to detect plagiarism and generative AI. [Learn more](https://www.capterra.com/resources/how-we-verify-reviews/)
+Capterra carefully verified over 2.5 million+ reviews to bring you
+authentic software experiences from real users. Our
+human moderators verify that reviewers are real people and that
+reviews are authentic. They use leading tech to analyze text
+quality and to detect plagiarism and generative AI. [Learn more](https://www.capterra.com/resources/how-we-verify-reviews/)
 
 How Capterra ensures transparency
 
-Capterra lists all providers across its website—not just those that pay us—so that users can make informed purchase decisions. Capterra is free for users. Software providers pay us for sponsored profiles to receive web traffic and sales opportunities. Sponsored profiles include a link-out icon that takes users to the provider’s website. [Learn more](https://www.capterra.com/resources/how-we-ensure-transparency/)
+Capterra lists all providers across its website—not just those
+that pay us—so that users can make informed purchase decisions.
+Capterra is free for users. Software providers pay us
+for sponsored profiles to receive web traffic and sales
+opportunities. Sponsored profiles include a link-out icon that
+takes users to the provider’s website. [Learn more](https://www.capterra.com/resources/how-we-ensure-transparency/)

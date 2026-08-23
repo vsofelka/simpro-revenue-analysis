@@ -166,6 +166,14 @@ We’ve got something for everyone. Join us today!
 Press\\
 \\
 \\
+Simpro Group Named on the 2026 Inc. 5000 List](https://www.simprogroup.com/company/press/simpro-group-named-on-the-2026-inc-5000-list)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
 
 [News\\
@@ -178,14 +186,6 @@ Trends\\
 \\
 \\
 AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simpro Group Makes It RAIN — New Features and AI-Infused Enhancements Delivered at Record Speed](https://www.simprogroup.com/company/press/simpro-group-announces-rain)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 
@@ -197,6 +197,14 @@ Simpro Group Makes It RAIN — New Features and AI-Infused Enhancements Delivere
 Press\\
 \\
 \\
+Simpro Group Named on the 2026 Inc. 5000 List](https://www.simprogroup.com/company/press/simpro-group-named-on-the-2026-inc-5000-list)
+
+[News\\
+\\
+\\
+Press\\
+\\
+\\
 Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
 
 [News\\
@@ -209,14 +217,6 @@ Trends\\
 \\
 \\
 AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simpro Group Makes It RAIN — New Features and AI-Infused Enhancements Delivered at Record Speed](https://www.simprogroup.com/company/press/simpro-group-announces-rain)
 
 We’re here for you,
 

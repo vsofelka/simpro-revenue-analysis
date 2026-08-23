@@ -612,7 +612,7 @@ Hp123
 
 Agree & Continue
 
-By entering your information above and clicking the "Agree and Get Started" button, you agree to our [**Terms of Use**](https://www.servicetitan.com/legal/terms-of-use) **,** [**Privacy Policy**](https://www.servicetitan.com/legal/privacy-policy) **,** and that we may contact you, by SMS, at the phone number and email address you provide in this form in accordance with our Terms of Use.
+By entering your information above and clicking the "Agree and Get Started" button, you agree to our [**Terms of Use**](https://www.servicetitan.com/legal/terms-of-use) **,** [**Privacy Policy**](https://www.servicetitan.com/legal/privacy-policy) **,** [**SMS terms**](https://www.servicetitan.com/legal/sms-terms), and that we may contact you, by SMS, at the phone number and email you provide in this form in accordance with our Terms of Use.
 
 a22633721281.cdn.optimizely.com
 
