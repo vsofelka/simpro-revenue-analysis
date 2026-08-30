@@ -6,27 +6,27 @@ Electrical\\
 \\
 Business Tips\\
 \\
-**Commercial Electrical Takeoff** \\
+**Complex Electrical Job Management Software Guide** \\
 \\
-August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-electrical-job)
+August 28, 2026](https://www.simprogroup.com/blog/software-for-managing-complex-electrical-jobs)
 
 [Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Commercial Plumbing Takeoff: Step-by-Step Guide** \\
-\\
-August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-plumbing-job) [Blog\\
 \\
 HVAC\\
 \\
 Business Tips\\
 \\
-**How to Take Off a Commercial HVAC Job** \\
+**Commercial HVAC Job Management Software Guide** \\
 \\
-August 19, 2026](https://www.simprogroup.com/blog/how-to-do-an-hvac-takeoff)
+August 28, 2026](https://www.simprogroup.com/blog/complex-job-management-software-guide) [Blog\\
+\\
+Electrical\\
+\\
+Sales & Marketing\\
+\\
+**How to Sell Electrical Maintenance Agreements** \\
+\\
+August 26, 2026](https://www.simprogroup.com/blog/sell-electrical-maintenance-agreements)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -43,6 +43,64 @@ Business TipsCash FlowManaging PeopleCustomer ExperienceSales & MarketingTrends
 ###### Format
 
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**Complex Electrical Job Management Software Guide** \\
+\\
+August 28, 2026](https://www.simprogroup.com/blog/software-for-managing-complex-electrical-jobs)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+**Commercial HVAC Job Management Software Guide** \\
+\\
+August 28, 2026](https://www.simprogroup.com/blog/complex-job-management-software-guide)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Sales & Marketing\\
+\\
+**How to Sell Electrical Maintenance Agreements** \\
+\\
+August 26, 2026](https://www.simprogroup.com/blog/sell-electrical-maintenance-agreements)
+
+[Blog\\
+\\
+Trends\\
+\\
+**Simpro Featured on Schwab Network: The Rise of the Digital Worker** \\
+\\
+August 26, 2026](https://www.simprogroup.com/blog/simpro-featured-on-schwab-network-the-rise-of-the-digital-worker)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Sales & Marketing\\
+\\
+**How to Sell Plumbing Maintenance Agreements** \\
+\\
+August 25, 2026](https://www.simprogroup.com/blog/sell-plumbing-maintenance-agreements)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Sales & Marketing\\
+\\
+**How to Sell HVAC Maintenance Agreements** \\
+\\
+August 24, 2026](https://www.simprogroup.com/blog/sell-hvac-maintenance-agreements)
 
 [Blog\\
 \\
@@ -73,64 +131,6 @@ Business Tips\\
 **How to Take Off a Commercial HVAC Job** \\
 \\
 August 19, 2026](https://www.simprogroup.com/blog/how-to-do-an-hvac-takeoff)
-
-[Blog\\
-\\
-Electrical\\
-\\
-Managing People\\
-\\
-Business Tips\\
-\\
-**Commercial Electrical Project Management Guide** \\
-\\
-August 18, 2026](https://www.simprogroup.com/blog/commercial-electrical-project-management-guide)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Commercial Plumbing Project Management Guide** \\
-\\
-August 14, 2026](https://www.simprogroup.com/blog/commercial-plumbing-project-management-guide)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Business Tips\\
-\\
-**Commercial HVAC Project Management** \\
-\\
-August 13, 2026](https://www.simprogroup.com/blog/commercial-hvac-project-management-guide)
-
-[Blog\\
-\\
-Electrical\\
-\\
-Business Tips\\
-\\
-**Managing a Multi-Branch Electrical Business** \\
-\\
-August 12, 2026](https://www.simprogroup.com/blog/managing-multi-branch-electrical-business)
-
-[Blog\\
-\\
-**10 AI Features in Field Service Management Software** \\
-\\
-August 10, 2026](https://www.simprogroup.com/blog/ai-features-field-service-software)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Grow a Multi-Branch Plumbing Business** \\
-\\
-August 7, 2026](https://www.simprogroup.com/blog/managing-multi-branch-plumbing-business)
 
 There are no results to display.
 
