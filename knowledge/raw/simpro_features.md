@@ -22,7 +22,7 @@ Bring calm to the chaos of managing inventory. Quickly order stock, achieve inve
 \\
 Win more jobs\\
 \\
-Ready to crush the competition? Simpro can help you not only win more business, but also maximise job profitability.](https://www.simprogroup.com/features#win-more-jobs)![down arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/down-arrow.svg)
+Ready to crush the competition? Simpro can help you not only win more business, but also maximize job profitability.](https://www.simprogroup.com/features#win-more-jobs)![down arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/down-arrow.svg)
 
 [![Save time icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_BillableHours_ResBlue.svg)\\
 \\
@@ -74,7 +74,7 @@ Seamlessly connect to leading cloud accounting software to keep financial data a
 
 ###### [Business and Financial Reporting](https://www.simprogroup.com/features/reporting)
 
-Know your position and finances inside and out with in-depth reporting and focus your attention with customised dashboards.
+Know your position and finances inside and out with in-depth reporting and focus your attention with customized dashboards.
 
 Overview: Manage Your People
 
@@ -155,9 +155,9 @@ Details matter. Track stock transactions for received items and materials transf
 
 ![Supplier Catalogs icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Catalogues_ResBlue.svg)
 
-###### [Supplier Catalogues](https://www.simprogroup.com/features/track-inventory\#supplier-catalogs)
+###### [Supplier Catalogs](https://www.simprogroup.com/features/track-inventory\#supplier-catalogs)
 
-Sync vendor catalogues for up-to-date material costs. Get the best price every time with the ability to request and view multiple suppliers’ pricing side-by-side. Easily group catalogue items according to product line or functional type, and assign them to a job or project.
+Sync vendor catalogs for up-to-date material costs. Get the best price every time with the ability to request and view multiple suppliers’ pricing side-by-side. Easily group catalog items according to product line or functional type, and assign them to a job or project.
 
 ![Reporting icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Graph_ResBlue.svg)
 
@@ -169,7 +169,7 @@ Use Simpro’s comprehensive reporting to protect your cash flow and see where y
 
 ## Get More Business Being More Efficient
 
-You don’t just want to win more business, you want to stand out from the rest. Simpro helps you get the admin side of your job done efficiently, maximising your profitability and makes you look good.
+You don’t just want to win more business, you want to stand out from the rest. Simpro helps you get the admin side of your job done efficiently, maximizing your profitability and makes you look good.
 
 [Learn more](https://www.simprogroup.com/features/win-more-jobs)
 
@@ -189,11 +189,11 @@ Convert more opportunities to sales by creating workflows to capture, nurture an
 
 [**Quote Templates and Pre-Builds**](https://www.simprogroup.com/features/estimating-software)
 
-Easy, efficient and consistent quoting with scripts and customisable template proposals will help you stand out from your competitors.
+Easy, efficient and consistent quoting with scripts and customizable template proposals will help you stand out from your competitors.
 
 [**Reporting**](https://www.simprogroup.com/features/reporting)
 
-Achieve consistent sales performance by analysing metrics at every stage from lead capture to win/loss rates to job profitability.
+Achieve consistent sales performance by analyzing metrics at every stage from lead capture to win/loss rates to job profitability.
 
 [**Data Feed**](https://www.simprogroup.com/features/data-feed)
 
@@ -235,7 +235,7 @@ Absolutely. Simpro allows you to [manage recurring jobs](https://www.simprogroup
 
 ### Is Simpro suitable for growing companies?
 
-Yes. Scalability is at the core of Simpro. Whether you're expanding into new markets, adding service divisions, growing your field team, or managing more clients and complex workflows, Simpro evolves with you. With over 250,000 users, dedicated onsite training, local support, and unparalleled project management capabilities, Simpro empowers high-performance businesses to work smarter and prioritise success.
+Yes. Scalability is at the core of Simpro. Whether you're expanding into new markets, adding service divisions, growing your field team, or managing more clients and complex workflows, Simpro evolves with you. With over 250,000 users, dedicated onsite training, local support, and unparalleled project management capabilities, Simpro empowers high-performance businesses to work smarter and prioritize success.
 
 We partner with field service businesses at every growth stage, from small and ambitious teams of 5, to multi-region enterprises with 500 employees or more. **[Get in touch with our sales team](https://www.simprogroup.com/contact-us) for a tailored solution to help you scale without compromise.**
 
@@ -247,7 +247,7 @@ Yes, the [Simpro Mobile app](https://www.simprogroup.com/features/field-service-
 
 Absolutely. If someone on your team loses connectivity, they can keep working without disruption. For example, with your field teams, the Simpro Mobile app will still display the last data it received before going offline. Once their connection is restored, the app will automatically sync back with the office, ensuring smooth communication and accurate data.
 
-**[Contact our team today](https://www.simprogroup.com/contact-us) to discover how Simpro can become the centre of your business.**
+**[Contact our team today](https://www.simprogroup.com/contact-us) to discover how Simpro can become the center of your business.**
 
 We’re here for you,
 

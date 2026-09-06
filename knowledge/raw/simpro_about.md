@@ -14,7 +14,7 @@ Fast forward: Today Simpro is the leading global AI-first operating system for r
 
 ## Why We Exist
 
-Because trades are the backbone of the economy. You keep the lights on. You keep water flowing. You keep buildings safe. You deserve profits that match the value of your work. Our mission is simple: **double contractor profitability**. Not “optimise,” not “revolutionise,” not any of that buzzword mumbo jumbo. Double it. Period.
+Because trades are the backbone of the economy. You keep the lights on. You keep water flowing. You keep buildings safe. You deserve profits that match the value of your work. Our mission is simple: **double contractor profitability**. Not “optimize,” not “revolutionize,” not any of that buzzword mumbo jumbo. Double it. Period.
 
 [Quick Tour![arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/arrow-stone.svg)](https://www.simprogroup.com/tours/simpro)
 
@@ -36,7 +36,7 @@ It’s not about chasing unicorn dreams. It’s about running tighter, smarter, 
 
 ![Addressing the Labor Shortage icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Resources_ResBlue.svg)
 
-###### Addressing the Labour Shortage
+###### Addressing the Labor Shortage
 
 We’re investing in the trades – tech, education, business support and more – to make your team more productive and your business more attractive to top talent.
 
@@ -114,7 +114,7 @@ Learn more
 
 [![LinkedIn Logo](https://www.simprogroup.com/user/themes/simpro/images/icons/linkedin-logo-stone.svg)](https://www.linkedin.com/in/frankdebenedetto)
 
-## Honours & awards
+## Honors & awards
 
 ![G2 Spring 2025 Grid Leader Small Business](https://www.simprogroup.com/user/pages/company/about-us/07._awards/G2-Grid-Leader-2x.png)
 
@@ -160,6 +160,19 @@ We’ve got something for everyone. Join us today!
 
 [View All](https://www.simprogroup.com/company/press)
 
+[Press\\
+\\
+\\
+Simpro Group Expands into Canada with New AI R&D Center in Montréal](https://www.simprogroup.com/company/press/simpro-group-expands-into-canada-with-new-ai-r-and-d-centre-in-montreal)
+
+[Press\\
+\\
+\\
+Trends\\
+\\
+\\
+Simpro Featured on Schwab Network: The Rise of the Digital Worker](https://www.simprogroup.com/company/press/simpro-featured-on-schwab-network-the-rise-of-the-digital-worker)
+
 [News\\
 \\
 \\
@@ -167,56 +180,10 @@ Press\\
 \\
 \\
 Simpro Group Named on the 2026 Inc. 5000 List](https://www.simprogroup.com/company/press/simpro-group-named-on-the-2026-inc-5000-list)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 
 [View All](https://www.simprogroup.com/company/press)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simpro Group Named on the 2026 Inc. 5000 List](https://www.simprogroup.com/company/press/simpro-group-named-on-the-2026-inc-5000-list)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Simprosium London 2026](https://www.simprogroup.com/company/press/simprosium-london-2026)
-
-[News\\
-\\
-\\
-Press\\
-\\
-\\
-Trends\\
-\\
-\\
-AI Field Service Management for SMB Trade Businesses](https://www.simprogroup.com/company/press/simpro-on-schwab-network-field-service-smbs-are-winning-the-ai-race)
 
 We’re here for you,
 
