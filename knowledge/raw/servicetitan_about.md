@@ -538,11 +538,11 @@ Play
 
 Search episodes
 
-[**+5% Increase in Net Profits**](https://www.servicetitan.com/?st178=pn&wchannelid=oudi9ssxs2&wmediaid=hybhkcr8gw)
+[**+5% Increase in Net Profits**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=hybhkcr8gw)
 
-[**+10M Increase in Revenue**](https://www.servicetitan.com/?st178=pn&wchannelid=oudi9ssxs2&wmediaid=dtsu12njls)
+[**+10M Increase in Revenue**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=dtsu12njls)
 
-[**Manage +$5M Projects**](https://www.servicetitan.com/?st178=pn&wchannelid=oudi9ssxs2&wmediaid=h086et1wv5)
+[**Manage +$5M Projects**](https://www.servicetitan.com/?wchannelid=oudi9ssxs2&wmediaid=h086et1wv5)
 
 ## Built-in integrations. Seamless control.
 
@@ -630,5 +630,3 @@ Reload
 This page has been blocked by an extension
 
 ![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
-
-Qualified

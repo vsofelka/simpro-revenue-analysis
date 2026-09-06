@@ -6,9 +6,11 @@ Electrical\\
 \\
 Business Tips\\
 \\
-**Complex Electrical Job Management Software Guide** \\
+Cash Flow\\
 \\
-August 28, 2026](https://www.simprogroup.com/blog/software-for-managing-complex-electrical-jobs)
+**Electrical Schedule of Values & Progress Billing** \\
+\\
+September 3, 2026](https://www.simprogroup.com/blog/electrical-schedule-of-values-progress-billing)
 
 [Blog\\
 \\
@@ -16,17 +18,17 @@ HVAC\\
 \\
 Business Tips\\
 \\
-**Commercial HVAC Job Management Software Guide** \\
+Cash Flow\\
 \\
-August 28, 2026](https://www.simprogroup.com/blog/complex-job-management-software-guide) [Blog\\
+**HVAC Schedule of Values & Progress Billing** \\
 \\
-Electrical\\
+September 3, 2026](https://www.simprogroup.com/blog/hvac-schedule-of-values-progress-billing) [Blog\\
 \\
-Sales & Marketing\\
+Business Tips\\
 \\
-**How to Sell Electrical Maintenance Agreements** \\
+**How AI Is Transforming Field Service Automation for Trade Contractors** \\
 \\
-August 26, 2026](https://www.simprogroup.com/blog/sell-electrical-maintenance-agreements)
+September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -43,6 +45,62 @@ Business TipsCash FlowManaging PeopleCustomer ExperienceSales & MarketingTrends
 ###### Format
 
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+Cash Flow\\
+\\
+**Electrical Schedule of Values & Progress Billing** \\
+\\
+September 3, 2026](https://www.simprogroup.com/blog/electrical-schedule-of-values-progress-billing)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+Cash Flow\\
+\\
+**HVAC Schedule of Values & Progress Billing** \\
+\\
+September 3, 2026](https://www.simprogroup.com/blog/hvac-schedule-of-values-progress-billing)
+
+[Blog\\
+\\
+Business Tips\\
+\\
+**How AI Is Transforming Field Service Automation for Trade Contractors** \\
+\\
+September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+**California Electrical License: 7 Steps to Get Certified** \\
+\\
+September 2, 2026](https://www.simprogroup.com/blog/electrical-license-california)
+
+[Blog\\
+\\
+Business Tips\\
+\\
+**Maintenance Planning and Scheduling Explained** \\
+\\
+August 31, 2026](https://www.simprogroup.com/blog/maintenance-planning-explained)
+
+[Blog\\
+\\
+**Simpro’s Fred Voccola Named to the Inaugural 2026 Miami Titan 100** \\
+\\
+August 31, 2026](https://www.simprogroup.com/blog/fred-voccola-miami-titan-100)
 
 [Blog\\
 \\
@@ -73,64 +131,6 @@ Sales & Marketing\\
 **How to Sell Electrical Maintenance Agreements** \\
 \\
 August 26, 2026](https://www.simprogroup.com/blog/sell-electrical-maintenance-agreements)
-
-[Blog\\
-\\
-Trends\\
-\\
-**Simpro Featured on Schwab Network: The Rise of the Digital Worker** \\
-\\
-August 26, 2026](https://www.simprogroup.com/blog/simpro-featured-on-schwab-network-the-rise-of-the-digital-worker)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Sales & Marketing\\
-\\
-**How to Sell Plumbing Maintenance Agreements** \\
-\\
-August 25, 2026](https://www.simprogroup.com/blog/sell-plumbing-maintenance-agreements)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Sales & Marketing\\
-\\
-**How to Sell HVAC Maintenance Agreements** \\
-\\
-August 24, 2026](https://www.simprogroup.com/blog/sell-hvac-maintenance-agreements)
-
-[Blog\\
-\\
-Electrical\\
-\\
-Business Tips\\
-\\
-**Commercial Electrical Takeoff** \\
-\\
-August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-electrical-job)
-
-[Blog\\
-\\
-Plumbing\\
-\\
-Business Tips\\
-\\
-**Commercial Plumbing Takeoff: Step-by-Step Guide** \\
-\\
-August 20, 2026](https://www.simprogroup.com/blog/take-off-commercial-plumbing-job)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Business Tips\\
-\\
-**How to Take Off a Commercial HVAC Job** \\
-\\
-August 19, 2026](https://www.simprogroup.com/blog/how-to-do-an-hvac-takeoff)
 
 There are no results to display.
 
