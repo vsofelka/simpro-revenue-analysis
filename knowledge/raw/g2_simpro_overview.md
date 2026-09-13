@@ -14,7 +14,7 @@ Simpro
 
 By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8defb)
 
-4.2/5(476)
+4.2/5(478)
 
 ###### 4.2 out of 5 stars
 
@@ -28,7 +28,7 @@ By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8de
 
 [3 star\\
 \\
-7%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=3#reviews)
+8%](https://www.g2.com/products/simpro/reviews?filters%5Bnps_score%5D%5B%5D=3#reviews)
 
 [2 star\\
 \\
@@ -42,7 +42,7 @@ How would you rate your experience with Simpro?
 
 [Start Review](https://www.g2.com/products/simpro/take_survey)
 
-[See all 476 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
+[See all 478 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
 
 AI Verified
 
@@ -88,8 +88,6 @@ Primary topics: Field service management software; job management software; trad
 
 * * *
 
-Product Website
-Simpro
 Seller
 [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8defb)
 Discussions
@@ -187,7 +185,7 @@ Play Simpro Video
 
 Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.
 
-![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://i.vimeocdn.com/video/2045540919-041ede88e002b6c3d066702ef973f7924ab8edd1c096dca1979271a78511d336-d_720?region=us)
+![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
@@ -255,23 +253,23 @@ Play Simpro Video
 
 Show More
 
-### Simpro Reviews (476)
+### Simpro Reviews (478)
 
 Reviews
 
-### Simpro Reviews (476)
+### Simpro Reviews (478)
 
 4.2
 
-476 reviews
+478 reviews
 
 [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new) [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new)
 
 255
 
-160
+161
 
-38
+39
 
 14
 
@@ -311,7 +309,7 @@ View Filters
 
 Company Size
 
-Small Business (50 or fewer emp.) (366)
+Small Business (50 or fewer emp.) (368)
 
 Mid-Market (51-1000 emp.) (108)
 
@@ -319,9 +317,9 @@ Enterprise ( >1000 emp.) (1)
 
 User Role
 
-User (182)
+User (183)
 
-Administrator (261)
+Administrator (262)
 
 Executive Sponsor (20)
 
@@ -337,9 +335,9 @@ Industry Analyst / Tech Writer (1)
 
 Category
 
-Field Service Management (447)
+Field Service Management (449)
 
-Construction Estimating (77)
+Construction Estimating (78)
 
 HVAC (70)
 
@@ -355,13 +353,13 @@ Payment Processing (38)
 
 Construction CRM (322)
 
-Construction Project Management (121)
+Construction Project Management (123)
 
 Takeoff (24)
 
 Industry
 
-Construction (177)
+Construction (178)
 
 Electrical/Electronic Manufacturing (65)
 
@@ -371,15 +369,15 @@ Mechanical or Industrial Engineering (29)
 
 Security and Investigations (27)
 
-Other (133)
+Other (134)
 
 Region
 
-ANZ (209)
+ANZ (210)
 
 Europe (127)
 
-North America (124)
+North America (125)
 
 Asia (10)
 
@@ -392,7 +390,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-e5de48def57219af4403)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-81854e5d452e528e4640)
 
 [![Larissa F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -855,7 +853,7 @@ ServiceTitan
 
 Jobber
 
-4.6/5(528)
+4.6/5(529)
 
 [Compare Now](https://www.g2.com/compare/jobber-vs-simpro)
 
@@ -905,7 +903,7 @@ Roles and Permissions
 \\
 Jobber\\
 \\
-4.6/5(528)](https://www.g2.com/products/jobber/reviews)
+4.6/5(529)](https://www.g2.com/products/jobber/reviews)
 
 [![ServiceTitan](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -931,9 +929,9 @@ Show MoreShow Less
 
 ##### Explore More
 
-[What options actually exist for autonomous endpoint management and how do the main platforms compare before you commit to a vendor?](https://www.g2.com/discussions/what-options-actually-exist-for-autonomous-endpoint-management-and-how-do-the-main-platforms-compare-before-you-commit-to-a-vendor) [What Blockchain as a Service vendors offer transparent per-request pricing without unexpected charges when usage scales?](https://www.g2.com/discussions/what-blockchain-as-a-service-vendors-offer-transparent-per-request-pricing-without-unexpected-charges-when-usage-scales) [What's the best Occupational Health and Safety (OHS) platform for consolidating site compliance across HR and payroll systems, similar to VelocityEHS?](https://www.g2.com/discussions/what-s-the-best-occupational-health-and-safety-ohs-platform-for-consolidating-site-compliance-across-hr-and-payroll-systems-similar-to-velocityehs)
+[What's the best customer self-service platform for small support teams whose customers need accurate answers without contacting an agent?](https://www.g2.com/discussions/what-s-the-best-customer-self-service-platform-for-small-support-teams-whose-customers-need-accurate-answers-without-contacting-an-agent) [What are the most trusted Cloud File Security platforms among IT managers and cybersecurity engineers, based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-cloud-file-security-platforms-among-it-managers-and-cybersecurity-engineers-based-on-user-reviews) [Which low-code platforms work best for financial services or insurance companies that need auditability and compliance baked into their workflows?](https://www.g2.com/discussions/which-low-code-platforms-work-best-for-financial-services-or-insurance-companies-that-need-auditability-and-compliance-baked-into-their-workflows)
 
-[Best MFT software for small business](https://www.g2.com/discussions/what-s-the-best-mft-software-for-small-businesses) [What Oracle licensing optimization and cost management options are available through reseller partnerships?](https://www.g2.com/discussions/what-oracle-licensing-optimization-and-cost-management-options-are-available-through-reseller-partnerships) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[What's the best low-code platform for custom app creation](https://www.g2.com/discussions/what-s-the-best-low-code-platform-for-custom-app-creation) [Best purchasing platforms for office supply management](https://www.g2.com/discussions/best-purchasing-platforms-for-office-supply-management) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 
@@ -943,16 +941,8 @@ Get Demo
 
 Simpro
 
-4.2/5(476)
+4.2/5(478)
 
 Get Demo
 
 ![Chat with G2](https://www.g2.com/assets/catalog_ai/ai-sparkle-6652f9e2176bc49324ac6e37a299857e96910f106aa71af32c937e3d729302fc.svg)
-
-405 Not Allowed
-
-# 405 Not Allowed
-
-* * *
-
-openresty/1.31.1.1

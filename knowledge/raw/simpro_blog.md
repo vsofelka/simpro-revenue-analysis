@@ -2,17 +2,21 @@
 
 [Blog\\
 \\
+**AI Field Service Economics: What to Measure Before You Automate** \\
+\\
+September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)
+
+[Blog\\
+\\
 Electrical\\
 \\
 Business Tips\\
 \\
 Cash Flow\\
 \\
-**Electrical Schedule of Values & Progress Billing** \\
+**How to Spot an Unprofitable Electrical Job** \\
 \\
-September 3, 2026](https://www.simprogroup.com/blog/electrical-schedule-of-values-progress-billing)
-
-[Blog\\
+September 10, 2026](https://www.simprogroup.com/blog/spot-unprofitable-commercial-electrical-jobs) [Blog\\
 \\
 HVAC\\
 \\
@@ -20,15 +24,9 @@ Business Tips\\
 \\
 Cash Flow\\
 \\
-**HVAC Schedule of Values & Progress Billing** \\
+**Signs of an Unprofitable Commercial HVAC Job** \\
 \\
-September 3, 2026](https://www.simprogroup.com/blog/hvac-schedule-of-values-progress-billing) [Blog\\
-\\
-Business Tips\\
-\\
-**How AI Is Transforming Field Service Automation for Trade Contractors** \\
-\\
-September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)
+September 10, 2026](https://www.simprogroup.com/blog/unprofitable-commercial-hvac-jobs)
 
 ![magnifying glass icon](https://www.simprogroup.com/user/themes/simpro/images/icons/search-icon-dark-grey.svg)
 
@@ -45,6 +43,48 @@ Business TipsCash FlowManaging PeopleCustomer ExperienceSales & MarketingTrends
 ###### Format
 
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
+
+[Blog\\
+\\
+**AI Field Service Economics: What to Measure Before You Automate** \\
+\\
+September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)
+
+[Blog\\
+\\
+Electrical\\
+\\
+Business Tips\\
+\\
+Cash Flow\\
+\\
+**How to Spot an Unprofitable Electrical Job** \\
+\\
+September 10, 2026](https://www.simprogroup.com/blog/spot-unprofitable-commercial-electrical-jobs)
+
+[Blog\\
+\\
+HVAC\\
+\\
+Business Tips\\
+\\
+Cash Flow\\
+\\
+**Signs of an Unprofitable Commercial HVAC Job** \\
+\\
+September 10, 2026](https://www.simprogroup.com/blog/unprofitable-commercial-hvac-jobs)
+
+[Blog\\
+\\
+Plumbing\\
+\\
+Business Tips\\
+\\
+Cash Flow\\
+\\
+**Plumbing Schedule of Values & Progress Billing** \\
+\\
+September 10, 2026](https://www.simprogroup.com/blog/plumbing-schedule-of-values-progress-billing)
 
 [Blog\\
 \\
@@ -96,44 +136,8 @@ Business Tips\\
 \\
 August 31, 2026](https://www.simprogroup.com/blog/maintenance-planning-explained)
 
-[Blog\\
-\\
-**Simpro’s Fred Voccola Named to the Inaugural 2026 Miami Titan 100** \\
-\\
-August 31, 2026](https://www.simprogroup.com/blog/fred-voccola-miami-titan-100)
-
-[Blog\\
-\\
-Electrical\\
-\\
-Business Tips\\
-\\
-**Complex Electrical Job Management Software Guide** \\
-\\
-August 28, 2026](https://www.simprogroup.com/blog/software-for-managing-complex-electrical-jobs)
-
-[Blog\\
-\\
-HVAC\\
-\\
-Business Tips\\
-\\
-**Commercial HVAC Job Management Software Guide** \\
-\\
-August 28, 2026](https://www.simprogroup.com/blog/complex-job-management-software-guide)
-
-[Blog\\
-\\
-Electrical\\
-\\
-Sales & Marketing\\
-\\
-**How to Sell Electrical Maintenance Agreements** \\
-\\
-August 26, 2026](https://www.simprogroup.com/blog/sell-electrical-maintenance-agreements)
-
 There are no results to display.
 
 1
 
-[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:29) [53](https://www.simprogroup.com/blog/page:53)
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:30) [54](https://www.simprogroup.com/blog/page:54)

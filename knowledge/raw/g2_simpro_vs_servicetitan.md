@@ -44,7 +44,7 @@ Reviews
 
 **ServiceTitan** [4.4/5(375)](https://www.g2.com/products/servicetitan/reviews#reviews)
 
-**Simpro** [4.2/5(476)](https://www.g2.com/products/simpro/reviews#reviews)
+**Simpro** [4.2/5(478)](https://www.g2.com/products/simpro/reviews#reviews)
 
 Pricing
 
@@ -105,13 +105,13 @@ Integrations
 
 [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4234a425940e4778aeaa2b617341b16f/airship.png)\\
 \\
-Airship](https://www.g2.com/products/airship/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4a9a6d57cdd833bf0381d21fd9246641/google-workspace.png)\\
+Airship](https://www.g2.com/products/airship/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_91b3f24eda994b7d2b086951210e9b26/companycam.jpg)\\
 \\
-Google Workspace](https://www.g2.com/products/google-workspace/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c56a4ea6f5b5f8f81ddaca417ca2d74c/intuit-intuit-enterprise-suite.png)\\
+CompanyCam](https://www.g2.com/products/companycam/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2daee5c251874aef69d71d49bf4c88da/eagleview-eagleview.png)\\
 \\
-Intuit Enterprise Suite](https://www.g2.com/products/intuit-intuit-enterprise-suite/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_6b0135578182be9b7a3554a808a64d72/intuit-quickbooks.png)\\
+EagleView](https://www.g2.com/products/eagleview-eagleview/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d5220037917b5e22299bcf93896c3ecb/google-ads.jpg)\\
 \\
-Intuit QuickBooks](https://www.g2.com/products/intuit-quickbooks/reviews) [View all](https://www.g2.com/products/servicetitan/integrations)
+Google Ads](https://www.g2.com/products/google-ads/reviews) [View all](https://www.g2.com/products/servicetitan/integrations)
 
 **Simpro**
 
@@ -149,7 +149,7 @@ Meets Requirements
 
 7.9
 
-7.9353
+7.9355
 
 Ease of Use
 
@@ -163,7 +163,7 @@ Ease of Use
 
 7.8
 
-7.8359
+7.8361
 
 Ease of Setup
 
@@ -177,7 +177,7 @@ Ease of Setup
 
 6.6
 
-6.6245
+6.6247
 
 Ease of Admin
 
@@ -191,7 +191,7 @@ Ease of Admin
 
 7.6
 
-7.6208
+7.6209
 
 Quality of Support
 
@@ -205,7 +205,7 @@ Quality of Support
 
 7.8
 
-7.8344
+7.8346
 
 Has the product been a good partner in doing business?
 
@@ -219,7 +219,7 @@ Has the product been a good partner in doing business?
 
 8.0
 
-8.0205
+8.0206
 
 Product Direction (% positive)
 
@@ -233,7 +233,7 @@ Product Direction (% positive)
 
 8.3
 
-8.3329
+8.3331
 
 ## Send me this comparison
 
@@ -291,11 +291,11 @@ Simpro
 
 Small-Business(50 or fewer emp.)
 
-76.8%
+76.9%
 
 Mid-Market(51-1000 emp.)
 
-23.0%
+22.9%
 
 Enterprise(\> 1000 emp.)
 
@@ -307,7 +307,7 @@ Small-Business
 
 65.6%
 
-76.8%
+76.9%
 
 Mid-Market
 
@@ -315,7 +315,7 @@ Mid-Market
 
 32.5%
 
-23.0%
+22.9%
 
 Enterprise
 
@@ -361,19 +361,19 @@ Simpro
 
 Construction
 
-37.7%
+37.8%
 
 Electrical/Electronic Manufacturing
 
-13.6%
+13.5%
 
 Facilities Services
 
-9.1%
+9.0%
 
 Mechanical or Industrial Engineering
 
-6.3%
+6.2%
 
 Security and Investigations
 
@@ -381,7 +381,7 @@ Security and Investigations
 
 Other
 
-27.6%
+27.7%
 
 FAQs
 
