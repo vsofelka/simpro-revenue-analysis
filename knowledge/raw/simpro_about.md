@@ -163,12 +163,12 @@ We’ve got something for everyone. Join us today!
 [Press\\
 \\
 \\
-The Impact of AI on Jobs: Simpro CEO Fred Voccola on FOX Business](https://www.simprogroup.com/company/press/the-impact-of-ai-on-jobs-simpro-ceo-fred-voccola-on-fox-business)
+**The Impact of AI on Jobs: Simpro CEO Fred Voccola on FOX Business**](https://www.simprogroup.com/company/press/the-impact-of-ai-on-jobs-simpro-ceo-fred-voccola-on-fox-business)
 
 [Press\\
 \\
 \\
-Simpro Group Expands into Canada with New AI R&D Center in Montréal](https://www.simprogroup.com/company/press/simpro-group-expands-into-canada-with-new-ai-r-and-d-centre-in-montreal)
+**Simpro Group Expands into Canada with New AI R&D Center in Montréal**](https://www.simprogroup.com/company/press/simpro-group-expands-into-canada-with-new-ai-r-and-d-centre-in-montreal)
 
 [Press\\
 \\
@@ -176,7 +176,7 @@ Simpro Group Expands into Canada with New AI R&D Center in Montréal](https://ww
 Trends\\
 \\
 \\
-Simpro Featured on Schwab Network: The Rise of the Digital Worker](https://www.simprogroup.com/company/press/simpro-featured-on-schwab-network-the-rise-of-the-digital-worker)
+**Simpro Featured on Schwab Network: The Rise of the Digital Worker**](https://www.simprogroup.com/company/press/simpro-featured-on-schwab-network-the-rise-of-the-digital-worker)
 
 ![left arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-left.svg)Previous![right arrow icon](https://www.simprogroup.com/user/themes/simpro/images/icons/glyph-right.svg)Next
 

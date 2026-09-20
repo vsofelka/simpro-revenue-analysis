@@ -1,5 +1,7 @@
 # Source: https://www.g2.com/compare/simpro-vs-servicetitan
 
+Link copied to clipboard
+
 Customize Comparison
 
 Edit tools and criteria
@@ -38,13 +40,16 @@ Apply changes
 
 # ServiceTitan vs Simpro Comparison - What are their main differences?
 
+Share
+[Export](https://www.g2.com/compare/servicetitan/simpro/export.csv)
+
 ServiceTitanSimpro [\+ Add Product](https://www.g2.com/compare/servicetitan-vs-simpro#)
 
 Reviews
 
 **ServiceTitan** [4.4/5(375)](https://www.g2.com/products/servicetitan/reviews#reviews)
 
-**Simpro** [4.2/5(478)](https://www.g2.com/products/simpro/reviews#reviews)
+**Simpro** [4.1/5(479)](https://www.g2.com/products/simpro/reviews#reviews)
 
 Pricing
 
@@ -84,7 +89,7 @@ Pros & Cons
 
 **Simpro**
 
-[Ease of Use (7)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
+[Ease of Use (8)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1240234&qs=pros-and-cons#reviews) [Data Management (5)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2090891&qs=pros-and-cons#reviews) [Complexity (4)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=1238111&qs=pros-and-cons#reviews) [Complex Setup (3)](https://www.g2.com/products/simpro/reviews?filters%5Bsentiment_snippet%5D=2404694&qs=pros-and-cons#reviews)
 
 Summary
 
@@ -149,7 +154,7 @@ Meets Requirements
 
 7.9
 
-7.9355
+7.9356
 
 Ease of Use
 
@@ -163,7 +168,7 @@ Ease of Use
 
 7.8
 
-7.8361
+7.8362
 
 Ease of Setup
 
@@ -177,7 +182,7 @@ Ease of Setup
 
 6.6
 
-6.6247
+6.6248
 
 Ease of Admin
 
@@ -205,7 +210,7 @@ Quality of Support
 
 7.8
 
-7.8346
+7.8347
 
 Has the product been a good partner in doing business?
 
@@ -233,7 +238,7 @@ Product Direction (% positive)
 
 8.3
 
-8.3331
+8.3332
 
 ## Send me this comparison
 
@@ -361,7 +366,7 @@ Simpro
 
 Construction
 
-37.8%
+37.7%
 
 Electrical/Electronic Manufacturing
 
@@ -381,7 +386,7 @@ Security and Investigations
 
 Other
 
-27.7%
+27.8%
 
 FAQs
 

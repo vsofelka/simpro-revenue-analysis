@@ -14,9 +14,9 @@ Simpro
 
 By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8defb)
 
-4.2/5(478)
+4.1/5(479)
 
-###### 4.2 out of 5 stars
+###### 4.1 out of 5 stars
 
 [5 star\\
 \\
@@ -42,7 +42,7 @@ How would you rate your experience with Simpro?
 
 [Start Review](https://www.g2.com/products/simpro/take_survey)
 
-[See all 478 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
+[See all 479 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
 
 AI Verified
 
@@ -185,7 +185,7 @@ Play Simpro Video
 
 Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.
 
-![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://i.vimeocdn.com/video/2045540919-041ede88e002b6c3d066702ef973f7924ab8edd1c096dca1979271a78511d336-d_720?region=us)
 
 Play Simpro Video
 
@@ -253,23 +253,23 @@ Play Simpro Video
 
 Show More
 
-### Simpro Reviews (478)
+### Simpro Reviews (479)
 
 Reviews
 
-### Simpro Reviews (478)
+### Simpro Reviews (479)
 
-4.2
+4.1
 
-478 reviews
+479 reviews
 
-[Leave a Review](https://www.g2.com/products/simpro/review_modalities/new) [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new)
+[Leave a Review](https://www.g2.com/products/simpro/review_modalities/new) [Leave a Review](https://www.g2.com/login?context=product_review&return_to=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fsimpro%2Freview_modalities%2Fnew)
 
 255
 
 161
 
-39
+40
 
 14
 
@@ -285,7 +285,7 @@ Users consistently praise Simpro for its **ease of use** and **comprehensive fun
 
 Generated from real user reviews
 
-Ease of Use (7)Features (5)Data Management (5)Efficiency (4)Centralization (3)Setup Difficulties (3)Learning Curve (3)Difficult Learning (3)Complex Setup (3)Complexity (3) [View All Pros and Cons](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+Ease of Use (8)Features (5)Data Management (5)Efficiency (4)Customer Support (4)Complexity (4)Learning Curve (3)Improvement Needed (3)Difficult Learning (3)Complex Setup (3) [View All Pros and Cons](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Search reviews
 
@@ -309,7 +309,7 @@ View Filters
 
 Company Size
 
-Small Business (50 or fewer emp.) (368)
+Small Business (50 or fewer emp.) (369)
 
 Mid-Market (51-1000 emp.) (108)
 
@@ -317,7 +317,7 @@ Enterprise ( >1000 emp.) (1)
 
 User Role
 
-User (183)
+User (184)
 
 Administrator (262)
 
@@ -335,7 +335,7 @@ Industry Analyst / Tech Writer (1)
 
 Category
 
-Field Service Management (449)
+Field Service Management (450)
 
 Construction Estimating (78)
 
@@ -369,13 +369,13 @@ Mechanical or Industrial Engineering (29)
 
 Security and Investigations (27)
 
-Other (134)
+Other (135)
 
 Region
 
 ANZ (210)
 
-Europe (127)
+Europe (128)
 
 North America (125)
 
@@ -390,7 +390,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-dd6fe291dbfa5fa22ff3)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-988c933959349b92b1ba)
 
 [![Larissa F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -929,9 +929,9 @@ Show MoreShow Less
 
 ##### Explore More
 
-[What's the best customer self-service platform for small support teams whose customers need accurate answers without contacting an agent?](https://www.g2.com/discussions/what-s-the-best-customer-self-service-platform-for-small-support-teams-whose-customers-need-accurate-answers-without-contacting-an-agent) [What are the most trusted Cloud File Security platforms among IT managers and cybersecurity engineers, based on user reviews?](https://www.g2.com/discussions/what-are-the-most-trusted-cloud-file-security-platforms-among-it-managers-and-cybersecurity-engineers-based-on-user-reviews) [Which low-code platforms work best for financial services or insurance companies that need auditability and compliance baked into their workflows?](https://www.g2.com/discussions/which-low-code-platforms-work-best-for-financial-services-or-insurance-companies-that-need-auditability-and-compliance-baked-into-their-workflows)
+[Which video hosting tools work best for marketing teams that need editing features?](https://www.g2.com/discussions/which-video-hosting-tools-work-best-for-marketing-teams-that-need-editing-features) [Best tools for ensuring data quality during integration](https://www.g2.com/discussions/what-are-the-best-tools-for-ensuring-data-quality-during-integration) [Top tools for tracking HR performance metrics](https://www.g2.com/discussions/what-are-the-top-tools-for-tracking-hr-performance-metrics)
 
-[What's the best low-code platform for custom app creation](https://www.g2.com/discussions/what-s-the-best-low-code-platform-for-custom-app-creation) [Best purchasing platforms for office supply management](https://www.g2.com/discussions/best-purchasing-platforms-for-office-supply-management) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Who Do Security Operations Managers at Financial Services and Banking Firms Trust Most for DDoS Protection Software?](https://www.g2.com/discussions/who-do-security-operations-managers-at-financial-services-and-banking-firms-trust-most-for-ddos-protection-software) [Which self-serve programmatic display advertising tools work best for in-house teams new to DSPs?](https://www.g2.com/discussions/which-self-serve-programmatic-display-advertising-tools-work-best-for-in-house-teams-new-to-dsps) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 
@@ -941,7 +941,7 @@ Get Demo
 
 Simpro
 
-4.2/5(478)
+4.1/5(479)
 
 Get Demo
 
