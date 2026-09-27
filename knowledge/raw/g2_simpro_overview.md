@@ -46,7 +46,7 @@ How would you rate your experience with Simpro?
 
 AI Verified
 
-[Get Started](https://www.g2.com/products/simpro/leads/new?lead%5Bcontext%5D=contact&lead%5Bsource_location%5D=products%23reviews)
+[Get Started](https://www.g2.com/products/simpro/leads/new?lead%5Bcontext%5D=contact&lead%5Bsource_location%5D=products%23pricing)
 
 Get Demo
 
@@ -390,7 +390,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-aa68e8f77f27f1436571)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-757d16056bd6023db39d)
 
 [![Larissa F.](https://lh3.googleusercontent.com/a/ACg8ocJrDxzV9qlR_JmW4jKROp42IPGcxsHhB6eMj-mOBeoMkNKX3oWBaw=s96-c)\\
 \\
@@ -791,22 +791,6 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 [Ask about Simpro](https://www.g2.com/products/simpro/discussions/new)
 
-CD
-
-Chris Dayton
-
-•
-
-Last activity almost 5 years ago
-
-Your drop down list of industries served does not cover \| Maintenance / Fire etc
-
-1 Upvote
-
-1
-
-[Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
-
 GU
 
 Guest User
@@ -818,6 +802,22 @@ What is simPRO used for?
 0
 
 [Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
+
+CD
+
+Chris Dayton
+
+•
+
+Last activity about 5 years ago
+
+Your drop down list of industries served does not cover \| Maintenance / Fire etc
+
+1 Upvote
+
+1
+
+[Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -929,9 +929,9 @@ Show MoreShow Less
 
 ##### Explore More
 
-[Which video hosting tools work best for marketing teams that need editing features?](https://www.g2.com/discussions/which-video-hosting-tools-work-best-for-marketing-teams-that-need-editing-features) [Best tools for ensuring data quality during integration](https://www.g2.com/discussions/what-are-the-best-tools-for-ensuring-data-quality-during-integration) [Top tools for tracking HR performance metrics](https://www.g2.com/discussions/what-are-the-top-tools-for-tracking-hr-performance-metrics)
+[Which Digital Customer Onboarding tools maintain a consistent experience when customers have varying technical skill levels?](https://www.g2.com/discussions/which-digital-customer-onboarding-tools-maintain-a-consistent-experience-when-customers-have-varying-technical-skill-levels) [Bonusly vs Workhuman for a company that wants a proper recognition program but does not want to pay enterprise rates for a 200-person team?](https://www.g2.com/discussions/bonusly-vs-workhuman-for-a-company-that-wants-a-proper-recognition-program-but-does-not-want-to-pay-enterprise-rates-for-a-200-person-team) [What is the easiest 3D modeling software to learn for a total beginner who wants to create something without going through a year-long learning curve?](https://www.g2.com/discussions/what-is-the-easiest-3d-modeling-software-to-learn-for-a-total-beginner-who-wants-to-create-something-without-going-through-a-year-long-learning-curve)
 
-[Who Do Security Operations Managers at Financial Services and Banking Firms Trust Most for DDoS Protection Software?](https://www.g2.com/discussions/who-do-security-operations-managers-at-financial-services-and-banking-firms-trust-most-for-ddos-protection-software) [Which self-serve programmatic display advertising tools work best for in-house teams new to DSPs?](https://www.g2.com/discussions/which-self-serve-programmatic-display-advertising-tools-work-best-for-in-house-teams-new-to-dsps) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[Which products combine graph and document database capabilities for a team that needs both relationship traversal and flexible schema storage in one system?](https://www.g2.com/discussions/which-products-combine-graph-and-document-database-capabilities-for-a-team-that-needs-both-relationship-traversal-and-flexible-schema-storage-in-one-system) [Which location intelligence software provides predictive modeling features?](https://www.g2.com/discussions/which-location-intelligence-software-provides-predictive-modeling-features) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 
