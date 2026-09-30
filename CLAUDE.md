@@ -4,7 +4,7 @@
 
 This is an analytics engineering portfolio project built for the Loyola Marymount University Analytics Engineering course. The project targets the **Revenue Operations Analyst** role at **Simpro Group** and demonstrates end-to-end data pipeline skills: API extraction, Snowflake loading, dbt transformation, and Streamlit dashboarding.
 
-**Repo:** https://github.com/vsofelka/sports-data-analysis
+**Repo:** https://github.com/vsofelka/simpro-revenue-analysis
 **Student:** Victor Sofelkanik
 **Stack:** Python · HubSpot API · Firecrawl · Snowflake · dbt · GitHub Actions · Streamlit
 
