@@ -124,6 +124,21 @@ erDiagram
 The pipeline loads HubSpot data into Snowflake. Since the Snowflake trial ended, the live
 demo runs on a saved snapshot of the same dbt output (`pipeline/build_snapshot.py`).
 
+### Automation status
+
+The daily **Extract and Load HubSpot Data** workflow (`.github/workflows/extract_load.yml`)
+is **turned off** as of September 30, 2026. It loads HubSpot data into Snowflake, and it
+failed every day after the Snowflake trial account expired. The workflow file is unchanged,
+and the weekly **Scrape Knowledge Base Sources** workflow still runs.
+
+To turn it back on (after adding working Snowflake credentials as repository secrets):
+
+- On GitHub: **Actions** tab → **Extract and Load HubSpot Data** → **Enable workflow**
+- Or from a terminal: `gh workflow enable "Extract and Load HubSpot Data" -R vsofelka/simpro-revenue-analysis`
+
+To refresh the live demo's data without Snowflake, run `python pipeline/build_snapshot.py`
+(needs `HUBSPOT_ACCESS_TOKEN` in `.env`) and commit the updated files in `streamlit/data/`.
+
 ## Knowledge Base
 
 A Claude Code-curated wiki built from 20 scraped sources. Wiki pages live in `knowledge/wiki/`, raw sources in `knowledge/raw/`. Browse [`knowledge/wiki/index.md`](knowledge/wiki/index.md) to see all pages.
