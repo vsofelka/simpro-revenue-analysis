@@ -119,9 +119,10 @@ erDiagram
 
 ## Live Dashboard
 
-**Temporarily offline.** The Snowflake trial account behind the dashboard expired, and the
-demo is being moved to a saved data snapshot so it stays up. The pipeline code below is
-unchanged.
+**Live app:** https://sports-data-analysis-4ap8pslmvze2gzdbkumuau.streamlit.app/
+
+The pipeline loads HubSpot data into Snowflake. Since the Snowflake trial ended, the live
+demo runs on a saved snapshot of the same dbt output (`pipeline/build_snapshot.py`).
 
 ## Knowledge Base
 
