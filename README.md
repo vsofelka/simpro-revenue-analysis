@@ -119,7 +119,7 @@ erDiagram
 
 ## Live Dashboard
 
-**Live app:** https://sports-data-analysis-4ap8pslmvze2gzdbkumuau.streamlit.app/
+**Live app:** https://simpro-data-analysis-4ap8pslmvze2gzdbkumuau.streamlit.app/
 
 The pipeline loads HubSpot data into Snowflake. Since the Snowflake trial ended, the live
 demo runs on a saved snapshot of the same dbt output (`pipeline/build_snapshot.py`).
