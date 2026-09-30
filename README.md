@@ -119,7 +119,9 @@ erDiagram
 
 ## Live Dashboard
 
-**URL:** https://sports-data-analysis-4ap8pslmvze2gzdbkumuau.streamlit.app/
+**Temporarily offline.** The Snowflake trial account behind the dashboard expired, and the
+demo is being moved to a saved data snapshot so it stays up. The pipeline code below is
+unchanged.
 
 ## Knowledge Base
 
