@@ -44,3 +44,9 @@ credentials.json
 # Planning artifacts (local only)
 docs/superpowers/
 docs/sample_deals.csv
+
+# Local DuckDB database built by pipeline/build_snapshot.py
+dbt/*.duckdb
+dbt/*.duckdb.wal
+# dbt writes an anonymous user id here when run with --profiles-dir
+dbt/profiles/.user.yml

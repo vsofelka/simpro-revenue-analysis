@@ -1,7 +1,10 @@
+import json
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import snowflake.connector
+
+import data_source
 
 st.set_page_config(
     page_title="Simpro RevOps Dashboard",
@@ -10,52 +13,23 @@ st.set_page_config(
 )
 
 
-@st.cache_resource
-def get_conn():
-    return snowflake.connector.connect(
-        account=st.secrets["snowflake"]["account"],
-        user=st.secrets["snowflake"]["user"],
-        password=st.secrets["snowflake"]["password"],
-        warehouse=st.secrets["snowflake"]["warehouse"],
-        database=st.secrets["snowflake"]["database"],
-        role=st.secrets["snowflake"]["role"],
-    )
+def _secrets():
+    # st.secrets raises if no secrets are configured at all; treat that as "none"
+    try:
+        return st.secrets.to_dict()
+    except Exception:
+        return {}
 
 
 @st.cache_data(ttl=3600)
 def load_deals():
-    conn = get_conn()
-    query = """
-        SELECT
-            f.deal_id,
-            f.deal_name,
-            f.amount,
-            f.stage_id,
-            f.stage_name,
-            f.win_probability,
-            f.close_date,
-            f.created_date,
-            f.is_won,
-            f.is_lost,
-            f.days_to_close,
-            f.days_in_pipeline,
-            s.display_order
-        FROM SIMPRO_REVOPS.MART.FCT_DEALS f
-        LEFT JOIN SIMPRO_REVOPS.MART.DIM_STAGES s ON f.stage_id = s.stage_id
-    """
-    cur = conn.cursor()
-    cur.execute(query)
-    rows = cur.fetchall()
-    cols = [c[0].lower() for c in cur.description]
-    return pd.DataFrame(rows, columns=cols)
+    # Snowflake when credentials are configured and working, otherwise the
+    # saved snapshot (see streamlit/data_source.py)
+    return data_source.load_deals(_secrets())
 
 
 # ── Load data ──────────────────────────────────────────────────────────────────
-try:
-    df = load_deals()
-except Exception as e:
-    st.error(f"Could not connect to Snowflake: {e}")
-    st.stop()
+df, data_source_used = load_deals()
 
 df["created_date"] = pd.to_datetime(df["created_date"])
 df["close_date"] = pd.to_datetime(df["close_date"])
@@ -95,6 +69,12 @@ st.title("Simpro RevOps Pipeline Analytics")
 st.caption(
     "Sales pipeline insights powered by HubSpot CRM · Victor Sofelkanik · LMU ISBA 4715"
 )
+if data_source_used == "snapshot":
+    info = json.loads((data_source.SNAPSHOT_PATH.parent / "snapshot_info.json").read_text())
+    st.caption(
+        f"Showing a saved snapshot of the pipeline output (HubSpot data as of "
+        f"{info['built_on']}, {info['deal_count']} deals). The full pipeline loads Snowflake."
+    )
 
 # ── KPI row ─────────────────────────────────────────────────────────────────────
 k1, k2, k3, k4 = st.columns(4)

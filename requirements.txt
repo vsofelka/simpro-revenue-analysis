@@ -7,3 +7,5 @@ streamlit>=1.35.0
 plotly>=5.22.0
 pandas>=2.2.0
 firecrawl-py>=1.0.0
+dbt-duckdb>=1.8.0
+pytest>=8.0.0

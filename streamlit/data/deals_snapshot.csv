@@ -1,0 +1,227 @@
+deal_id,deal_name,amount,stage_id,stage_name,win_probability,close_date,created_date,is_won,is_lost,days_to_close,days_in_pipeline,display_order
+323818325741,Obsidian Partners - Pro Tier,23282.0,closedwon,Closed Won,1.0,2023-11-12,2023-10-03,True,False,40,1093,5
+323841579764,Rocket Corp - Annual License,23907.0,closedwon,Closed Won,1.0,2023-12-20,2023-10-07,True,False,74,1089,5
+323829056207,TechForge Inc - Annual License,22248.0,closedlost,Closed Lost,0.0,2023-11-04,2023-10-09,False,True,26,1087,6
+323830852309,Centaur Group - Enterprise,101462.0,closedlost,Closed Lost,0.0,2023-12-28,2023-10-10,False,True,79,1086,6
+323821190846,Ember Tech - Professional,56671.0,closedwon,Closed Won,1.0,2023-11-06,2023-10-18,True,False,19,1078,5
+323828294348,Titan Infrastructure - Annual License,23190.0,closedwon,Closed Won,1.0,2023-12-28,2023-10-21,True,False,68,1075,5
+323828022981,Dynamo Industries - Business Suite,51523.0,closedwon,Closed Won,1.0,2023-12-23,2023-10-22,True,False,62,1074,5
+323828216540,Nexus Technologies - Enterprise,96885.0,closedwon,Closed Won,1.0,2024-01-08,2023-10-27,True,False,73,1069,5
+323830852320,Omega Partners - Professional,54045.0,closedwon,Closed Won,1.0,2024-01-08,2023-10-28,True,False,72,1068,5
+323828482790,Axiom Partners - Professional,53994.0,closedlost,Closed Lost,0.0,2023-12-19,2023-10-30,False,True,50,1066,6
+323830852313,Delphi Systems - Annual License,22755.0,closedwon,Closed Won,1.0,2023-12-14,2023-10-30,True,False,45,1066,5
+323820332737,Summit Retail Group - Starter Plan,12678.0,closedwon,Closed Won,1.0,2024-01-14,2023-11-01,True,False,74,1064,5
+323828022983,Beacon Digital - Professional,55385.0,closedwon,Closed Won,1.0,2023-12-01,2023-11-03,True,False,28,1062,5
+323820332744,Highland Partners - Professional,53658.0,closedwon,Closed Won,1.0,2024-01-19,2023-11-10,True,False,70,1055,5
+323829056203,Frontier Tech - Pro Tier,28522.0,closedwon,Closed Won,1.0,2023-12-18,2023-11-12,True,False,36,1053,5
+323828482782,Matrix Corp - Growth Plan,36247.0,closedwon,Closed Won,1.0,2023-12-03,2023-11-16,True,False,17,1049,5
+323828387558,Flux Industries - Pro Tier,28734.0,closedwon,Closed Won,1.0,2024-01-14,2023-12-06,True,False,39,1029,5
+323828022985,Delta Force Systems - Premium,74294.0,closedlost,Closed Lost,0.0,2024-02-29,2023-12-15,False,True,76,1020,6
+323827804872,Obsidian Partners - Starter Plan,10225.0,closedlost,Closed Lost,0.0,2024-02-28,2023-12-30,False,True,60,1005,6
+323828294338,Quest Systems - Starter Plan,11494.0,closedwon,Closed Won,1.0,2024-03-24,2024-01-10,True,False,74,994,5
+323828387559,Dynamo Industries - Annual License,20806.0,closedlost,Closed Lost,0.0,2024-03-27,2024-01-11,False,True,76,993,6
+323820332734,Oakwood Enterprises - Growth Plan,38963.0,closedwon,Closed Won,1.0,2024-03-29,2024-01-26,True,False,63,978,5
+323841498871,Gateway Industries - Enterprise,97888.0,closedwon,Closed Won,1.0,2024-04-01,2024-02-01,True,False,60,972,5
+323827929844,Ultratech Inc - Enterprise,99597.0,closedwon,Closed Won,1.0,2024-03-19,2024-02-05,True,False,43,968,5
+323827804875,TechForge Inc - Growth Plan,35954.0,closedwon,Closed Won,1.0,2024-03-22,2024-02-07,True,False,44,966,5
+323829056197,Obsidian Partners - Enterprise,101713.0,closedwon,Closed Won,1.0,2024-04-01,2024-02-07,True,False,54,966,5
+323827929843,Orion Manufacturing - Business Suite,48187.0,closedlost,Closed Lost,0.0,2024-04-08,2024-02-12,False,True,56,961,6
+323828216548,Landmark Corp - Annual License,21561.0,closedlost,Closed Lost,0.0,2024-03-16,2024-02-17,False,True,28,956,6
+323829056199,Rocket Corp - Starter Plan,7742.0,closedwon,Closed Won,1.0,2024-05-05,2024-03-01,True,False,65,943,5
+323830852318,Pacific Ventures - Annual License,25436.0,closedlost,Closed Lost,0.0,2024-05-26,2024-03-04,False,True,83,940,6
+323823562455,Delphi Systems - Pro Tier,27306.0,closedlost,Closed Lost,0.0,2024-05-28,2024-03-06,False,True,83,938,6
+323821190844,Threshold Corp - Growth Plan,35392.0,closedlost,Closed Lost,0.0,2024-04-27,2024-03-28,False,True,30,916,6
+323828781806,Bridgepoint Solutions - Starter Plan,12751.0,closedwon,Closed Won,1.0,2024-05-11,2024-03-28,True,False,44,916,5
+323828022980,Kinetic Systems - Professional,55278.0,closedwon,Closed Won,1.0,2024-05-24,2024-04-03,True,False,51,910,5
+323823562456,Redwood Ventures - Enterprise Plus,143979.0,closedwon,Closed Won,1.0,2024-05-03,2024-04-07,True,False,26,906,5
+323841350366,Vault Solutions - Enterprise Plus,144794.0,closedlost,Closed Lost,0.0,2024-06-03,2024-04-12,False,True,52,901,6
+323829056204,Westbrook Holdings - Enterprise,102453.0,closedwon,Closed Won,1.0,2024-05-31,2024-04-20,True,False,41,893,5
+323828482786,Insight Global - Growth Plan,37994.0,closedwon,Closed Won,1.0,2024-06-10,2024-05-05,True,False,36,878,5
+323829056198,Unified Systems - Premium,79123.0,closedwon,Closed Won,1.0,2024-06-27,2024-05-13,True,False,45,870,5
+323828294344,Obsidian Partners - Annual License,20763.0,closedlost,Closed Lost,0.0,2024-06-21,2024-05-18,False,True,34,865,6
+323830852316,Atlas Group - Pro Tier,23286.0,closedwon,Closed Won,1.0,2024-06-27,2024-06-02,True,False,25,850,5
+323827804874,Granite Corp - Premium,79210.0,closedwon,Closed Won,1.0,2024-07-31,2024-06-03,True,False,58,849,5
+323828216543,Wildfire Corp - Annual License,25076.0,closedlost,Closed Lost,0.0,2024-08-25,2024-06-03,False,True,83,849,6
+323828294337,Radius Group - Business Suite,46622.0,closedwon,Closed Won,1.0,2024-06-25,2024-06-05,True,False,20,847,5
+323828387554,Dynamo Industries - Enterprise,99692.0,closedwon,Closed Won,1.0,2024-08-07,2024-06-06,True,False,62,846,5
+323830852319,Eclipse Partners - Business Suite,49312.0,closedwon,Closed Won,1.0,2024-07-09,2024-06-06,True,False,33,846,5
+323828781810,Tempest Analytics - Enterprise,98640.0,closedwon,Closed Won,1.0,2024-08-14,2024-06-08,True,False,67,844,5
+323823562445,Quest Systems - Enterprise,96697.0,closedwon,Closed Won,1.0,2024-07-02,2024-06-11,True,False,21,841,5
+323823562447,Wavelength Inc - Enterprise Plus,147945.0,closedwon,Closed Won,1.0,2024-06-28,2024-06-13,True,False,15,839,5
+323828294339,Keywest Corp - Growth Plan,34420.0,closedwon,Closed Won,1.0,2024-08-28,2024-06-15,True,False,74,837,5
+323828294343,Horizon Digital - Business Suite,49809.0,closedwon,Closed Won,1.0,2024-08-21,2024-06-19,True,False,63,833,5
+323823562446,Delphi Systems - Growth Plan,34411.0,closedwon,Closed Won,1.0,2024-07-31,2024-06-23,True,False,38,829,5
+323829056200,Maximus Solutions - Pro Tier,25846.0,closedlost,Closed Lost,0.0,2024-08-30,2024-06-28,False,True,63,824,6
+323841350368,Cascade Digital - Annual License,22784.0,closedlost,Closed Lost,0.0,2024-07-20,2024-06-30,False,True,20,822,6
+323828482787,Wavelength Inc - Growth Plan,40011.0,closedwon,Closed Won,1.0,2024-08-25,2024-07-03,True,False,53,819,5
+323827804881,Eclipse Partners - Premium,78778.0,closedlost,Closed Lost,0.0,2024-09-17,2024-07-06,False,True,73,816,6
+323821190850,Atlas Group - Enterprise Plus,145290.0,closedwon,Closed Won,1.0,2024-08-27,2024-07-09,True,False,49,813,5
+323828216542,Unity Software - Professional,55265.0,closedwon,Closed Won,1.0,2024-08-05,2024-07-16,True,False,20,806,5
+323830852321,Vault Solutions - Professional,59822.0,closedlost,Closed Lost,0.0,2024-09-07,2024-07-20,False,True,49,802,6
+323818325740,Pinnacle Systems - Pro Tier,23923.0,closedlost,Closed Lost,0.0,2024-09-08,2024-07-21,False,True,49,801,6
+323828022986,Rocket Corp - Enterprise Plus,147708.0,closedlost,Closed Lost,0.0,2024-09-24,2024-07-29,False,True,57,793,6
+323823562453,Westbrook Holdings - Enterprise Plus,144469.0,closedwon,Closed Won,1.0,2024-08-19,2024-08-05,True,False,14,786,5
+323823562443,Westbrook Holdings - Annual License,20357.0,closedlost,Closed Lost,0.0,2024-11-09,2024-08-21,False,True,80,770,6
+323841579766,Insight Global - Business Suite,49724.0,closedwon,Closed Won,1.0,2024-10-04,2024-08-30,True,False,35,761,5
+323827804877,Radius Group - Pro Tier,28977.0,closedlost,Closed Lost,0.0,2024-11-28,2024-09-01,False,True,88,759,6
+323828294341,Insight Global - Pro Tier,23317.0,closedwon,Closed Won,1.0,2024-10-12,2024-09-02,True,False,40,758,5
+323841350367,Pinnacle Systems - Growth Plan,38114.0,closedlost,Closed Lost,0.0,2024-10-06,2024-09-04,False,True,32,756,6
+323841579758,Ember Tech - Premium,77349.0,closedwon,Closed Won,1.0,2024-10-28,2024-09-17,True,False,41,743,5
+323828216539,TechForge Inc - Premium,73426.0,closedwon,Closed Won,1.0,2024-10-21,2024-09-23,True,False,28,737,5
+323827929846,Vector Analytics - Enterprise,96361.0,presentationscheduled,Presentation Scheduled,0.6,2024-12-12,2024-10-01,False,False,,729,2
+323828387555,Insight Global - Starter Plan,8903.0,closedlost,Closed Lost,0.0,2024-12-08,2024-10-02,False,True,67,728,6
+323821190852,Orion Manufacturing - Premium,79848.0,presentationscheduled,Presentation Scheduled,0.6,2024-11-14,2024-10-04,False,False,,726,2
+323828216538,Granite Corp - Pro Tier,25551.0,closedwon,Closed Won,1.0,2024-11-28,2024-10-05,True,False,54,725,5
+323828781814,Vanguard Corp - Pro Tier,24769.0,qualifiedtobuy,Qualified To Buy,0.4,2025-01-19,2024-10-06,False,False,,724,1
+323818325743,Nexus Technologies - Growth Plan,37377.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2024-11-28,2024-10-07,False,False,,723,3
+323828781815,Spectrum Solutions - Premium,75712.0,contractsent,Contract Sent,0.9,2024-11-21,2024-10-08,False,False,,722,4
+323828482789,SkyBridge Logistics - Enterprise,98987.0,appointmentscheduled,Appointment Scheduled,0.2,2024-12-25,2024-10-11,False,False,,719,0
+323827804878,Jade Analytics - Professional,53744.0,presentationscheduled,Presentation Scheduled,0.6,2024-11-26,2024-10-13,False,False,,717,2
+323823562444,Matrix Corp - Annual License,25419.0,closedwon,Closed Won,1.0,2024-11-01,2024-10-14,True,False,18,716,5
+323828022987,Infinity Solutions - Professional,55057.0,presentationscheduled,Presentation Scheduled,0.6,2024-11-24,2024-10-14,False,False,,716,2
+322666095314,BlueSky Solutions - Enterprise,125000.0,closedwon,Closed Won,1.0,2025-01-28,2024-10-15,True,False,105,715,5
+323841579765,Redwood Ventures - Enterprise,97783.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-27,2024-10-15,False,False,,715,0
+323818325744,Clearwater Tech - Professional,59684.0,qualifiedtobuy,Qualified To Buy,0.4,2025-01-24,2024-10-18,False,False,,712,1
+323823562449,Sentinel Security - Enterprise Plus,146533.0,appointmentscheduled,Appointment Scheduled,0.2,2025-02-10,2024-10-18,False,False,,712,0
+323841350371,Apex Services - Starter Plan,8375.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2024-11-21,2024-10-18,False,False,,712,3
+323828216549,Frontier Tech - Professional,55590.0,presentationscheduled,Presentation Scheduled,0.6,2024-11-19,2024-10-19,False,False,,711,2
+323828482780,Flux Industries - Enterprise Plus,145723.0,closedlost,Closed Lost,0.0,2025-01-07,2024-10-21,False,True,78,709,6
+323841579761,Solar Partners - Starter Plan,11573.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-12,2024-10-21,False,False,,709,0
+323829056202,Ember Tech - Growth Plan,39397.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2024-12-27,2024-10-22,False,False,,708,3
+323828387560,Vault Solutions - Business Suite,52354.0,closedwon,Closed Won,1.0,2024-12-05,2024-10-24,True,False,42,706,5
+323821190847,Titan Infrastructure - Business Suite,51463.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-10,2024-10-27,False,False,,703,0
+323818325745,Keystone Analytics - Enterprise,96945.0,qualifiedtobuy,Qualified To Buy,0.4,2025-02-05,2024-10-28,False,False,,702,1
+323828482791,Landmark Corp - Starter Plan,12651.0,presentationscheduled,Presentation Scheduled,0.6,2025-01-20,2024-10-28,False,False,,702,2
+323821190849,Axiom Partners - Premium,76698.0,appointmentscheduled,Appointment Scheduled,0.2,2024-12-31,2024-10-31,False,False,,699,0
+322612236000,Acme Corp - Annual License,48000.0,closedwon,Closed Won,1.0,2025-01-15,2024-11-01,True,False,75,698,5
+323841580731,Juniper Networks - Enterprise Plus,148434.0,presentationscheduled,Presentation Scheduled,0.6,2025-01-08,2024-11-01,False,False,,698,2
+323820332736,Momentum Partners - Enterprise,102172.0,closedwon,Closed Won,1.0,2025-01-10,2024-11-03,True,False,68,696,5
+323841579762,Granite Corp - Business Suite,50417.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-02-14,2024-11-03,False,False,,696,3
+323823562457,Prism Solutions - Annual License,25084.0,presentationscheduled,Presentation Scheduled,0.6,2025-01-08,2024-11-09,False,False,,690,2
+322784354032,Pinnacle Systems - Enterprise,98000.0,closedlost,Closed Lost,0.0,2025-02-14,2024-11-10,False,True,96,689,6
+323828294347,Yellowstone Analytics - Enterprise Plus,145334.0,contractsent,Contract Sent,0.9,2025-02-04,2024-11-10,False,False,,689,4
+323823562452,Unity Software - Annual License,20480.0,contractsent,Contract Sent,0.9,2025-01-29,2024-11-12,False,False,,687,4
+323818325748,Highland Partners - Enterprise,101427.0,closedwon,Closed Won,1.0,2025-01-19,2024-11-14,True,False,66,685,5
+323828294335,Zenith Technologies - Enterprise Plus,143949.0,closedlost,Closed Lost,0.0,2025-02-10,2024-11-17,False,True,85,682,6
+323841579760,NovaTech Partners - Premium,73656.0,qualifiedtobuy,Qualified To Buy,0.4,2024-12-25,2024-11-17,False,False,,682,1
+323841350369,Quasar Technologies - Enterprise Plus,148479.0,closedwon,Closed Won,1.0,2025-01-17,2024-11-18,True,False,60,681,5
+322541700814,TechForge Inc - Starter Plan,12000.0,closedlost,Closed Lost,0.0,2025-01-10,2024-11-20,False,True,51,679,6
+323828781808,Gateway Industries - Business Suite,52607.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-07,2024-11-20,False,False,,679,0
+323829056208,Acme Corp - Enterprise,98350.0,appointmentscheduled,Appointment Scheduled,0.2,2025-02-16,2024-11-23,False,False,,676,0
+323820332735,Pacific Ventures - Starter Plan,10355.0,qualifiedtobuy,Qualified To Buy,0.4,2025-01-20,2024-11-26,False,False,,673,1
+323823562450,Obsidian Partners - Business Suite,50820.0,contractsent,Contract Sent,0.9,2024-12-26,2024-11-26,False,False,,673,4
+323828781813,Vector Analytics - Annual License,22965.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-12,2024-11-26,False,False,,673,0
+323820332733,Acme Corp - Premium,76784.0,closedlost,Closed Lost,0.0,2024-12-23,2024-11-27,False,True,26,672,6
+323829056201,Centaur Group - Enterprise Plus,145500.0,contractsent,Contract Sent,0.9,2025-01-25,2024-11-28,False,False,,671,4
+323841579757,Maximus Solutions - Business Suite,46526.0,closedwon,Closed Won,1.0,2025-01-07,2024-11-28,True,False,40,671,5
+323830852312,Juniper Networks - Premium,76816.0,closedwon,Closed Won,1.0,2024-12-16,2024-11-29,True,False,17,670,5
+323820332739,Jade Analytics - Enterprise Plus,143765.0,contractsent,Contract Sent,0.9,2025-03-26,2024-11-30,False,False,,669,4
+323830852314,Juniper Networks - Pro Tier,26211.0,qualifiedtobuy,Qualified To Buy,0.4,2025-02-03,2024-11-30,False,False,,669,1
+322610581200,Meridian Group - Pro Tier,36000.0,closedwon,Closed Won,1.0,2025-02-05,2024-12-01,True,False,66,668,5
+323828294346,Delphi Systems - Starter Plan,11066.0,appointmentscheduled,Appointment Scheduled,0.2,2025-01-17,2024-12-03,False,False,,666,0
+323827804871,Infinity Solutions - Enterprise Plus,143103.0,closedwon,Closed Won,1.0,2025-02-08,2024-12-04,True,False,66,665,5
+323823562448,Pacific Ventures - Enterprise,102160.0,closedwon,Closed Won,1.0,2025-01-04,2024-12-05,True,False,30,664,5
+323828216550,Solar Partners - Premium,75591.0,presentationscheduled,Presentation Scheduled,0.6,2025-01-31,2024-12-06,False,False,,663,2
+323828387556,Nexus Technologies - Professional,56686.0,qualifiedtobuy,Qualified To Buy,0.4,2025-02-05,2024-12-06,False,False,,663,1
+323818325750,Atlas Group - Growth Plan,38756.0,presentationscheduled,Presentation Scheduled,0.6,2025-01-10,2024-12-07,False,False,,662,2
+323828294342,Yellowstone Analytics - Premium,77415.0,contractsent,Contract Sent,0.9,2025-03-21,2024-12-07,False,False,,662,4
+323841579767,Radius Group - Professional,54170.0,qualifiedtobuy,Qualified To Buy,0.4,2025-01-23,2024-12-07,False,False,,662,1
+323841580733,Centaur Group - Starter Plan,12415.0,presentationscheduled,Presentation Scheduled,0.6,2025-03-11,2024-12-07,False,False,,662,2
+323820332745,Horizon Digital - Premium,79151.0,appointmentscheduled,Appointment Scheduled,0.2,2025-03-30,2024-12-08,False,False,,661,0
+323828482781,Legacy Systems - Enterprise,101234.0,closedlost,Closed Lost,0.0,2025-01-29,2024-12-08,False,True,52,661,6
+323830852322,Keystone Analytics - Annual License,21503.0,presentationscheduled,Presentation Scheduled,0.6,2025-03-10,2024-12-11,False,False,,658,2
+323827929845,Radius Group - Starter Plan,7187.0,closedwon,Closed Won,1.0,2025-01-03,2024-12-12,True,False,22,657,5
+323828781812,Cascade Digital - Professional,53634.0,appointmentscheduled,Appointment Scheduled,0.2,2025-02-11,2024-12-13,False,False,,656,0
+323841350372,Axiom Partners - Enterprise,100821.0,closedwon,Closed Won,1.0,2025-01-15,2024-12-13,True,False,33,656,5
+322612235999,SkyBridge Logistics - Annual,22000.0,closedwon,Closed Won,1.0,2025-02-20,2024-12-15,True,False,67,654,5
+323827804869,Global Reach Ltd - Annual License,22831.0,contractsent,Contract Sent,0.9,2025-03-15,2024-12-20,False,False,,649,4
+323828387557,Matrix Corp - Professional,56808.0,closedwon,Closed Won,1.0,2025-02-24,2024-12-20,True,False,66,649,5
+323829056206,Neptune Tech - Starter Plan,12627.0,qualifiedtobuy,Qualified To Buy,0.4,2025-01-26,2024-12-20,False,False,,649,1
+323820332738,Luminary Group - Premium,77877.0,appointmentscheduled,Appointment Scheduled,0.2,2025-03-17,2024-12-21,False,False,,648,0
+323841579768,Meridian Group - Business Suite,49264.0,appointmentscheduled,Appointment Scheduled,0.2,2025-02-27,2024-12-24,False,False,,645,0
+323828781803,Falcon Enterprises - Starter Plan,9798.0,appointmentscheduled,Appointment Scheduled,0.2,2025-02-07,2024-12-26,False,False,,643,0
+323828294345,Infinity Solutions - Enterprise,97085.0,qualifiedtobuy,Qualified To Buy,0.4,2025-02-05,2024-12-29,False,False,,640,1
+323828781804,Tempest Analytics - Professional,54217.0,closedlost,Closed Lost,0.0,2025-03-29,2024-12-31,False,True,88,638,6
+323828022988,Granite Corp - Starter Plan,7416.0,presentationscheduled,Presentation Scheduled,0.6,2025-03-11,2025-01-01,False,False,,637,2
+323841580732,Infinity Solutions - Business Suite,47252.0,presentationscheduled,Presentation Scheduled,0.6,2025-02-23,2025-01-04,False,False,,634,2
+322725763782,Willow Creek Systems - Enterprise,210000.0,closedwon,Closed Won,1.0,2025-03-18,2025-01-05,True,False,72,633,5
+323823562454,Ultratech Inc - Pro Tier,25152.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-22,2025-01-06,False,False,,632,0
+323828482785,Vault Solutions - Premium,73947.0,qualifiedtobuy,Qualified To Buy,0.4,2025-04-20,2025-01-07,False,False,,631,1
+323828781809,Obsidian Partners - Enterprise Plus,145882.0,closedwon,Closed Won,1.0,2025-02-07,2025-01-07,True,False,31,631,5
+323829056196,Keystone Analytics - Growth Plan,35894.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-05,2025-01-07,False,False,,631,3
+323830852310,Delta Force Systems - Enterprise,101758.0,closedwon,Closed Won,1.0,2025-01-25,2025-01-07,True,False,18,631,5
+322725763781,Redstone Field Co - Annual,24000.0,closedwon,Closed Won,1.0,2025-03-05,2025-01-10,True,False,54,628,5
+323827804880,Flux Industries - Professional,54996.0,closedlost,Closed Lost,0.0,2025-04-10,2025-01-10,False,True,90,628,6
+323828216551,Harbor Analytics - Business Suite,48175.0,presentationscheduled,Presentation Scheduled,0.6,2025-02-25,2025-01-10,False,False,,628,2
+323828387553,Axiom Partners - Pro Tier,26308.0,closedlost,Closed Lost,0.0,2025-01-31,2025-01-10,False,True,21,628,6
+323818325746,Redwood Ventures - Annual License,24049.0,appointmentscheduled,Appointment Scheduled,0.2,2025-03-13,2025-01-11,False,False,,627,0
+323827804868,Solar Partners - Growth Plan,35902.0,closedlost,Closed Lost,0.0,2025-03-08,2025-01-15,False,True,52,623,6
+323830852317,Obsidian Partners - Growth Plan,35571.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-11,2025-01-16,False,False,,622,3
+323828482779,Oakwood Enterprises - Premium,74213.0,appointmentscheduled,Appointment Scheduled,0.2,2025-03-06,2025-01-19,False,False,,619,0
+322784354031,Bluemont Electric - Starter,9500.0,closedlost,Closed Lost,0.0,2025-03-25,2025-01-20,False,True,64,618,6
+323829056205,Keywest Corp - Pro Tier,24404.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-03-11,2025-01-20,False,False,,618,3
+323828482784,Solar Partners - Enterprise Plus,146809.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-18,2025-01-22,False,False,,616,0
+323841498872,Jetstream Group - Enterprise,97323.0,appointmentscheduled,Appointment Scheduled,0.2,2025-05-02,2025-01-22,False,False,,616,0
+323828482788,Wavelength Inc - Professional,53747.0,closedwon,Closed Won,1.0,2025-03-01,2025-01-24,True,False,36,614,5
+322546956011,Falcon Mechanical - Pro,43000.0,closedwon,Closed Won,1.0,2025-04-02,2025-01-25,True,False,67,613,5
+323823562451,Acme Corp - Annual License,22172.0,qualifiedtobuy,Qualified To Buy,0.4,2025-04-01,2025-01-25,False,False,,613,1
+323828216546,Centaur Group - Growth Plan,40565.0,appointmentscheduled,Appointment Scheduled,0.2,2025-05-22,2025-01-27,False,False,,611,0
+323820332743,Momentum Partners - Annual License,23367.0,qualifiedtobuy,Qualified To Buy,0.4,2025-03-05,2025-01-28,False,False,,610,1
+323821190851,Rocket Corp - Professional,54990.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-22,2025-01-30,False,False,,608,0
+323828387561,Meridian Group - Starter Plan,8505.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-18,2025-01-30,False,False,,608,1
+323841580730,Jetstream Group - Growth Plan,39404.0,contractsent,Contract Sent,0.9,2025-05-10,2025-01-30,False,False,,608,4
+322706143960,Orion Manufacturing - Pro,45000.0,contractsent,Contract Sent,0.9,2025-04-30,2025-02-01,False,False,,606,4
+323827804882,Xcelerate Inc - Growth Plan,37329.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-04,2025-02-02,False,False,,605,1
+323828216547,Vector Analytics - Premium,78422.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-03-23,2025-02-02,False,False,,605,3
+323841579769,BlueSky Solutions - Enterprise,99845.0,closedwon,Closed Won,1.0,2025-03-16,2025-02-02,True,False,42,605,5
+322706143959,Greystone Utilities - Enterprise,76000.0,closedlost,Closed Lost,0.0,2025-04-08,2025-02-05,False,True,62,602,6
+323827804870,Sentinel Security - Annual License,26990.0,closedlost,Closed Lost,0.0,2025-03-11,2025-02-06,False,True,33,601,6
+323841350370,Vanguard Corp - Enterprise,99570.0,closedwon,Closed Won,1.0,2025-02-24,2025-02-09,True,False,15,598,5
+323821190845,Pacific Ventures - Enterprise Plus,148134.0,closedlost,Closed Lost,0.0,2025-05-11,2025-02-11,False,True,89,596,6
+323828781807,SkyBridge Logistics - Annual License,20013.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-20,2025-02-11,False,False,,596,3
+323818325742,Orion Manufacturing - Professional,57119.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-04,2025-02-13,False,False,,594,0
+323820332741,Yellowstone Analytics - Business Suite,47558.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-13,2025-02-15,False,False,,592,1
+323828294336,Centaur Group - Pro Tier,22600.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-13,2025-02-15,False,False,,592,0
+323820332740,Bridgepoint Solutions - Enterprise Plus,145619.0,appointmentscheduled,Appointment Scheduled,0.2,2025-03-28,2025-02-16,False,False,,591,0
+323818325749,Wildfire Corp - Premium,76495.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-16,2025-02-18,False,False,,589,1
+323828294349,Yellowstone Analytics - Pro Tier,25630.0,presentationscheduled,Presentation Scheduled,0.6,2025-04-01,2025-02-18,False,False,,589,2
+323828781816,Delphi Systems - Premium,75059.0,presentationscheduled,Presentation Scheduled,0.6,2025-03-22,2025-02-19,False,False,,588,2
+322586286831,NovaTech Partners - Enterprise,175000.0,contractsent,Contract Sent,0.9,2025-05-15,2025-02-20,False,False,,587,4
+323827804879,Redwood Ventures - Premium,75963.0,closedlost,Closed Lost,0.0,2025-05-09,2025-02-22,False,True,76,585,6
+323828482792,Pacific Ventures - Growth Plan,39042.0,presentationscheduled,Presentation Scheduled,0.6,2025-05-02,2025-02-23,False,False,,584,2
+323828781805,Xcelerate Inc - Starter Plan,8473.0,qualifiedtobuy,Qualified To Buy,0.4,2025-04-04,2025-02-23,False,False,,584,1
+323841579763,Xcelerate Inc - Annual License,20982.0,qualifiedtobuy,Qualified To Buy,0.4,2025-04-25,2025-02-23,False,False,,584,1
+323828216544,Frontier Tech - Annual License,22230.0,closedwon,Closed Won,1.0,2025-04-13,2025-02-24,True,False,48,583,5
+322666095315,Summit Retail Group - Starter,8500.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-01,2025-03-01,False,False,,578,3
+323828781817,Neptune Tech - Premium,73004.0,presentationscheduled,Presentation Scheduled,0.6,2025-05-13,2025-03-03,False,False,,576,2
+323821190848,Maximus Solutions - Enterprise,98308.0,appointmentscheduled,Appointment Scheduled,0.2,2025-04-29,2025-03-04,False,False,,575,0
+323830852311,Omega Partners - Enterprise,100322.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-28,2025-03-05,False,False,,574,3
+322566684384,Clearwater Consulting - Pro,31000.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-10,2025-03-10,False,False,,569,3
+323818325747,Prestige Group - Premium,73871.0,appointmentscheduled,Appointment Scheduled,0.2,2025-05-17,2025-03-10,False,False,,569,0
+323828216541,Cascade Digital - Premium,76969.0,contractsent,Contract Sent,0.9,2025-05-09,2025-03-10,False,False,,569,4
+323828022982,Apex Services - Professional,56395.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-06-22,2025-03-11,False,False,,568,3
+323827929842,Keywest Corp - Business Suite,51631.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-14,2025-03-12,False,False,,567,1
+323828482783,Summit Retail Group - Enterprise,98876.0,appointmentscheduled,Appointment Scheduled,0.2,2025-06-17,2025-03-14,False,False,,565,0
+322693622521,Apex Field Services - Enterprise,88000.0,presentationscheduled,Presentation Scheduled,0.6,2025-05-20,2025-03-15,False,False,,564,2
+323828294340,Gateway Industries - Annual License,25502.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-01,2025-03-16,False,False,,563,1
+323828216545,Neptune Tech - Enterprise,101010.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-22,2025-03-17,False,False,,562,1
+323841350365,Unity Software - Enterprise Plus,144741.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-18,2025-03-17,False,False,,562,1
+323827804876,Redwood Ventures - Pro Tier,22794.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-06-11,2025-03-18,False,False,,561,3
+323841579759,BlueSky Solutions - Premium,75452.0,appointmentscheduled,Appointment Scheduled,0.2,2025-05-01,2025-03-19,False,False,,560,0
+322725763784,Ironclad Operations - Annual,19000.0,presentationscheduled,Presentation Scheduled,0.6,2025-05-25,2025-03-20,False,False,,559,2
+323830852315,Juniper Networks - Annual License,26571.0,appointmentscheduled,Appointment Scheduled,0.2,2025-05-21,2025-03-21,False,False,,558,0
+323827804873,Maximus Solutions - Growth Plan,40488.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-16,2025-03-24,False,False,,555,1
+323828782778,BlueSky Solutions - Pro Tier,22616.0,presentationscheduled,Presentation Scheduled,0.6,2025-05-14,2025-03-26,False,False,,553,2
+323841498873,Unity Software - Premium,79187.0,qualifiedtobuy,Qualified To Buy,0.4,2025-05-20,2025-03-26,False,False,,553,1
+323820332742,Threshold Corp - Enterprise Plus,146296.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-06-03,2025-03-28,False,False,,551,3
+323828022984,Vanguard Corp - Growth Plan,40587.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-07-02,2025-03-28,False,False,,551,3
+323828781811,Bridgepoint Solutions - Growth Plan,40450.0,decisionmakerboughtin,Decision Maker Bought-In,0.8,2025-05-11,2025-03-29,False,False,,550,3
+322784354033,Vantage Construction - Pro,52000.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-01,2025-04-01,False,False,,547,1
+322566684385,Sterling Facilities - Starter,7200.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-05,2025-04-05,False,False,,543,1
+322610581202,Keystone Industries - Enterprise,142000.0,qualifiedtobuy,Qualified To Buy,0.4,2025-06-15,2025-04-10,False,False,,538,1
+322546956010,Bridgeway HVAC - Annual,28000.0,appointmentscheduled,Appointment Scheduled,0.2,2025-06-20,2025-04-15,False,False,,533,0
+322725763783,Frontier Plumbing - Pro,17500.0,appointmentscheduled,Appointment Scheduled,0.2,2025-06-25,2025-04-18,False,False,,530,0
+322541700815,Atlas Electrical - Starter,6000.0,appointmentscheduled,Appointment Scheduled,0.2,2025-06-30,2025-04-20,False,False,,528,0
+322610581201,Crestview Property Mgmt - Enterprise,115000.0,appointmentscheduled,Appointment Scheduled,0.2,2025-07-10,2025-04-22,False,False,,526,0
+322610581199,Harborlight Services - Pro,39000.0,appointmentscheduled,Appointment Scheduled,0.2,2025-07-15,2025-04-24,False,False,,524,0
+322784259828,HubSpot - New Deal (Sample Deal),1000.0,appointmentscheduled,Appointment Scheduled,0.2,2024-01-03,2026-04-27,False,False,,156,0

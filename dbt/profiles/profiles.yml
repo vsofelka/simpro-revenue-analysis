@@ -1,0 +1,11 @@
+# dbt profile for building the dashboard snapshot on DuckDB (a local file database).
+# Used only by pipeline/build_snapshot.py via --profiles-dir. No credentials here:
+# the regular Snowflake profile still lives in ~/.dbt/profiles.yml.
+simpro_revops:
+  target: snapshot
+  outputs:
+    snapshot:
+      type: duckdb
+      path: "{{ env_var('SNAPSHOT_DB_PATH') }}"
+      schema: analytics
+      threads: 1

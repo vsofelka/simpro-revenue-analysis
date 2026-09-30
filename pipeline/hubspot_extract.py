@@ -7,29 +7,26 @@ import snowflake.connector
 
 load_dotenv()
 
-HUBSPOT_ACCESS_TOKEN = os.environ['HUBSPOT_ACCESS_TOKEN']
-SNOWFLAKE_ACCOUNT    = os.environ['SNOWFLAKE_ACCOUNT']
-SNOWFLAKE_USER       = os.environ['SNOWFLAKE_USER']
-SNOWFLAKE_PASSWORD   = os.environ['SNOWFLAKE_PASSWORD']
-SNOWFLAKE_WAREHOUSE  = os.environ['SNOWFLAKE_WAREHOUSE']
-SNOWFLAKE_DATABASE   = os.environ['SNOWFLAKE_DATABASE']
-SNOWFLAKE_ROLE       = os.environ.get('SNOWFLAKE_ROLE', 'ACCOUNTADMIN')
+# Environment variables are read inside the functions that need them (not at
+# import time), so build_snapshot.py can reuse the extract helpers without a
+# Snowflake account.
 
 
 def get_snowflake_conn():
     return snowflake.connector.connect(
-        account=SNOWFLAKE_ACCOUNT,
-        user=SNOWFLAKE_USER,
-        password=SNOWFLAKE_PASSWORD,
-        warehouse=SNOWFLAKE_WAREHOUSE,
-        role=SNOWFLAKE_ROLE,
+        account=os.environ['SNOWFLAKE_ACCOUNT'],
+        user=os.environ['SNOWFLAKE_USER'],
+        password=os.environ['SNOWFLAKE_PASSWORD'],
+        warehouse=os.environ['SNOWFLAKE_WAREHOUSE'],
+        role=os.environ.get('SNOWFLAKE_ROLE', 'ACCOUNTADMIN'),
     )
 
 
 def setup_raw_schema(conn):
+    database = os.environ['SNOWFLAKE_DATABASE']
     cur = conn.cursor()
-    cur.execute(f"CREATE DATABASE IF NOT EXISTS {SNOWFLAKE_DATABASE}")
-    cur.execute(f"USE DATABASE {SNOWFLAKE_DATABASE}")
+    cur.execute(f"CREATE DATABASE IF NOT EXISTS {database}")
+    cur.execute(f"USE DATABASE {database}")
     cur.execute("CREATE SCHEMA IF NOT EXISTS RAW")
     cur.execute("""
         CREATE TABLE IF NOT EXISTS RAW.HUBSPOT_DEALS (
@@ -140,10 +137,12 @@ def _parse_ts(s):
         return None
 
 
-def load_deals(conn, deals):
-    cur = conn.cursor()
-    cur.execute("TRUNCATE TABLE RAW.HUBSPOT_DEALS")
-    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+def _now():
+    return datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+
+
+def deal_rows(deals, now):
+    # One tuple per deal, in RAW.HUBSPOT_DEALS column order
     rows = []
     for d in deals:
         p = d.properties
@@ -163,6 +162,19 @@ def load_deals(conn, deals):
             contact_id,
             now,
         ))
+    return rows
+
+
+def stage_rows(stages, now):
+    # One tuple per stage, in RAW.HUBSPOT_STAGES column order
+    return [(s['stage_id'], s['stage_name'], s['pipeline_id'],
+             s['display_order'], s['win_probability'], now) for s in stages]
+
+
+def load_deals(conn, deals):
+    cur = conn.cursor()
+    cur.execute("TRUNCATE TABLE RAW.HUBSPOT_DEALS")
+    rows = deal_rows(deals, _now())
     cur.executemany(
         "INSERT INTO RAW.HUBSPOT_DEALS VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s)",
         rows,
@@ -199,9 +211,7 @@ def load_contacts(conn, contacts):
 def load_stages(conn, stages):
     cur = conn.cursor()
     cur.execute("TRUNCATE TABLE RAW.HUBSPOT_STAGES")
-    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
-    rows = [(s['stage_id'], s['stage_name'], s['pipeline_id'],
-             s['display_order'], s['win_probability'], now) for s in stages]
+    rows = stage_rows(stages, _now())
     cur.executemany(
         "INSERT INTO RAW.HUBSPOT_STAGES VALUES (%s,%s,%s,%s,%s,%s)",
         rows,
@@ -211,7 +221,7 @@ def load_stages(conn, stages):
 
 
 def main():
-    client = HubSpot(access_token=HUBSPOT_ACCESS_TOKEN)
+    client = HubSpot(access_token=os.environ['HUBSPOT_ACCESS_TOKEN'])
     conn   = get_snowflake_conn()
 
     setup_raw_schema(conn)
