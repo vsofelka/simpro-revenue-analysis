@@ -23,23 +23,21 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
-**AI Field Service Economics: What to Measure Before You Automate** \\
+Business Tips\\
 \\
-September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)
+**AI in Field Service Management: How to Run Smarter, Faster, More Proactive Operations** \\
+\\
+October 1, 2026](https://www.simprogroup.com/blog/ai-for-field-service)
 
 [Blog\\
 \\
-Business Tips\\
+**Best Field Service Management Software: 2026 Buyer's Guide to 12 Tools** \\
 \\
-**How AI Is Transforming Field Service Automation for Trade Contractors** \\
+September 30, 2026](https://www.simprogroup.com/blog/best-field-service-management-software)[Blog\\
 \\
-September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)[Blog\\
+**Bridging the Trades Labour Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
 \\
-Business Tips\\
-\\
-**Maintenance Planning and Scheduling Explained** \\
-\\
-August 31, 2026](https://www.simprogroup.com/blog/maintenance-planning-explained)
+September 30, 2026](https://www.simprogroup.com/blog/women-in-construction-week)
 
 ## Browse All Resources
 
@@ -57,6 +55,44 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
+Business Tips\\
+\\
+**AI in Field Service Management: How to Run Smarter, Faster, More Proactive Operations** \\
+\\
+October 1, 2026](https://www.simprogroup.com/blog/ai-for-field-service)[Blog\\
+\\
+**Best Field Service Management Software: 2026 Buyer's Guide to 12 Tools** \\
+\\
+September 30, 2026](https://www.simprogroup.com/blog/best-field-service-management-software)[Blog\\
+\\
+**Bridging the Trades Labour Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
+\\
+September 30, 2026](https://www.simprogroup.com/blog/women-in-construction-week)[Blog\\
+\\
+Trends\\
+\\
+**18 Highest-Paying Trades in California to Consider in 2026** \\
+\\
+September 30, 2026](https://www.simprogroup.com/blog/best-trade-jobs-california)[Blog\\
+\\
+Trends\\
+\\
+**Groundhog Day: The Trades Edition (Or, How to Finally Break the Loop)** \\
+\\
+September 29, 2026](https://www.simprogroup.com/blog/groundhog-day-trades-edition)[Blog\\
+\\
+Managing People\\
+\\
+**Operational Accountability in Field Service: How to Catch Problems before Results Slip** \\
+\\
+September 17, 2026](https://www.simprogroup.com/blog/operational-accountability-field-service)[Blog\\
+\\
+Business Tips\\
+\\
+**Field Service Software Comparison: Why Busy Work Is the Wrong Measure of Growth** \\
+\\
+September 17, 2026](https://www.simprogroup.com/blog/field-service-software-comparison-busy-work)[Blog\\
+\\
 **AI Field Service Economics: What to Measure Before You Automate** \\
 \\
 September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)[Blog\\
@@ -65,47 +101,7 @@ Business Tips\\
 \\
 **How AI Is Transforming Field Service Automation for Trade Contractors** \\
 \\
-September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)[Blog\\
-\\
-Business Tips\\
-\\
-**Maintenance Planning and Scheduling Explained** \\
-\\
-August 31, 2026](https://www.simprogroup.com/blog/maintenance-planning-explained)[Blog\\
-\\
-**10 AI Features in Field Service Management Software** \\
-\\
-August 10, 2026](https://www.simprogroup.com/blog/ai-features-field-service-software)[Blog\\
-\\
-Business Tips\\
-\\
-**Top 12 Trades for Women in 2026: Pay, Demand & How to Start** \\
-\\
-August 5, 2026](https://www.simprogroup.com/blog/women-in-skilled-trades-the-ultimate-guide)[Blog\\
-\\
-Business Tips\\
-\\
-**AI Use Cases in Field Service to Improve Margins** \\
-\\
-July 31, 2026](https://www.simprogroup.com/blog/top-use-cases-for-ai-in-field-service)[Blog\\
-\\
-Business Tips\\
-\\
-**AI in Field Service Management: Practical Guide** \\
-\\
-July 29, 2026](https://www.simprogroup.com/blog/ai-for-field-service)[Blog\\
-\\
-Business Tips\\
-\\
-**Guide to Agentic AI for Field Service** \\
-\\
-July 27, 2026](https://www.simprogroup.com/blog/agentic-ai-for-field-service)[Blog\\
-\\
-Business Tips\\
-\\
-**Free Job Sheet Templates for Field Service Jobs** \\
-\\
-July 22, 2026](https://www.simprogroup.com/blog/job-worksheet-template)
+September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)
 
 There are no results to display.
 
