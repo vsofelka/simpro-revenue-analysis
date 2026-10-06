@@ -1,6 +1,6 @@
 # Simpro RevOps Pipeline Analytics
 
-This project builds an end-to-end analytics engineering pipeline targeting the Revenue Operations Analyst role at Simpro Group, a SaaS field service management company serving 22,000+ businesses worldwide. It extracts CRM deal and contact data from HubSpot via API and scrapes competitive intelligence from Simpro's website and review platforms using Firecrawl, then transforms both sources through a dbt star schema in Snowflake and surfaces pipeline health, deal velocity, and conversion insights in a deployed Streamlit dashboard. The result is a self-service analytics layer that answers the four core questions a RevOps analyst at Simpro would face daily: where deals stall, which lead sources convert best, how velocity trends over time, and what drives close probability.
+This project builds an end-to-end analytics engineering pipeline targeting the Revenue Operations Analyst role at Simpro Group, a SaaS field service management company serving 22,000+ businesses worldwide. It extracts CRM deal and contact data from HubSpot via API and scrapes competitive intelligence from Simpro's website and review platforms using Firecrawl, then transforms both sources through a dbt star schema in Snowflake and surfaces pipeline health, deal velocity, and conversion insights in a deployed Streamlit dashboard. The result is a self-service analytics layer that answers three core questions a RevOps analyst at Simpro would face daily: where deals stall, what share of closed deals convert into wins, and how long won and lost deals take to close.
 
 ## Job Posting
 
@@ -111,11 +111,13 @@ erDiagram
 
 ## Key Insights
 
-**Descriptive (what happened?):** Pipeline is concentrated in early stages — the majority of open deals sit in Appointment Scheduled and Proposal stages, while Closed Won represents a small fraction of total deal volume, indicating significant drop-off through the funnel.
+**Descriptive (what happened?):** Of 226 deals, 115 are still open, and most of those sit in the first two stages: 36 in Appointment Scheduled and 28 in Qualified To Buy. Only 12 have reached Contract Sent. 111 deals have closed: 72 won and 39 lost, so 65% of closed deals convert into wins. Won deals were also larger on average than lost deals ($66,405 vs $55,704).
 
-**Diagnostic (why did it happen?):** Deal velocity analysis shows the Proposal stage has the longest average cycle time, suggesting a follow-up breakdown after proposals are sent. Deals that close tend to do so within 30 days; deals that linger past 60 days rarely convert.
+**Diagnostic (why did it happen?):** Deals that close faster win more often. Deals closed within 30 days won 74% of the time and deals closed in 31 to 60 days won 70%, but deals that ran past 60 days won only 55%.
 
-**Recommendation:** Implement a structured 5-day follow-up sequence for all deals in Proposal stage → Expected to reduce average cycle time and improve conversion rate for deals in the 30–60 day range.
+**Recommendation:** Flag any open deal that passes 45 days for a manager review, so the team can push it forward or close it out before it reaches the 60 day point where win rates drop.
+
+*Note: these numbers come from HubSpot sample data built for a course project, so the patterns show how the analysis works, not Simpro's real results.*
 
 ## Live Dashboard
 
@@ -141,7 +143,7 @@ To refresh the live demo's data without Snowflake, run `python pipeline/build_sn
 
 ## Knowledge Base
 
-A Claude Code-curated wiki built from 20 scraped sources. Wiki pages live in `knowledge/wiki/`, raw sources in `knowledge/raw/`. Browse [`knowledge/wiki/index.md`](knowledge/wiki/index.md) to see all pages.
+A Claude Code-curated wiki built from 22 scraped sources. Wiki pages live in `knowledge/wiki/`, raw sources in `knowledge/raw/`. Browse [`knowledge/wiki/index.md`](knowledge/wiki/index.md) to see all pages.
 
 **Query it:** Open Claude Code in this repo and ask questions like:
 
@@ -153,7 +155,13 @@ Claude Code reads the wiki pages first and falls back to raw sources when needed
 
 ## Setup & Reproduction
 
-**Prerequisites:** Python 3.11+, Snowflake account, HubSpot free CRM account with Private App access token, Firecrawl API key.
+**Just the dashboard (no accounts needed):** the app falls back to the saved snapshot in
+`streamlit/data/` when Snowflake isn't configured.
+
+    pip install -r requirements.txt
+    streamlit run streamlit/app.py
+
+**Full pipeline prerequisites:** Python 3.11+, Snowflake account, HubSpot free CRM account with Private App access token, Firecrawl API key.
 
 Copy `.env.example` to `.env` and fill in your credentials:
 
@@ -174,17 +182,25 @@ Copy `.env.example` to `.env` and fill in your credentials:
     streamlit run streamlit/app.py
     python pipeline/firecrawl_scrape.py
 
+**Refresh the snapshot** (HubSpot token only, no Snowflake): `python pipeline/build_snapshot.py`
+
+**Run the tests:** `python -m pytest`
+
 ## Repository Structure
 
     .
+    ├── .devcontainer/        # Dev container config
     ├── .github/workflows/    # GitHub Actions pipelines (HubSpot daily, Firecrawl weekly)
-    ├── pipeline/             # Extraction scripts (hubspot_extract.py, firecrawl_scrape.py)
+    ├── pipeline/             # hubspot_extract.py, firecrawl_scrape.py, build_snapshot.py
     ├── dbt/                  # dbt project (staging + mart models, tests, macros)
+    │   └── profiles/         # DuckDB profile used to build the snapshot (no credentials)
     ├── streamlit/            # Streamlit dashboard (app.py)
+    │   └── data/             # Saved snapshot the live demo runs on
+    ├── tests/                # pytest: dashboard, data source, extract, snapshot
     ├── knowledge/            # Knowledge base
-    │   ├── raw/              # 20 scraped source documents
+    │   ├── raw/              # 22 scraped source documents
     │   └── wiki/             # Claude Code-generated wiki pages
-    ├── docs/                 # Proposal, job posting, slides
+    ├── docs/                 # Proposal, job posting, slides, dashboard images
     ├── .env.example          # Required environment variables
     ├── .gitignore
     ├── CLAUDE.md             # Project context for Claude Code

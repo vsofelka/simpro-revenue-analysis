@@ -79,9 +79,13 @@ if data_source_used == "snapshot":
 # ── KPI row ─────────────────────────────────────────────────────────────────────
 k1, k2, k3, k4 = st.columns(4)
 k1.metric("Total Deals", f"{len(fdf):,}")
-k2.metric("Pipeline Value", f"${fdf['amount'].sum():,.0f}")
+# Open pipeline = deals not yet won or lost (standard RevOps definition)
+open_deals = fdf[~(fdf["is_won"] | fdf["is_lost"])]
+k2.metric("Open Pipeline", f"${open_deals['amount'].sum():,.0f}")
 k3.metric("Avg Deal Size", f"${fdf['amount'].mean():,.0f}")
-win_rate = fdf["is_won"].mean() * 100 if len(fdf) > 0 else 0
+# Win rate = won / closed (won + lost); open deals haven't been decided yet
+closed_count = int((fdf["is_won"] | fdf["is_lost"]).sum())
+win_rate = fdf["is_won"].sum() / closed_count * 100 if closed_count > 0 else 0
 k4.metric("Win Rate", f"{win_rate:.1f}%")
 
 st.divider()
@@ -135,7 +139,8 @@ st.divider()
 c3, c4 = st.columns(2)
 
 with c3:
-    st.subheader("Deal Velocity by Stage")
+    # Only closed deals have days_to_close, so this compares won vs lost
+    st.subheader("Days to Close: Won vs Lost")
     closed = fdf[fdf["days_to_close"].notna() & (fdf["days_to_close"] > 0)]
     if len(closed) > 0:
         velocity = (
