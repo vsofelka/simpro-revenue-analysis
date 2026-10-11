@@ -106,6 +106,8 @@ Chief Technology Officer
 
 Learn more
 
+[![LinkedIn Logo](https://www.simprogroup.com/user/themes/simpro/images/icons/linkedin-logo-stone.svg)](https://www.linkedin.com/in/salmanbhatti/)
+
 ##### Frank DeBenedetto
 
 Chief Customer Officer

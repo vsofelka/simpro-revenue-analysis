@@ -163,13 +163,13 @@ Simpro Lightning Demo
 
 The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.
 
-![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://i.vimeocdn.com/video/2010048887-8ffaea40226b7e5d88ce65b9f413004178a6696a99a275ff68da00429d08c89b-d_720?region=us)
+![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
 Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.
 
-![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://i.vimeocdn.com/video/2045540919-041ede88e002b6c3d066702ef973f7924ab8edd1c096dca1979271a78511d336-d_720?region=us)
+![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
 
 Play Simpro Video
 
@@ -374,7 +374,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-335a78161867a6ff7758)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-e3c4246136bd8d8b223f)
 
 [![Larissa F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -777,6 +777,18 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 [Ask about Simpro](https://www.g2.com/products/simpro/discussions/new)
 
+GU
+
+Guest User
+
+What is simPRO used for?
+
+0 Upvotes
+
+0
+
+[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
+
 CD
 
 Chris Dayton
@@ -792,18 +804,6 @@ Your drop down list of industries served does not cover \| Maintenance / Fire et
 1
 
 [Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
-
-GU
-
-Guest User
-
-What is simPRO used for?
-
-0 Upvotes
-
-0
-
-[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -831,7 +831,7 @@ Simpro Comparisons
 
 ServiceTitan
 
-4.4/5(376)
+4.4/5(377)
 
 [Compare Now](https://www.g2.com/compare/servicetitan-vs-simpro)
 
@@ -895,7 +895,7 @@ Jobber\\
 \\
 ServiceTitan\\
 \\
-4.4/5(376)](https://www.g2.com/products/servicetitan/reviews)
+4.4/5(377)](https://www.g2.com/products/servicetitan/reviews)
 
 [![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
 \\
@@ -915,9 +915,9 @@ Show MoreShow Less
 
 ##### Explore More
 
-[Which pricing platforms do Heads of Sales trust for reliable implementation based on user reviews?](https://www.g2.com/discussions/which-pricing-platforms-do-heads-of-sales-trust-for-reliable-implementation-based-on-user-reviews) [Best CRM with sales enablement features](https://www.g2.com/discussions/best-crm-with-sales-enablement-features-what-s-worth-using-together) [What are the top-rated print fulfillment services for quality delivery to enterprise teams with demanding security and service requirements?](https://www.g2.com/discussions/what-are-the-top-rated-print-fulfillment-services-for-quality-delivery-to-enterprise-teams-with-demanding-security-and-service-requirements)
+[What's the highest-rated Citizen Request Software for cities deploying modern intake systems that improve citizen satisfaction scores?](https://www.g2.com/discussions/what-s-the-highest-rated-citizen-request-software-for-cities-deploying-modern-intake-systems-that-improve-citizen-satisfaction-scores) [Which is the most trusted energy management software by facilities managers reducing consumption based on user reviews?](https://www.g2.com/discussions/which-is-the-most-trusted-energy-management-software-by-facilities-managers-reducing-consumption-based-on-user-reviews) [Which brand protection software has the fastest time to value for mid-sized organizations while still meeting compliance and security requirements?](https://www.g2.com/discussions/which-brand-protection-software-has-the-fastest-time-to-value-for-mid-sized-organizations-while-still-meeting-compliance-and-security-requirements)
 
-[What's the highest-rated audio translation software for corporate event planners running real-time multilingual conferences without live interpreters?](https://www.g2.com/discussions/what-s-the-highest-rated-audio-translation-software-for-corporate-event-planners-running-real-time-multilingual-conferences-without-live-interpreters) [Which video messaging tools have AI avatars that look realistic enough to send to clients?](https://www.g2.com/discussions/which-video-email-tools-have-ai-avatars-that-look-realistic-enough-to-send-to-clients) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[What are the most reliable digital communications governance platforms based on reviews from financial services compliance officers?](https://www.g2.com/discussions/what-are-the-most-reliable-digital-communications-governance-platforms-based-on-reviews-from-financial-services-compliance-officers) [What is the best account-based advertising platform for enterprise ABM programs?](https://www.g2.com/discussions/what-is-the-best-account-based-advertising-platform-for-enterprise-abm-programs) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 

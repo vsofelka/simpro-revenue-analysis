@@ -175,7 +175,7 @@ Play Simpro Video
 
 Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online
 
-![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://i.ytimg.com/vi/z42z34KzizE/maxresdefault.jpg)
 
 Play Simpro Video
 
@@ -215,23 +215,23 @@ Play Simpro Video
 
 [Editedit](https://my.g2.com/simpro/downloads)
 
-![10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![10 PREDICTIONS FOR THE NEXT DECADE](https://images.g2crowd.com/uploads/attachment/file/1781980/preview_Decade-of-the-trades%282%29.png)
 
 [10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1781974/preview_Social-Post-1-_-Operational-Discipline%282%29.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
-![Trades Outlook Report](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![Trades Outlook Report](https://images.g2crowd.com/uploads/attachment/file/1724033/preview_Simpro-Trades-Outlook-Report-2025-F%282%29.png)
 
 [Trades Outlook Report](https://www.g2.com/products/simpro/reviews#)
 
-![Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![Evaluation Criteria for Selecting a Field Service Management Platform](https://images.g2crowd.com/uploads/attachment/file/1724031/preview_RESOURCE-2-Selecting-a-Field-Service-Platform%282%29.png)
 
 [Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1724032/preview_Simpro-hero-asset---V4.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
@@ -374,9 +374,9 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-a960aaa5489b15819baa)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-11501d3b7acc0855dc85)
 
-[![Larissa F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Larissa F.](https://lh3.googleusercontent.com/a/ACg8ocJrDxzV9qlR_JmW4jKROp42IPGcxsHhB6eMj-mOBeoMkNKX3oWBaw=s96-c)\\
 \\
 LF](https://www.g2.com/users/badb71d3-373c-43ef-9747-ea2b07013b41)
 
@@ -413,7 +413,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Lorraine K.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Lorraine K.](https://media.licdn.com/dms/image/v2/D4E03AQFpalyKBl8uPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711540723406?e=1789603200&v=beta&t=pqnPs35tuHmwLwgDQsl72nmFpb4Skxh4m6dg_N7CFiU)\\
 \\
 LK](https://www.g2.com/users/71cfdd39-8392-4e5c-80f2-cfc46b28b77e)
 
@@ -491,7 +491,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Stephen P.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Stephen P.](https://media.licdn.com/dms/image/v2/D4E03AQH_n1R9DdLQ9g/profile-displayphoto-scale_400_400/B4EZwkOnhAKcAg-/0/1770134339408?e=1787788800&v=beta&t=ZbHDlFtwWMMyzT0Iojvb9y33TBuMO-TjJMYZGjk8QsM)\\
 \\
 SP](https://www.g2.com/users/c9e88603-d546-46a3-bcb2-3fb60e98a878)
 
@@ -528,7 +528,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Edward B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Edward B.](https://lh3.googleusercontent.com/a/ACg8ocKeX7ewhyEihGxndPGIPOCRrIY7ZGdkylWN7vdp1Rjod9xnqQ=s96-c)\\
 \\
 EB](https://www.g2.com/users/fc995a96-97cb-4dc3-a158-70ea5436216c)
 
@@ -567,7 +567,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Kieran A.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Kieran A.](https://lh3.googleusercontent.com/a/ACg8ocLdrBqb6jzIPdABNIxhAHrXfAWkkLrN_RNZdfNNwu6Ro28Zccjj=s96-c)\\
 \\
 KA](https://www.g2.com/users/d4b6a867-0d01-4891-9098-f93e5e7353a8)
 
@@ -606,7 +606,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Mike B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Mike B.](https://lh3.googleusercontent.com/a/ACg8ocIcXkL5J_klNcHbwIQiGmIzPo1HVlhYkVR7yYjHUrJsw3ms_Q=s96-c)\\
 \\
 MB](https://www.g2.com/users/d11a891c-168a-44bb-9740-0689a7f3fa87)
 
@@ -647,7 +647,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Facility Door Solutions .](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Facility Door Solutions .](https://lh3.googleusercontent.com/a/ACg8ocI_YWe98KH2Om8dboMrc4I6ScLfQNVZUzt4y5pzwbyJvpbN63HX=s96-c)\\
 \\
 F](https://www.g2.com/users/1918f7f2-9216-4d0c-8a56-a2d7d46a812a)
 
@@ -684,7 +684,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Ben M.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Ben M.](https://lh3.googleusercontent.com/a/ACg8ocIcsTDQSCpDi9eWh1Jz2xCb3Ut1RaE6uozBWg_tJNi5vMJPxA=s96-c)\\
 \\
 BM](https://www.g2.com/users/54114346-01e3-42b6-9575-983d093df43b)
 
@@ -721,7 +721,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![J .](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![J .](https://lh3.googleusercontent.com/a/ACg8ocJ6hn0amolIjLGWvr6mwmyu5uDY_sb06FPHJSc_1nHoziWxPw=s96-c)\\
 \\
 J](https://www.g2.com/users/783b1617-8cb1-4b24-b4d7-4324fcd44ac5)
 
@@ -777,6 +777,18 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 [Ask about Simpro](https://www.g2.com/products/simpro/discussions/new)
 
+GU
+
+Guest User
+
+What is simPRO used for?
+
+0 Upvotes
+
+0
+
+[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
+
 CD
 
 Chris Dayton
@@ -792,18 +804,6 @@ Your drop down list of industries served does not cover \| Maintenance / Fire et
 1
 
 [Join the conversation](https://www.g2.com/discussions/your-drop-down-list-of-industries-served-does-not-cover-maintenance-fire-etc)
-
-GU
-
-Guest User
-
-What is simPRO used for?
-
-0 Upvotes
-
-0
-
-[Join the conversation](https://www.g2.com/discussions/what-is-simpro-used-for)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -831,7 +831,7 @@ Simpro Comparisons
 
 ServiceTitan
 
-4.4/5(376)
+4.4/5(377)
 
 [Compare Now](https://www.g2.com/compare/servicetitan-vs-simpro)
 
@@ -885,19 +885,19 @@ Roles and Permissions
 
 ## Top-Rated Alternatives
 
-[![Jobber](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)\\
 \\
 Jobber\\
 \\
 4.6/5(530)](https://www.g2.com/products/jobber/reviews)
 
-[![ServiceTitan](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)\\
 \\
 ServiceTitan\\
 \\
-4.4/5(376)](https://www.g2.com/products/servicetitan/reviews)
+4.4/5(377)](https://www.g2.com/products/servicetitan/reviews)
 
-[![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![FieldPulse](https://images.g2crowd.com/uploads/product/hd_favicon/2042d283ea3abd7febbaba3f4dbb300e/fieldpulse-fieldpulse.svg)\\
 \\
 FieldPulse\\
 \\
@@ -915,9 +915,9 @@ Show MoreShow Less
 
 ##### Explore More
 
-[Which pricing platforms do Heads of Sales trust for reliable implementation based on user reviews?](https://www.g2.com/discussions/which-pricing-platforms-do-heads-of-sales-trust-for-reliable-implementation-based-on-user-reviews) [Best CRM with sales enablement features](https://www.g2.com/discussions/best-crm-with-sales-enablement-features-what-s-worth-using-together) [What are the top-rated print fulfillment services for quality delivery to enterprise teams with demanding security and service requirements?](https://www.g2.com/discussions/what-are-the-top-rated-print-fulfillment-services-for-quality-delivery-to-enterprise-teams-with-demanding-security-and-service-requirements)
+[What's the highest-rated Citizen Request Software for cities deploying modern intake systems that improve citizen satisfaction scores?](https://www.g2.com/discussions/what-s-the-highest-rated-citizen-request-software-for-cities-deploying-modern-intake-systems-that-improve-citizen-satisfaction-scores) [Which is the most trusted energy management software by facilities managers reducing consumption based on user reviews?](https://www.g2.com/discussions/which-is-the-most-trusted-energy-management-software-by-facilities-managers-reducing-consumption-based-on-user-reviews) [Which brand protection software has the fastest time to value for mid-sized organizations while still meeting compliance and security requirements?](https://www.g2.com/discussions/which-brand-protection-software-has-the-fastest-time-to-value-for-mid-sized-organizations-while-still-meeting-compliance-and-security-requirements)
 
-[What's the highest-rated audio translation software for corporate event planners running real-time multilingual conferences without live interpreters?](https://www.g2.com/discussions/what-s-the-highest-rated-audio-translation-software-for-corporate-event-planners-running-real-time-multilingual-conferences-without-live-interpreters) [Which video messaging tools have AI avatars that look realistic enough to send to clients?](https://www.g2.com/discussions/which-video-email-tools-have-ai-avatars-that-look-realistic-enough-to-send-to-clients) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[What are the most reliable digital communications governance platforms based on reviews from financial services compliance officers?](https://www.g2.com/discussions/what-are-the-most-reliable-digital-communications-governance-platforms-based-on-reviews-from-financial-services-compliance-officers) [What is the best account-based advertising platform for enterprise ABM programs?](https://www.g2.com/discussions/what-is-the-best-account-based-advertising-platform-for-enterprise-abm-programs) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 

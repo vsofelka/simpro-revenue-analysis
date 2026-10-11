@@ -23,21 +23,23 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
+Cash Flow\\
+\\
+**Field Service Payments: Managing Cash Flow from Job Completion to Paid Invoice** \\
+\\
+October 5, 2026](https://www.simprogroup.com/blog/managing-your-cash-flow-with-remote-payments)
+
+[Blog\\
+\\
+**10 AI Features to Look for in Field Service Management Software** \\
+\\
+October 5, 2026](https://www.simprogroup.com/blog/ai-features-field-service-software)[Blog\\
+\\
 Business Tips\\
 \\
 **AI in Field Service Management: How to Run Smarter, Faster, More Proactive Operations** \\
 \\
 October 1, 2026](https://www.simprogroup.com/blog/ai-for-field-service)
-
-[Blog\\
-\\
-**Best Field Service Management Software: 2026 Buyer's Guide to 12 Tools** \\
-\\
-September 30, 2026](https://www.simprogroup.com/blog/best-field-service-management-software)[Blog\\
-\\
-**Bridging the Trades Labour Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
-\\
-September 30, 2026](https://www.simprogroup.com/blog/women-in-construction-week)
 
 ## Browse All Resources
 
@@ -55,15 +57,21 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
+Cash Flow\\
+\\
+**Field Service Payments: Managing Cash Flow from Job Completion to Paid Invoice** \\
+\\
+October 5, 2026](https://www.simprogroup.com/blog/managing-your-cash-flow-with-remote-payments)[Blog\\
+\\
+**10 AI Features to Look for in Field Service Management Software** \\
+\\
+October 5, 2026](https://www.simprogroup.com/blog/ai-features-field-service-software)[Blog\\
+\\
 Business Tips\\
 \\
 **AI in Field Service Management: How to Run Smarter, Faster, More Proactive Operations** \\
 \\
 October 1, 2026](https://www.simprogroup.com/blog/ai-for-field-service)[Blog\\
-\\
-**Best Field Service Management Software: 2026 Buyer's Guide to 12 Tools** \\
-\\
-September 30, 2026](https://www.simprogroup.com/blog/best-field-service-management-software)[Blog\\
 \\
 **Bridging the Trades Labour Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
 \\
@@ -95,13 +103,7 @@ September 17, 2026](https://www.simprogroup.com/blog/field-service-software-comp
 \\
 **AI Field Service Economics: What to Measure Before You Automate** \\
 \\
-September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)[Blog\\
-\\
-Business Tips\\
-\\
-**How AI Is Transforming Field Service Automation for Trade Contractors** \\
-\\
-September 3, 2026](https://www.simprogroup.com/blog/ai-field-service-automation-trade-contractors)
+September 10, 2026](https://www.simprogroup.com/blog/ai-field-service-economics)
 
 There are no results to display.
 
