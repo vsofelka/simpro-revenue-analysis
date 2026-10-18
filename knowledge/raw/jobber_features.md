@@ -2,9 +2,6 @@
 
 [\\_\\_\\_](https://www.getjobber.com/features/#)
 
-[🔥 Get the first look at what's new in Jobber!\\
-Register for Jobber Now.](https://www.getjobber.com/events/jobber-now-2026/)
-
 [Español](https://www.getjobber.com/es/) [Log In](https://secure.getjobber.com/login)
 
 [Skip to content](https://www.getjobber.com/features/#main) [Visit the Jobber home page](https://www.getjobber.com/)
@@ -33,7 +30,7 @@ Tap to unmute
 
 ![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
 
-Jobber49K subscribers
+Jobber49.5K subscribers
 
 [Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
 
@@ -791,7 +788,7 @@ Marketing Suite
 
 #### Grow Faster, work less
 
-$79
+$99
 
 /mo
 
@@ -806,7 +803,7 @@ Jobber AI
 
 #### Receptionist
 
-$99
+$29
 
 /mo
 

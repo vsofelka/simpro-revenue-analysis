@@ -8,7 +8,7 @@ In 2002, an electrical business owner teamed up with a software engineering stud
 
 So we built our own. Software that actually works in the field – and the office. Tools that solve real problems. Systems that don’t waste your time or cut into your margins.
 
-Fast forward: Today Simpro is the leading global AI-first operating system for residential and commercial trades.
+Fast forward: Today Simpro is the leading global AI-first operating system for residential and commercial trades. The city of Miami, FL, USA welcomed our new international headquarters in 2025.
 
 ![composition showing Simpro running on a mobile device and a tablet device, with Global Leader - Field Service Software badge](https://www.simprogroup.com/user/pages/company/about-us/03._industry-leader/simpro-comp-with-global-leader-badge-2x-min.png)
 

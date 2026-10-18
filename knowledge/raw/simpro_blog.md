@@ -73,7 +73,7 @@ Business Tips\\
 \\
 October 1, 2026](https://www.simprogroup.com/blog/ai-for-field-service)[Blog\\
 \\
-**Bridging the Trades Labour Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
+**Bridging the Trades Labor Gap: A Contractor's Guide to Attracting and Retaining Women in Construction** \\
 \\
 September 30, 2026](https://www.simprogroup.com/blog/women-in-construction-week)[Blog\\
 \\
