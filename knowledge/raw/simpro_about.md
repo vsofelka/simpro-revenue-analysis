@@ -179,3 +179,7 @@ We’re here for you,
 so let’s get to work
 
 [Get Demo ![Simpro arrow icon - white](https://www.simprogroup.com/user/themes/simpro/images/icons/arrow-white.svg)](https://www.simprogroup.com/demo)
+
+This website uses cookies. You can manage or block these using your browser settings. [Learn more](https://www.simprogroup.com/legal/cookies-policy)
+
+Close
