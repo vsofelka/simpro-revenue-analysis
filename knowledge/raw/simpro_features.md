@@ -139,7 +139,7 @@ Manage every aspect of inventory management in one place. Order stock, achieve i
 
 [Learn more](https://www.simprogroup.com/features/track-inventory)
 
-![Know what you have, what’s running low and which price is best feature image](https://www.simprogroup.com/user/pages/features/06._track-inventory/track-inventory.jpg)
+![Know what you have, what’s running low and which price is best feature image](https://www.simprogroup.com/user/pages/features/05._track-inventory/track-inventory.jpg)
 
 ![Inventory Management icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Inventory_ResBlue.svg)
 
@@ -207,7 +207,7 @@ Automate data, leverage integrations and add-ons, and simplify processes for inc
 
 [Learn more](https://www.simprogroup.com/features/save-time)
 
-![Simplify processes feature image](https://www.simprogroup.com/user/pages/features/08._save-time/save-time.jpg)
+![Simplify processes feature image](https://www.simprogroup.com/user/pages/features/07._save-time/save-time.jpg)
 
 ![Complete Real-Time Data Automation icon](https://www.simprogroup.com/user/themes/simpro/images/icons/2025/SP-Icon_Database_ResBlue.svg)
 

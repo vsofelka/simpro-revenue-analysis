@@ -23,31 +23,25 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
-Business Tips\\
-\\
 Customer Experience\\
 \\
-**Service Level Agreements for Maintenance Contracts** \\
+**Never Miss Another After-Hours Call: Meet Pulse, the AI Customer Service Agent Built Inside Simpro** \\
 \\
-October 23, 2026](https://www.simprogroup.com/blog/service-level-agreements-maintenance-contracts)
+October 28, 2026](https://www.simprogroup.com/blog/pulse-ai-customer-service-agent)
 
 [Blog\\
 \\
-Sales & Marketing\\
-\\
 Customer Experience\\
 \\
-**Maintenance Agreement Renewals for Service Contractors** \\
+**Job Completion Report: What to Tell Clients after the Job** \\
 \\
-October 22, 2026](https://www.simprogroup.com/blog/maintenance-agreement-renewals)[Blog\\
+October 27, 2026](https://www.simprogroup.com/blog/what-customers-actually-want-to-know-after-the-job-is-done)[Blog\\
 \\
-Business Tips\\
+Trends\\
 \\
-Sales & Marketing\\
+**The ServiceTitan Problem: When Your Software IPOs But Your Business Still Can't Close a Quote on Time** \\
 \\
-**Estimate Close Rate: Benchmarks & How to Improve It** \\
-\\
-October 15, 2026](https://www.simprogroup.com/blog/estimate-close-rate)
+October 26, 2026](https://www.simprogroup.com/blog/the-servicetitan-problem)
 
 ## Browse All Resources
 
@@ -64,6 +58,30 @@ Format
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
+\\
+Customer Experience\\
+\\
+**Never Miss Another After-Hours Call: Meet Pulse, the AI Customer Service Agent Built Inside Simpro** \\
+\\
+October 28, 2026](https://www.simprogroup.com/blog/pulse-ai-customer-service-agent)[Blog\\
+\\
+Customer Experience\\
+\\
+**Job Completion Report: What to Tell Clients after the Job** \\
+\\
+October 27, 2026](https://www.simprogroup.com/blog/what-customers-actually-want-to-know-after-the-job-is-done)[Blog\\
+\\
+Trends\\
+\\
+**The ServiceTitan Problem: When Your Software IPOs But Your Business Still Can't Close a Quote on Time** \\
+\\
+October 26, 2026](https://www.simprogroup.com/blog/the-servicetitan-problem)[Blog\\
+\\
+Customer Experience\\
+\\
+**Moneyball for the Trades: Why Your Next Million Isn't in Your Marketing Budget — It's in Your Database** \\
+\\
+October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)[Blog\\
 \\
 Business Tips\\
 \\
@@ -103,41 +121,13 @@ Sales & Marketing\\
 \\
 **How to Increase Average Ticket Size Without Upselling** \\
 \\
-October 13, 2026](https://www.simprogroup.com/blog/how-to-increase-average-ticket)[Blog\\
-\\
-**The Field Sees What the Office Can’t** \\
-\\
-October 13, 2026](https://www.simprogroup.com/blog/the-field-sees-what-the-office-cant)[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-**Technician Utilization Rate: Formula and Benchmarks** \\
-\\
-October 9, 2026](https://www.simprogroup.com/blog/technician-utilization-rate)[Blog\\
-\\
-Business Tips\\
-\\
-Cash Flow\\
-\\
-**Job Cost Variance: Estimate vs Actual Job Costs** \\
-\\
-October 8, 2026](https://www.simprogroup.com/blog/job-cost-variance-analysis)[Blog\\
-\\
-Business Tips\\
-\\
-Cash Flow\\
-\\
-**Time and Materials vs Fixed Price for Service Work** \\
-\\
-October 7, 2026](https://www.simprogroup.com/blog/time-and-materials-vs-fixed-price)
+October 13, 2026](https://www.simprogroup.com/blog/how-to-increase-average-ticket)
 
 There are no results to display.
 
 1
 
-[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:20) [34](https://www.simprogroup.com/blog/page:34)
+[2](https://www.simprogroup.com/blog/page:2) [3](https://www.simprogroup.com/blog/page:3) [4](https://www.simprogroup.com/blog/page:4) [5](https://www.simprogroup.com/blog/page:5) [6](https://www.simprogroup.com/blog/page:6) [...](https://www.simprogroup.com/blog/page:20) [35](https://www.simprogroup.com/blog/page:35)
 
 This website uses cookies. You can manage or block these using your browser settings. [Learn more](https://www.simprogroup.com/legal/cookies-policy)
 
