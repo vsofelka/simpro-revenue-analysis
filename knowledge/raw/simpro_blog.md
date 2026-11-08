@@ -23,25 +23,25 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
-Customer Experience\\
+Business Tips\\
 \\
-**Never Miss Another After-Hours Call: Meet Pulse, the AI Customer Service Agent Built Inside Simpro** \\
+**Project vs Service Jobs: Run Both in One System** \\
 \\
-October 28, 2026](https://www.simprogroup.com/blog/pulse-ai-customer-service-agent)
+November 6, 2026](https://www.simprogroup.com/blog/project-vs-service-jobs)
 
 [Blog\\
 \\
-Customer Experience\\
+Business Tips\\
 \\
-**Job Completion Report: What to Tell Clients after the Job** \\
+**Job Cost Codes for HVAC, Plumbing and Electrical Contractors** \\
 \\
-October 27, 2026](https://www.simprogroup.com/blog/what-customers-actually-want-to-know-after-the-job-is-done)[Blog\\
+November 5, 2026](https://www.simprogroup.com/blog/job-cost-codes)[Blog\\
 \\
-Trends\\
+Cash Flow\\
 \\
-**The ServiceTitan Problem: When Your Software IPOs But Your Business Still Can't Close a Quote on Time** \\
+**What Is Retainage in Construction? Caps, Release and Claims** \\
 \\
-October 26, 2026](https://www.simprogroup.com/blog/the-servicetitan-problem)
+November 4, 2026](https://www.simprogroup.com/blog/retainage-in-construction)
 
 ## Browse All Resources
 
@@ -58,6 +58,38 @@ Format
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
+\\
+Business Tips\\
+\\
+**Project vs Service Jobs: Run Both in One System** \\
+\\
+November 6, 2026](https://www.simprogroup.com/blog/project-vs-service-jobs)[Blog\\
+\\
+Business Tips\\
+\\
+**Job Cost Codes for HVAC, Plumbing and Electrical Contractors** \\
+\\
+November 5, 2026](https://www.simprogroup.com/blog/job-cost-codes)[Blog\\
+\\
+Cash Flow\\
+\\
+**What Is Retainage in Construction? Caps, Release and Claims** \\
+\\
+November 4, 2026](https://www.simprogroup.com/blog/retainage-in-construction)[Blog\\
+\\
+Business Tips\\
+\\
+Managing People\\
+\\
+**Best Field Service Scheduling App for Contractors** \\
+\\
+November 3, 2026](https://www.simprogroup.com/blog/best-scheduling-software)[Blog\\
+\\
+Cash Flow\\
+\\
+**Price Discrepancy Report: Catch Supplier Overcharges on Jobs** \\
+\\
+November 3, 2026](https://www.simprogroup.com/blog/price-discrepancy-report)[Blog\\
 \\
 Customer Experience\\
 \\
@@ -81,47 +113,7 @@ Customer Experience\\
 \\
 **Moneyball for the Trades: Why Your Next Million Isn't in Your Marketing Budget — It's in Your Database** \\
 \\
-October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)[Blog\\
-\\
-Business Tips\\
-\\
-Customer Experience\\
-\\
-**Service Level Agreements for Maintenance Contracts** \\
-\\
-October 23, 2026](https://www.simprogroup.com/blog/service-level-agreements-maintenance-contracts)[Blog\\
-\\
-Sales & Marketing\\
-\\
-Customer Experience\\
-\\
-**Maintenance Agreement Renewals for Service Contractors** \\
-\\
-October 22, 2026](https://www.simprogroup.com/blog/maintenance-agreement-renewals)[Blog\\
-\\
-Business Tips\\
-\\
-Sales & Marketing\\
-\\
-**Estimate Close Rate: Benchmarks & How to Improve It** \\
-\\
-October 15, 2026](https://www.simprogroup.com/blog/estimate-close-rate)[Blog\\
-\\
-Business Tips\\
-\\
-Managing People\\
-\\
-**Revenue per Technician: How to Calculate and Improve It** \\
-\\
-October 14, 2026](https://www.simprogroup.com/blog/revenue-per-technician)[Blog\\
-\\
-Business Tips\\
-\\
-Sales & Marketing\\
-\\
-**How to Increase Average Ticket Size Without Upselling** \\
-\\
-October 13, 2026](https://www.simprogroup.com/blog/how-to-increase-average-ticket)
+October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)
 
 There are no results to display.
 
