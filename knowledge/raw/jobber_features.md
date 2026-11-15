@@ -22,18 +22,6 @@ Get your business noticed, streamline your workflow, improve customer satisfacti
 
 ![Watch this video for a quick overview of the Jobber app hosted by Stephen Jobe, owner of Jobe and Sons Plumbing in Tucson, Arizona.](https://www.getjobber.com/wp-content/uploads/2025/11/Jobber-60SecondWalkthrough-Thumbnail-1280x720-1.jpg)
 
-How Jobber Works in 60 Seconds - YouTube
-
-Tap to unmute
-
-[How Jobber Works in 60 Seconds](https://www.youtube.com/watch?v=YuXZvGGe2SE) [Jobber](https://www.youtube.com/channel/UCYMQLrbOUA94BWrlrSJn9yw)
-
-![thumbnail-image](https://yt3.ggpht.com/iEu8K_XgiKUkdWic1HmamElzobM7ERIrqhj696GDLUBrO_SPZfRuxvEEhukX-8V-Z2ZFveeJtYY=s68-c-k-c0x00ffffff-no-rj)
-
-Jobber49.5K subscribers
-
-[Watch on](https://www.youtube.com/watch?v=YuXZvGGe2SE)
-
 400,000+ home service pros trust Jobber
 
 4.8
@@ -1010,12 +998,4 @@ Find more business with ready-to-run email marketing campaigns, postcards, Faceb
   - [Expense Tracking](https://www.getjobber.com/features/job-costing-software/#section_expense-tracking)
   - [Job Profitability Reporting](https://www.getjobber.com/features/job-costing-software/#section_job-profitability-reporting)
 
-reCAPTCHA
-
-Recaptcha requires verification.
-
-protected by **reCAPTCHA**
-
 ![](https://www.googleadservices.com/pagead/conversion/933084093/?label=qoZoCJ3Qt9QDEL339rwD&guid=ON&script=0)
-
-mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1mmMwWLliI0O&1

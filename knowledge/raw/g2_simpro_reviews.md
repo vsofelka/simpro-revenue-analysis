@@ -16,7 +16,7 @@ Simpro
 
 By [Simpro](https://www.g2.com/sellers/simpro-c4e20f44-dd13-4446-a6d1-be0961c8defb)
 
-4.1/5(527)
+4.1/5(528)
 
 ###### 4.1 out of 5 stars
 
@@ -44,7 +44,7 @@ How would you rate your experience with Simpro?
 
 [Start Review](https://www.g2.com/products/simpro/take_survey)
 
-[See all 527 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
+[See all 528 Simpro reviews](https://www.g2.com/products/simpro/reviews#reviews)
 
 AI Verified
 
@@ -103,13 +103,15 @@ Averages based on real user reviews.
 
 ## Simpro Integrations
 
-(39)
+(45)
 
 What do users say about integrations?
 
 Verified by Simpro
 
-[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2a3c6c39bf8b8eb277cfcd42d9bbca1e/asana.png)\\
+[![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d8d487b67574b56a5ad57a2f0f159a30/airtable.jpg)\\
+\\
+Airtable](https://www.g2.com/products/airtable/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_2a3c6c39bf8b8eb277cfcd42d9bbca1e/asana.png)\\
 \\
 Asana](https://www.g2.com/products/asana/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/vendor/image/2035337/large_detail_985e97aa8dc0a05204c3fdb348611c91.png)\\
 \\
@@ -125,9 +127,7 @@ Encircle](https://www.g2.com/products/encircle/reviews) [![Product Avatar Image]
 \\
 EzzyBills](https://www.g2.com/products/ezzybills/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_d46eeb404b71a8d69ce77d8ebcb88b4e/flat-rate-now.png)\\
 \\
-Flat Rate NOW](https://www.g2.com/products/flat-rate-now/reviews) [![Product Avatar Image](https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f9762aab87fa1334bfb33e7db2afd849/groundplan.png)\\
-\\
-Groundplan](https://www.g2.com/products/groundplan/reviews)
+Flat Rate NOW](https://www.g2.com/products/flat-rate-now/reviews)
 
 [Show More Integrations](https://www.g2.com/products/simpro/integrations)
 
@@ -137,27 +137,27 @@ Groundplan](https://www.g2.com/products/groundplan/reviews)
 
 Simpro is purpose-built for field service trades to drive efficiency and profitability. Simpro Lightning uses AI agents, field data and business intelligence to reduce admin, protect margins and scale operations without adding headcount.
 
-[![Simpro Demo - Profit Powered by AI](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg "Profit Powered by AI")
+[![Simpro Demo - Profit Powered by AI](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg)](https://images.g2crowd.com/uploads/attachment/file/185618/SP-Brand-Campaign-Paid-Ads-Google-Damand-1200x1200-2.0-_1_.jpg "Profit Powered by AI")
 
 Simpro is the AI-first operating platform for residential and commercial trades. We simplify complex workflows and help contractors double their profitability with advanced automation across scheduling, quoting, compliance, and field service management. The trades build the world. Simpro builds t...
 
-[![Simpro Demo - Track and Manage Inventory Without the Headache](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png "Track and Manage Inventory Without the Headache")
+[![Simpro Demo - Track and Manage Inventory Without the Headache](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png)](https://images.g2crowd.com/uploads/attachment/file/185619/3-Simpro-Inventory.png "Track and Manage Inventory Without the Headache")
 
 Bring calm to the chaos of managing inventory. Quickly order stock, control inventory and better manage your warehouse.
 
-[![Simpro Demo - Improve Cash Flow](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png "Improve Cash Flow")
+[![Simpro Demo - Improve Cash Flow](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png)](https://images.g2crowd.com/uploads/attachment/file/185620/1-Simpro-Quotes.png "Improve Cash Flow")
 
 Ready to crush the competition? Our Simpro Premium field service project management software and mobile apps can help you not only win more business, but also maximise job profitability.
 
-[![Simpro Demo - Manage Your People](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png "Manage Your People")
+[![Simpro Demo - Manage Your People](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png)](https://images.g2crowd.com/uploads/attachment/file/185621/2-Simpro-Scheduling.png "Manage Your People")
 
 Lean into the power of time-saving automation and digital shortcuts with effective people and resource management, including job scheduling, customer management and simple communication tools.
 
-[![Simpro Demo - One Field Service Mobile App To Improve Efficiency](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)](https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png "One Field Service Mobile App To Improve Efficiency")
+[![Simpro Demo - One Field Service Mobile App To Improve Efficiency](https://images.g2crowd.com/cdn-cgi/image/width=1200,height=1200,fit=scale-down,format=auto,onerror=redirect,/https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png)](https://images.g2crowd.com/uploads/attachment/file/185622/4-Simpro-Mobile.png "One Field Service Mobile App To Improve Efficiency")
 
 Simpro Mobile allows staff to simplify job management in the field. Field staff can access assigned jobs, site history, customer details, job notes and other information needed to complete a job. The information is then communicated to the office in real-time.
 
-![Simpro Lightning Demo  The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Simpro Lightning Demo  The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.](https://i.ytimg.com/vi/w7TEw1HyPMk/maxresdefault.jpg)
 
 Play Simpro Video
 
@@ -165,19 +165,19 @@ Simpro Lightning Demo
 
 The first AI-first operating platform built specifically for field service trade businesses — installed on top of Simpro.
 
-![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.](https://i.vimeocdn.com/video/2010048887-8ffaea40226b7e5d88ce65b9f413004178a6696a99a275ff68da00429d08c89b-d_720?region=us)
 
 Play Simpro Video
 
 Hear from Albert, Founder of Prairie HVAC/R as he shares how Simpro has helped transform their growing mechanical and chiller manufacturing business into a more organized, efficient operation.
 
-![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online](https://www.g2.com/assets/ffffff-68c767501b5ac7a093a8f6741d87dc2c95eb7874a1fc64080e1234aa02f2b418.png)
 
 Play Simpro Video
 
 Running a field service business is demanding — from managing schedules and routes to sending invoices. But chasing payments shouldn’t be part of the job. Simpro Payments makes it easier to collect payments on time, in the field, and online
 
-![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![You deserve technology that works as hard as you do and rewards that match the value of your work. Simpro is the AI-first operating platform built specifically for the way you work , helping you tighten operations, capture every billable do](https://i.ytimg.com/vi/z42z34KzizE/maxresdefault.jpg)
 
 Play Simpro Video
 
@@ -217,23 +217,23 @@ Play Simpro Video
 
 [Editedit](https://my.g2.com/simpro/downloads)
 
-![10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![10 PREDICTIONS FOR THE NEXT DECADE](https://images.g2crowd.com/uploads/attachment/file/1781980/preview_Decade-of-the-trades%282%29.png)
 
 [10 PREDICTIONS FOR THE NEXT DECADE](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1781974/preview_Social-Post-1-_-Operational-Discipline%282%29.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
-![Trades Outlook Report](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![Trades Outlook Report](https://images.g2crowd.com/uploads/attachment/file/1724033/preview_Simpro-Trades-Outlook-Report-2025-F%282%29.png)
 
 [Trades Outlook Report](https://www.g2.com/products/simpro/reviews#)
 
-![Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![Evaluation Criteria for Selecting a Field Service Management Platform](https://images.g2crowd.com/uploads/attachment/file/1724031/preview_RESOURCE-2-Selecting-a-Field-Service-Platform%282%29.png)
 
 [Evaluation Criteria for Selecting a Field Service Management Platform](https://www.g2.com/products/simpro/reviews#)
 
-![The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/assets/vendor-download-file-c4abac575edccd3dd01bc9be5fd3d51f33e4e043f9bb8a3ee8e33f7b32807e4c.png)
+![The Ultimate Guide: How to Implement Field Service Management Software](https://images.g2crowd.com/uploads/attachment/file/1724032/preview_Simpro-hero-asset---V4.png)
 
 [The Ultimate Guide: How to Implement Field Service Management Software](https://www.g2.com/products/simpro/reviews#)
 
@@ -311,21 +311,21 @@ Simpro’s listed AI capabilities span assistance with email, scheduling, alerts
 - **Scheduling and coordination:** Scheduling and calendar management.
 - **Workflow and notifications:** Workflow management, alerts, and notifications.
 
-### Simpro Reviews (527)
+### Simpro Reviews (528)
 
 Reviews
 
-### Simpro Reviews (527)
+### Simpro Reviews (528)
 
 4.1
 
-527 reviews
+528 reviews
 
 [Leave a Review](https://www.g2.com/products/simpro/review_modalities/new) [Leave a Review](https://www.g2.com/login?context=product_review&return_to=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fsimpro%2Freview_modalities%2Fnew)
 
 277
 
-176
+177
 
 46
 
@@ -371,7 +371,7 @@ Company Size
 
 Small Business (50 or fewer emp.) (410)
 
-Mid-Market (51-1000 emp.) (115)
+Mid-Market (51-1000 emp.) (116)
 
 Enterprise ( >1000 emp.) (1)
 
@@ -379,7 +379,7 @@ User Role
 
 User (198)
 
-Administrator (294)
+Administrator (295)
 
 Executive Sponsor (21)
 
@@ -395,7 +395,9 @@ Industry Analyst / Tech Writer (1)
 
 Category
 
-Field Service Management (495)
+Field Service Management (496)
+
+Fleet Management (1)
 
 Construction Estimating (96)
 
@@ -406,6 +408,10 @@ Pest Control (54)
 Cleaning Services (333)
 
 Mobile Forms Automation (172)
+
+Project Cost Management (1)
+
+Asset Tracking (1)
 
 Property Restoration (338)
 
@@ -419,7 +425,7 @@ Takeoff (28)
 
 Industry
 
-Construction (199)
+Construction (200)
 
 Electrical/Electronic Manufacturing (70)
 
@@ -433,7 +439,7 @@ Other (149)
 
 Region
 
-ANZ (235)
+ANZ (236)
 
 Europe (138)
 
@@ -450,7 +456,7 @@ View Results
 
 G2 reviews are authentic and verified.
 
-[Here's how.](https://www.g2.com/products/simpro/reviews#modal-f1e9753723837377a36a)
+[Here's how.](https://www.g2.com/products/simpro/reviews#modal-a58e1b29f5589e546277)
 
 [SW](https://www.g2.com/users/490681dc-9733-4820-b2e2-0d970dfa0c5b)
 
@@ -495,7 +501,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Bradley E.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Bradley E.](https://lh3.googleusercontent.com/a-/ALV-UjUM1_X3GKvP7X_oTDD3sfa1xMcccZwnAp8Pnh_6kwgznbmd2NYxYLball1YYyQ0lVUN2I17Sk20moFgc9q-1ZZWxZ3FFqqGCGrun5O9srDX-kFCXMF2jIvypqCtXqT-5yyGZWvNXy3p9eJVk4Wi2NmHjwHK94OamY2G0ca0TniCB7QJgbjcY4WkDaEV6vjhY37xleg3H1tIyGua3BQn7j3jCqVT69V_wHt6lXJXpPtrlg1Ed0T69KiJHGyoa_pYIyuzjviekek0XZDG4pZp5DRBuH7f7fvvdHQIMSO3T4RsCm5kTTcLV07EPwL8JjUdDHWPKZNACzwMqZLbzsCeizd7jd74SqYeO2IasM3TcRT3pdX5wLuFymGVyLTcrM05iUIC4sFKetStJ0uyEZLoUyOyd8-urzogrxNX6L0Tp8tiCW2eL-1_BYet_2guFM7LIzEcGFha5bYokBUAJIxl5-loYESWAPRBoNla6lxaw1dOYNU7Ew3OHMoTr_nC8YqUXscIAQwcpZlgcz853kiQq09jPJC4zpIcPU-xv7gPjk2OuGWkEgqQ2LRNfpb0iy_ywhKp919ajDz6d5V69dzFqDIJJvnRoCmcKsRxDw7u_yAd-dy9LpNWxLe8kGSEXH2CY80yS8e166UEcbmJhCKF-zoNzRrSVf6jTzpkfUNTOg79rcrYBU5iw7tHXjCDmEiTGc4wS9vMBGzNyTKEUlI8_xfnVaO4qWixvmWfmKxKN5BAiridN5wB4kquKIujfj-vuw-_Imb4vqN9sTLlxu8uDfhvkRlpIsjdU4sbQT6dvK0XNY7SotrFvDoCfmq8amVuwrSne8wSM4-jTxliKVbnCCV1N3x4FYQN6Txh-IG9OWuzZvcfOixRClKHg1B6Ogqgfc7puM1DaX6pMCqTlbVd6W1XBTo16u1r2sfRS0AkM2E3t-IP8cu708nBiEq58Sfyshawmp9p57J4V-qL1dtyvtCxg7YhQz1Wi26WcR72Qe2vRfS_TSzrKJcz6sqbP0Yk2L0JbGVnfAXBAJdLbPKn3AdyTBIe-BOx_7mk79eIKJ5IxNX1HeEgptI=s96-c)\\
 \\
 BE](https://www.g2.com/users/54afacc0-d509-42e4-b5e0-9961d0b34725)
 
@@ -613,7 +619,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Michael E.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Michael E.](https://images.g2crowd.com/uploads/avatar/image/378736/thumb_square_c82a5239072987f02060820b3acd3006.jpeg)\\
 \\
 ME](https://www.g2.com/users/47184ec4-deae-477a-ad49-e0f55682df0c)
 
@@ -666,7 +672,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Mike B.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Mike B.](https://lh3.googleusercontent.com/a/ACg8ocIcXkL5J_klNcHbwIQiGmIzPo1HVlhYkVR7yYjHUrJsw3ms_Q=s96-c)\\
 \\
 MB](https://www.g2.com/users/d11a891c-168a-44bb-9740-0689a7f3fa87)
 
@@ -707,7 +713,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Kon H.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Kon H.](https://lh3.googleusercontent.com/a/ACg8ocJVuoQRFdtesPFSb9j-R8HnYxFkvGH3Qsg-uwiIJJdI_Tuo=s96-c)\\
 \\
 KH](https://www.g2.com/users/f2eac75d-6a0f-473e-b3e6-e8ec6dc52752)
 
@@ -746,7 +752,7 @@ Show More
 
 Current UserValidated ReviewerSource: OrganicAI Translated
 
-[![Larissa F.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Larissa F.](https://lh3.googleusercontent.com/a/ACg8ocJrDxzV9qlR_JmW4jKROp42IPGcxsHhB6eMj-mOBeoMkNKX3oWBaw=s96-c)\\
 \\
 LF](https://www.g2.com/users/badb71d3-373c-43ef-9747-ea2b07013b41)
 
@@ -783,7 +789,7 @@ Show More
 
 Current UserValidated ReviewerSource: Organic
 
-[![Lorraine K.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Lorraine K.](https://media.licdn.com/dms/image/v2/D4E03AQFpalyKBl8uPw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711540723406?e=1789603200&v=beta&t=pqnPs35tuHmwLwgDQsl72nmFpb4Skxh4m6dg_N7CFiU)\\
 \\
 LK](https://www.g2.com/users/71cfdd39-8392-4e5c-80f2-cfc46b28b77e)
 
@@ -900,14 +906,14 @@ Current UserValidated ReviewerSource: Organic
 
 - &lsaquo; Prev‹ Prev
 - 1
-- [2](https://www.g2.com/products/simpro/reviews?page=2&qs=pros-and-cons#reviews)
-- [3](https://www.g2.com/products/simpro/reviews?page=3&qs=pros-and-cons#reviews)
-- [4](https://www.g2.com/products/simpro/reviews?page=4&qs=pros-and-cons#reviews)
-- [5](https://www.g2.com/products/simpro/reviews?page=5&qs=pros-and-cons#reviews)
+- [2](https://www.g2.com/products/simpro/reviews?page=2#reviews)
+- [3](https://www.g2.com/products/simpro/reviews?page=3#reviews)
+- [4](https://www.g2.com/products/simpro/reviews?page=4#reviews)
+- [5](https://www.g2.com/products/simpro/reviews?page=5#reviews)
 - …
-- [9](https://www.g2.com/products/simpro/reviews?page=9&qs=pros-and-cons#reviews)
-- [10](https://www.g2.com/products/simpro/reviews?page=10&qs=pros-and-cons#reviews)
-- [Next &rsaquo;Next ›](https://www.g2.com/products/simpro/reviews?page=2&qs=pros-and-cons#reviews)
+- [9](https://www.g2.com/products/simpro/reviews?page=9#reviews)
+- [10](https://www.g2.com/products/simpro/reviews?page=10#reviews)
+- [Next &rsaquo;Next ›](https://www.g2.com/products/simpro/reviews?page=2#reviews)
 
 ## Questions about Simpro? Ask real users or explore answers from the community
 
@@ -915,25 +921,7 @@ Get practical answers, real workflows, and honest pros and cons from the G2 comm
 
 Ask about Simpro
 
-![Carly R.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
-
-CR
-
-Carly Ross
-
-•
-
-Last activity 5 days ago
-
-How are you using Simpro APIs and BI reporting to fill gaps in built-in reports?
-
-1 Upvote
-
-1
-
-[Join the conversation](https://www.g2.com/discussions/how-are-you-using-simpro-apis-and-bi-reporting-to-fill-gaps-in-built-in-reports)
-
-![Rapid Cold A.](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)
+![Rapid Cold A.](https://lh3.googleusercontent.com/a/ACg8ocIz1CbJK-5O9YaDZN2cVpdpzBHwVW9_Ogb7p0MMF2cDe7onXGgC=s96-c)
 
 RA
 
@@ -941,7 +929,7 @@ Rapid Cold Airconditioning
 
 •
 
-Last activity 4 days ago
+Last activity 9 days ago
 
 How are you getting full-function training and support in Simpro?
 
@@ -950,6 +938,24 @@ How are you getting full-function training and support in Simpro?
 0
 
 [Join the conversation](https://www.g2.com/discussions/how-are-you-getting-full-function-training-and-support-in-simpro)
+
+![Carly R.](https://lh3.googleusercontent.com/a/ACg8ocLMETCNUiS1yyqzX9-DGDSHTotP_Q0WVPTqkw1A4T5Qy54j6A=s96-c)
+
+CR
+
+Carly Ross
+
+•
+
+Last activity 10 days ago
+
+How are you using Simpro APIs and BI reporting to fill gaps in built-in reports?
+
+1 Upvote
+
+1
+
+[Join the conversation](https://www.g2.com/discussions/how-are-you-using-simpro-apis-and-bi-reporting-to-fill-gaps-in-built-in-reports)
 
 [View all Discussions](https://www.g2.com/products/simpro/discuss)
 
@@ -985,7 +991,7 @@ ServiceTitan
 
 Jobber
 
-4.6/5(533)
+4.6/5(543)
 
 [Compare Now](https://www.g2.com/compare/jobber-vs-simpro)
 
@@ -993,7 +999,7 @@ Jobber
 
 FieldPulse
 
-4.7/5(393)
+4.7/5(400)
 
 [Compare Now](https://www.g2.com/compare/fieldpulse-fieldpulse-vs-simpro)
 
@@ -1001,17 +1007,17 @@ FieldPulse
 
 Before the Job
 
+Calendar
+
 Dispatch
 
-Booking
+Roles
 
 On the Job
 
 Location
 
-Employee Communication
-
-Client Notifications
+Field Sales
 
 After the Job
 
@@ -1019,49 +1025,51 @@ Analytics
 
 Billing & Invoicing
 
-Development Tools
+CRM Integrations
 
-Drag-and-drop Form Builder
+Site Management
 
-Integrations
+Field Service Management
+
+Photo and Video Uploads
 
 [View More Features](https://www.g2.com/products/simpro/features)
 
 ## Top-Rated Alternatives
 
-[![Jobber](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![Jobber](https://images.g2crowd.com/uploads/product/hd_favicon/1555603070/jobber.svg)\\
 \\
 Jobber\\
 \\
-4.6/5(533)](https://www.g2.com/products/jobber/reviews)
+4.6/5(543)](https://www.g2.com/products/jobber/reviews)
 
-[![ServiceTitan](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![ServiceTitan](https://images.g2crowd.com/uploads/product/hd_favicon/d12f98194830f8358953c082af7bca3e/servicetitan.svg)\\
 \\
 ServiceTitan\\
 \\
 4.4/5(386)](https://www.g2.com/products/servicetitan/reviews)
 
-[![FieldPulse](https://www.g2.com/assets/transparent-ad5be28fbcd25b7b08d2cebe1d957125437fb5407d75ee717965ad22c8808791.gif)\\
+[![FieldPulse](https://images.g2crowd.com/uploads/product/hd_favicon/2042d283ea3abd7febbaba3f4dbb300e/fieldpulse-fieldpulse.svg)\\
 \\
 FieldPulse\\
 \\
-4.7/5(393)](https://www.g2.com/products/fieldpulse-fieldpulse/reviews)
+4.7/5(400)](https://www.g2.com/products/fieldpulse-fieldpulse/reviews)
 
 [View All Alternatives](https://www.g2.com/products/simpro/competitors/alternatives)
 
 ##### Categories on G2
 
-[Workflow Management](https://www.g2.com/categories/workflow-management) [Business Scheduling](https://www.g2.com/categories/business-scheduling) [Project Management](https://www.g2.com/categories/project-management)
+[Business Scheduling](https://www.g2.com/categories/business-scheduling) [Workflow Management](https://www.g2.com/categories/workflow-management) [Project Management](https://www.g2.com/categories/project-management)
 
-[Mobile Forms Automation](https://www.g2.com/categories/mobile-forms-automation) [Business Process Management](https://www.g2.com/categories/business-process-management) [Contractor Management](https://www.g2.com/categories/contractor-management) [ERP Systems](https://www.g2.com/categories/erp-systems) [Field Service Management](https://www.g2.com/categories/field-service-management) [Payment Processing](https://www.g2.com/categories/payment-processing) [Inventory Control](https://www.g2.com/categories/inventory-control-software) [CMMS](https://www.g2.com/categories/cmms) [Asset Tracking](https://www.g2.com/categories/asset-tracking) [Project Cost Management](https://www.g2.com/categories/project-cost-management) [Construction CRM](https://www.g2.com/categories/construction-crm) [Construction Project Management](https://www.g2.com/categories/construction-project-management) [Construction Estimating](https://www.g2.com/categories/construction-estimating-software) [Integrated Workplace Management Systems (IWMS)](https://www.g2.com/categories/integrated-workplace-management-systems-iwms) [Fleet Maintenance](https://www.g2.com/categories/fleet-maintenance) [Fleet Management](https://www.g2.com/categories/fleet-management) [Facility Management](https://www.g2.com/categories/facility-management) [Takeoff](https://www.g2.com/categories/takeoff) [HVAC](https://www.g2.com/categories/hvac) [GIS](https://www.g2.com/categories/gis) [Predictive Maintenance](https://www.g2.com/categories/predictive-maintenance) [Roofing](https://www.g2.com/categories/roofing-software) [Cleaning Services](https://www.g2.com/categories/cleaning-services) [Landscape Design](https://www.g2.com/categories/landscape-design) [Pest Control](https://www.g2.com/categories/pest-control-software) [Property Restoration](https://www.g2.com/categories/property-restoration)
+[Contractor Management](https://www.g2.com/categories/contractor-management) [Mobile Forms Automation](https://www.g2.com/categories/mobile-forms-automation) [Field Service Management](https://www.g2.com/categories/field-service-management) [Payment Processing](https://www.g2.com/categories/payment-processing) [Asset Tracking](https://www.g2.com/categories/asset-tracking) [Business Process Management](https://www.g2.com/categories/business-process-management) [ERP Systems](https://www.g2.com/categories/erp-systems) [Project Cost Management](https://www.g2.com/categories/project-cost-management) [Inventory Control](https://www.g2.com/categories/inventory-control-software) [Construction Project Management](https://www.g2.com/categories/construction-project-management) [Construction CRM](https://www.g2.com/categories/construction-crm) [Fleet Maintenance](https://www.g2.com/categories/fleet-maintenance) [Fleet Management](https://www.g2.com/categories/fleet-management) [Construction Estimating](https://www.g2.com/categories/construction-estimating-software) [Takeoff](https://www.g2.com/categories/takeoff) [CMMS](https://www.g2.com/categories/cmms) [Facility Management](https://www.g2.com/categories/facility-management) [GIS](https://www.g2.com/categories/gis) [Predictive Maintenance](https://www.g2.com/categories/predictive-maintenance) [HVAC](https://www.g2.com/categories/hvac) [Cleaning Services](https://www.g2.com/categories/cleaning-services) [Roofing](https://www.g2.com/categories/roofing-software) [Landscape Design](https://www.g2.com/categories/landscape-design) [Pest Control](https://www.g2.com/categories/pest-control-software) [Integrated Workplace Management Systems (IWMS)](https://www.g2.com/categories/integrated-workplace-management-systems-iwms) [Property Restoration](https://www.g2.com/categories/property-restoration)
 
 Show MoreShow Less
 
 ##### Explore More
 
-[What's actually the difference between a Q&A platform and a regular community forum, and does it matter for cutting support volume?](https://www.g2.com/discussions/what-s-actually-the-difference-between-a-q-a-platform-and-a-regular-community-forum-and-does-it-matter-for-cutting-support-volume) [Best Patch Management Solutions for Infrastructure and Security Teams Managing Continuous Critical Updates](https://www.g2.com/discussions/best-patch-management-solutions-for-infrastructure-and-security-teams-managing-continuous-critical-updates) [What is the highest rated Vendor Management software for teams automating compliance tracking and vendor risk assessment workflows?](https://www.g2.com/discussions/what-is-the-highest-rated-vendor-management-software-for-teams-automating-compliance-tracking-and-vendor-risk-assessment-workflows)
+[Is a dedicated paid search intelligence tool worth it for an in-house PPC team?](https://www.g2.com/discussions/is-a-dedicated-paid-search-intelligence-tool-worth-it-for-an-in-house-ppc-team) [Which purchasing platforms hold up well under high-volume enterprise workloads without slowing down approval workflows?](https://www.g2.com/discussions/which-purchasing-platforms-hold-up-well-under-high-volume-enterprise-workloads-without-slowing-down-approval-workflows) [What platform integrates screen capture with cloud storage?](https://www.g2.com/discussions/what-platform-integrates-screen-capture-with-cloud-storage)
 
-[best ecommerce fraud protection software](https://www.g2.com/discussions/best-e-commerce-fraud-protection-software-in-2025) [Best platforms for collaborative event planning](https://www.g2.com/discussions/best-platforms-for-collaborative-event-planning) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
+[What is the most affordable location intelligence solution for SMBs?](https://www.g2.com/discussions/what-is-the-most-affordable-location-intelligence-solution-for-smbs) [Top platforms for automating event workflows](https://www.g2.com/discussions/top-platforms-for-automating-event-workflows) [Pros and Cons Details](https://www.g2.com/products/simpro/reviews?qs=pros-and-cons)
 
 Show MoreShow Less
 
@@ -1071,7 +1079,7 @@ Schedule a Personal Demo
 
 Simpro
 
-4.1/5(527)
+4.1/5(528)
 
 Schedule a Personal Demo
 

@@ -23,25 +23,27 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
-Business Tips\\
+Cash Flow\\
 \\
-**Project vs Service Jobs: Run Both in One System** \\
+**Markup vs Margin for Field Service Contractors: Formulas, Chart and Pricing** \\
 \\
-November 6, 2026](https://www.simprogroup.com/blog/project-vs-service-jobs)
+November 11, 2026](https://www.simprogroup.com/blog/understanding-gross-profit-and-mark-up)
 
 [Blog\\
-\\
-Business Tips\\
-\\
-**Job Cost Codes for HVAC, Plumbing and Electrical Contractors** \\
-\\
-November 5, 2026](https://www.simprogroup.com/blog/job-cost-codes)[Blog\\
 \\
 Cash Flow\\
 \\
 **What Is Retainage in Construction? Caps, Release and Claims** \\
 \\
-November 4, 2026](https://www.simprogroup.com/blog/retainage-in-construction)
+November 4, 2026](https://www.simprogroup.com/blog/retainage-in-construction)[Blog\\
+\\
+Business Tips\\
+\\
+Managing People\\
+\\
+**Best Field Service Scheduling App for Contractors** \\
+\\
+November 3, 2026](https://www.simprogroup.com/blog/best-scheduling-software)
 
 ## Browse All Resources
 
@@ -59,17 +61,11 @@ AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
 \\
-Business Tips\\
+Cash Flow\\
 \\
-**Project vs Service Jobs: Run Both in One System** \\
+**Markup vs Margin for Field Service Contractors: Formulas, Chart and Pricing** \\
 \\
-November 6, 2026](https://www.simprogroup.com/blog/project-vs-service-jobs)[Blog\\
-\\
-Business Tips\\
-\\
-**Job Cost Codes for HVAC, Plumbing and Electrical Contractors** \\
-\\
-November 5, 2026](https://www.simprogroup.com/blog/job-cost-codes)[Blog\\
+November 11, 2026](https://www.simprogroup.com/blog/understanding-gross-profit-and-mark-up)[Blog\\
 \\
 Cash Flow\\
 \\
@@ -113,7 +109,15 @@ Customer Experience\\
 \\
 **Moneyball for the Trades: Why Your Next Million Isn't in Your Marketing Budget — It's in Your Database** \\
 \\
-October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)
+October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)[Blog\\
+\\
+Business Tips\\
+\\
+Customer Experience\\
+\\
+**Service Level Agreements for Maintenance Contracts** \\
+\\
+October 23, 2026](https://www.simprogroup.com/blog/service-level-agreements-maintenance-contracts)
 
 There are no results to display.
 
