@@ -23,27 +23,23 @@ Fire Protection](https://www.simprogroup.com/blog/fire-protection)
 
 [Blog\\
 \\
-Cash Flow\\
+Trends\\
 \\
-**Markup vs Margin for Field Service Contractors: Formulas, Chart and Pricing** \\
+**Upgrade Your Workflow with the Best Apps for Tradesmen (+ Compared!)** \\
 \\
-November 11, 2026](https://www.simprogroup.com/blog/understanding-gross-profit-and-mark-up)
+November 19, 2026](https://www.simprogroup.com/blog/best-apps-for-tradesmen)
 
 [Blog\\
 \\
-Cash Flow\\
+**Best AI Office Assistant for Field Service: AI Office Admin Tools Compared (2026)** \\
 \\
-**What Is Retainage in Construction? Caps, Release and Claims** \\
-\\
-November 4, 2026](https://www.simprogroup.com/blog/retainage-in-construction)[Blog\\
+November 19, 2026](https://www.simprogroup.com/blog/best-ai-office-assistant-field-service)[Blog\\
 \\
 Business Tips\\
 \\
-Managing People\\
+**Field Service Management Software for Small Business** \\
 \\
-**Best Field Service Scheduling App for Contractors** \\
-\\
-November 3, 2026](https://www.simprogroup.com/blog/best-scheduling-software)
+November 18, 2026](https://www.simprogroup.com/blog/field-service-management-software-for-small-business)
 
 ## Browse All Resources
 
@@ -60,6 +56,26 @@ Format
 AllBlogsCase StudiesEbooksNewsProduct UpdatesVideosGuidesProduct Tours
 
 [Blog\\
+\\
+Trends\\
+\\
+**Upgrade Your Workflow with the Best Apps for Tradesmen (+ Compared!)** \\
+\\
+November 19, 2026](https://www.simprogroup.com/blog/best-apps-for-tradesmen)[Blog\\
+\\
+**Best AI Office Assistant for Field Service: AI Office Admin Tools Compared (2026)** \\
+\\
+November 19, 2026](https://www.simprogroup.com/blog/best-ai-office-assistant-field-service)[Blog\\
+\\
+Business Tips\\
+\\
+**Field Service Management Software for Small Business** \\
+\\
+November 18, 2026](https://www.simprogroup.com/blog/field-service-management-software-for-small-business)[Blog\\
+\\
+**Introducing JustDo: Tell Simpro What Needs Doing, and Stop Typing Out Every Job** \\
+\\
+November 17, 2026](https://www.simprogroup.com/blog/manual-data-entry-rekeying-jobs-field-service)[Blog\\
 \\
 Cash Flow\\
 \\
@@ -91,33 +107,7 @@ Customer Experience\\
 \\
 **Never Miss Another After-Hours Call: Meet Pulse, the AI Customer Service Agent Built Inside Simpro** \\
 \\
-October 28, 2026](https://www.simprogroup.com/blog/pulse-ai-customer-service-agent)[Blog\\
-\\
-Customer Experience\\
-\\
-**Job Completion Report: What to Tell Clients after the Job** \\
-\\
-October 27, 2026](https://www.simprogroup.com/blog/what-customers-actually-want-to-know-after-the-job-is-done)[Blog\\
-\\
-Trends\\
-\\
-**The ServiceTitan Problem: When Your Software IPOs But Your Business Still Can't Close a Quote on Time** \\
-\\
-October 26, 2026](https://www.simprogroup.com/blog/the-servicetitan-problem)[Blog\\
-\\
-Customer Experience\\
-\\
-**Moneyball for the Trades: Why Your Next Million Isn't in Your Marketing Budget — It's in Your Database** \\
-\\
-October 26, 2026](https://www.simprogroup.com/blog/moneyball-for-the-trades)[Blog\\
-\\
-Business Tips\\
-\\
-Customer Experience\\
-\\
-**Service Level Agreements for Maintenance Contracts** \\
-\\
-October 23, 2026](https://www.simprogroup.com/blog/service-level-agreements-maintenance-contracts)
+October 28, 2026](https://www.simprogroup.com/blog/pulse-ai-customer-service-agent)
 
 There are no results to display.
 

@@ -18,17 +18,17 @@ improvement in field technician productivity
 
 stop animationstop
 
-slide 181 to 186 of 91
+slide 183 to 188 of 92
+
+[**NB Trades and Services**\\
+\\
+“We re-engaged with 1,500+ of our customers in our first month with Delight, and received quote inquiries and sales from customers who’d been disengaged with us for up to three years.”](https://www.simprogroup.com/case-studies/nb-trades-and-services)
 
 [**Dutchman Window & Cleaning**\\
 \\
-“In just eight months, Delight has helped generate 419 jobs and over $230,000 in revenue—simply by keeping us in front of customers who already know us.”](https://www.simprogroup.com/case-studies/dutchman)
-
-[**Hub Property Care**\\
+“In just eight months, Delight has helped generate 419 jobs and over $230,000 in revenue—simply by keeping us in front of customers who already know us.”](https://www.simprogroup.com/case-studies/dutchman) [**Hub Property Care**\\
 \\
-“We’ve sent hundreds of personalized emails without writing a single one ourselves. Delight is turning dormant customers in our Simpro database into real jobs.”](https://www.simprogroup.com/case-studies/hub-property-care) [**Vegreville Plumbing & Heating Ltd**\\
-\\
-“By re-engaging customers already in our system, we generated a 33.1× return on investment and unlocked an additional 15% in Delight-driven revenue without adding headcount.”](https://www.simprogroup.com/case-studies/vegreville-plumbing-and-heating-ltd)
+“We’ve sent hundreds of personalised emails without writing a single one ourselves. Delight is turning dormant customers in our Simpro database into real jobs.”](https://www.simprogroup.com/case-studies/hub-property-care)
 
 ## Learn from our customers
 
@@ -41,6 +41,10 @@ ElectricalPlumbingHVACSecurityFire Protection
 ###### Country
 
 AustraliaCanadaIrelandNew ZealandUnited KingdomUnited States
+
+[**NB Trades and Services**\\
+\\
+“We re-engaged with 1,500+ of our customers in our first month with Delight, and received quote inquiries and sales from customers who’d been disengaged with us for up to three years.”](https://www.simprogroup.com/case-studies/nb-trades-and-services)
 
 [**Dutchman Window & Cleaning**\\
 \\
@@ -71,10 +75,6 @@ AustraliaCanadaIrelandNew ZealandUnited KingdomUnited States
 [**Cinos**\\
 \\
 “Simpro has given us full financial visibility, faster quoting, and streamlined operations. Our project managers can now handle 50% more work, and we're seeing 10 to 15% higher profit margins on project delivery.”](https://www.simprogroup.com/case-studies/cinos)
-
-[**Mekhane Roofing** \\
-\\
-In this video, Josiah (Joss), General Manager at Mekhane Roofing, shares how Simpro field service management software has transformed their business by improving profitability, boosting transparency, and empowering teams to take ownership of their work.](https://www.simprogroup.com/resources/videos/mekhane-roofing)
 
 There are no results to display.
 
